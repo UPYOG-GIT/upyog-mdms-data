@@ -1,10 +1,10 @@
 {
-  "tenantId": "cg",
+  "tenantId": "pg",
   "moduleName": "common-masters",
   "StateInfo": [
     {
       "name": "Demo",
-      "code": "cg",
+      "code": "pg",
       "bannerUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/banner.png",
       "logoUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/logo.png",
       "logoUrlWhite": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/logo.png",
