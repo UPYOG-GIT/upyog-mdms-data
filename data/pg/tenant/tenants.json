@@ -2,7 +2,7 @@
   "tenantId": "pg",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pg.citya",
+      "code": "pg.raipur",
       "name": "City A",
       "description": "City A",
       "pincode": [143001,143002,143003,143004,143005],
@@ -21,7 +21,7 @@
         "localName": null,
         "districtCode": "CITYA",
         "districtName": null,
-        "districtTenantCode": "pg.citya",
+        "districtTenantCode": "pg.raipur",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
