@@ -228,19 +228,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "cg.citya"
+          "code": "pg.citya"
         },
         {
-          "code": "cg.cityb"
+          "code": "pg.cityb"
         },
         {
-          "code": "cg.cityc"
+          "code": "pg.cityc"
         },
         {
-          "code": "cg.cityd"
+          "code": "pg.cityd"
         },
         {
-          "code": "cg.citye"
+          "code": "pg.citye"
         }
       ]
     },
@@ -435,19 +435,19 @@
       "order":3,
       "tenants": [
         {
-          "code": "cg.citya"
+          "code": "pg.citya"
         },
         {
-          "code": "cg.cityb"
+          "code": "pg.cityb"
         },
         {
-          "code": "cg.cityc"
+          "code": "pg.cityc"
         },
         {
-          "code": "cg.cityd"
+          "code": "pg.cityd"
         },
         {
-          "code": "cg.citye"
+          "code": "pg.citye"
         }
       ]
     },
