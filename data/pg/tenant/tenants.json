@@ -3,12 +3,12 @@
   "moduleName": "tenant",
   "tenants": [{
       "code": "pg.raipur",
-      "name": "City A",
-      "description": "City A",
+      "name": "Raipur",
+      "description": "Raipur",
       "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
-      "domainUrl": "https://www.egovernments.org",
+      "domainUrl": "https://www.niwaspass.com",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
@@ -17,9 +17,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "City A",
+        "name": "Raipur",
         "localName": null,
-        "districtCode": "CITYA",
+        "districtCode": "RAIPUR",
         "districtName": null,
         "districtTenantCode": "pg.raipur",
         "regionName": null,
@@ -35,13 +35,13 @@
       "contactNumber": "001-2345876"
     },
     {
-      "code": "pg.cityb",
-      "name": "City B",
+      "code": "pg.bilaspur",
+      "name": "Bilaspur",
       "description": null,
       "pincode": [143006,143007,143008,143009,143010],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
-      "domainUrl": "https://www.egovernments.org",
+      "domainUrl": "https://www.niwaspass.com",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
@@ -51,11 +51,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City B",
+        "name": "Bilaspur",
         "localName": null,
-        "districtCode": "CITYB",
+        "districtCode": "BILASPUR",
         "districtName": null,
-        "districtTenantCode": "pg.cityb",
+        "districtTenantCode": "pg.bilaspur",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,
@@ -65,17 +65,17 @@
         "code": "107",
         "ddrName": "DDR B"
       },
-      "address": "City B Municipal Corporation Address",
+      "address": "Bilaspur Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.cityc",
-      "name": "City C",
+      "code": "pg.birgaon",
+      "name": "Birgaon",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
-      "domainUrl": "https://www.egovernments.org",
+      "domainUrl": "https://www.niwaspass.com",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
@@ -85,11 +85,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City C",
+        "name": "Birgaon",
         "localName": null,
         "districtCode": "CITYC",
         "districtName": null,
-        "districtTenantCode": "pg.cityc",
+        "districtTenantCode": "pg.birgaon",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 73.8722642,
@@ -104,8 +104,8 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.cityd",
-      "name": "City D",
+      "code": "pg.durg",
+      "name": "Durg",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -119,11 +119,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City D",
+        "name": "Durg",
         "localName": null,
-        "districtCode": "CITYD",
+        "districtCode": "DURG",
         "districtName": null,
-        "districtTenantCode": "pg.cityd",
+        "districtTenantCode": "pg.durg",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.8722642,
@@ -138,12 +138,12 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.citye",
-      "name": "City E",
+      "code": "pg.rajnandgaon",
+      "name": "Rajnandgaon",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
-      "domainUrl": "https://www.egovernments.org",
+      "domainUrl": "https://www.niwaspass.com",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
@@ -153,11 +153,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City E",
+        "name": "Rajnandgaon",
         "localName": null,
-        "districtCode": "CITYE",
+        "districtCode": "RAJNANDGAON",
         "districtName": null,
-        "districtTenantCode": "pg.citye",
+        "districtTenantCode": "pg.Rajnandgaon",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 76.8722642,
