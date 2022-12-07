@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.cityb",
+  "tenantId": "cg.cityb",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.cityb",
+        "code": "cg.cityb",
         "children":[
           {
             "id": 2,
@@ -621,7 +621,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.cityb",
+        "code": "cg.cityb",
         "children":[
           {
             "id": 2,

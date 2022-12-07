@@ -1,30 +1,30 @@
 {
-  "tenantId": "pg",
+  "tenantId": "cg",
   "moduleName": "firenoc",
   "FireStations": [
     {
       "code": "FS_CITYA_01",
-      "baseTenantId": "pg.citya",
+      "baseTenantId": "cg.citya",
       "active": true
     },
     {
       "code": "FS_CITYB_01",
-      "baseTenantId": "pg.cityb",
+      "baseTenantId": "cg.cityb",
       "active": true
     },
     {
       "code": "FS_CITYC_01",
-      "baseTenantId": "pg.cityc",
+      "baseTenantId": "cg.cityc",
       "active": true
     },
     {
       "code": "FS_CITYD_01",
-      "baseTenantId": "pg.cityd",
+      "baseTenantId": "cg.cityd",
       "active": true
     },
     {
       "code": "FS_CITYE_01",
-      "baseTenantId": "pg.citye",
+      "baseTenantId": "cg.citye",
       "active": true
     }
   ]
