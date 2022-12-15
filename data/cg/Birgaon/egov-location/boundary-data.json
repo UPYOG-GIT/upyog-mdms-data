@@ -1,5 +1,5 @@
 {
-  "tenantId": "cg.cityb",
+  "tenantId": "cg.birgaon",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "cg.cityb",
+        "code": "cg.birgaon",
         "children":[
           {
             "id": 2,
@@ -621,7 +621,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "cg.cityb",
+        "code": "cg.birgaon",
         "children":[
           {
             "id": 2,

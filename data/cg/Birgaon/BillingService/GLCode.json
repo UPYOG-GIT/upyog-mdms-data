@@ -1,16 +1,16 @@
 {
-    "tenantId": "cg.cityb",
+    "tenantId": "cg.birgaon",
     "moduleName": "BillingService",
     "GLCode": [
         {
             "code": "BIRTH_CERT",
             "glcode": null,
-            "cb": "cg.cityb"
+            "cb": "cg.birgaon"
         },
         {
             "code": "DEATH_CERT",
             "glcode": null,
-            "cb": "cg.cityb"
+            "cb": "cg.birgaon"
         }
     ]
 }
