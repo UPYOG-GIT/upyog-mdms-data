@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "cg.citya",
-      "districtCode": "CITYA",
+      "code": "cg.raipur",
+      "districtCode": "RAIPUR",
       "population": "156716",
       "malePopulation": "82045",
       "femalePopultion": "74671",
@@ -13,8 +13,8 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "cg.cityb",
-      "districtCode": "CITYB",
+      "code": "cg.birgaon",
+      "districtCode": "BIRGAON",
       "population": "116449",
       "malePopulation": "62554",
       "femalePopultion": "53895",
@@ -24,8 +24,8 @@
     },
   
     {
-      "code": "cg.cityc",
-      "districtCode": "CITYC",
+      "code": "cg.bilaspur",
+      "districtCode": "BILASPUR",
       "population": "17331",
       "malePopulation": "10521",
       "femalePopultion": "6810",
@@ -34,8 +34,8 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "cg.cityd",
-      "districtCode": "CITYD",
+      "code": "cg.rajnandgaon",
+      "districtCode": "RAJNANDGAON",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
@@ -44,8 +44,8 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "cg.citye",
-      "districtCode": "CITYE",
+      "code": "cg.durg",
+      "districtCode": "DURG",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
