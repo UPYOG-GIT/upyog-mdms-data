@@ -14025,6 +14025,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 1924,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1930,
       "actioncode": "",
