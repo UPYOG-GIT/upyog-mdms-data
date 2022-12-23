@@ -227,20 +227,20 @@
       "active": true,
       "order":2,
       "tenants": [
-        {
-          "code": "cg.citya"
+         {
+          "code": "cg.raipur"
         },
         {
-          "code": "cg.cityb"
+          "code": "cg.birgaon"
         },
         {
-          "code": "cg.cityc"
+          "code": "cg.bilaspur"
         },
         {
-          "code": "cg.cityd"
+          "code": "cg.rajnandgaon"
         },
         {
-          "code": "cg.citye"
+          "code": "cg.durg"
         }
       ]
     },
