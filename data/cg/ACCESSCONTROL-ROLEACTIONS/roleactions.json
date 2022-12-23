@@ -12363,6 +12363,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1832,
       "actioncode": "",
