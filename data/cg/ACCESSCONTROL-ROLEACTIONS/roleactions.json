@@ -13179,6 +13179,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 1877,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "BPAREG_DOC_VERIFIER",
       "actionid": 1931,
       "actioncode": "",
