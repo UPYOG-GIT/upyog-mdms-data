@@ -11000,6 +11000,12 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+     {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 1730,
