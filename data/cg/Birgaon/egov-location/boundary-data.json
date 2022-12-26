@@ -73,7 +73,7 @@
 										"latitude": 21.314295,
 										"label": "Locality",
 										"code": "BR02",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area1",
 										"children": []
 									}
@@ -98,7 +98,7 @@
 										"latitude": 21.313372,
 										"label": "Locality",
 										"code": "BR03",
-										"pincode": 492003,
+										"pincode":[492003],
 										"area": "Area1",
 										"children": []
 									}
@@ -123,7 +123,7 @@
 										"latitude": 21.313442,
 										"label": "Locality",
 										"code": "BR04",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area1",
 										"children": []
 									}
@@ -148,7 +148,7 @@
 										"latitude": 21.311283,
 										"label": "Locality",
 										"code": "BR05",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area2",
 										"children": []
 									}
@@ -173,7 +173,7 @@
 										"latitude": 21.313094,
 										"label": "Locality",
 										"code": "BR06",
-										"pincode": 492003,
+										"pincode":[492003],
 										"area": "Area2",
 										"children": []
 									}
@@ -198,7 +198,7 @@
 										"latitude": 21.317877,
 										"label": "Locality",
 										"code": "BR07",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area2",
 										"children": []
 									}
@@ -223,7 +223,7 @@
 										"latitude": 21.314828,
 										"label": "Locality",
 										"code": "BR08",
-										"pincode": 492003,
+										"pincode":[492003],
 										"area": "Area2",
 										"children": []
 									}
@@ -248,7 +248,7 @@
 										"latitude": 21.315557,
 										"label": "Locality",
 										"code": "BR09",
-										"pincode": 493221,
+										"pincode":[493221],
 										"area": "Area2",
 										"children": []
 									}
@@ -273,7 +273,7 @@
 										"latitude": 21.317108,
 										"label": "Locality",
 										"code": "BR10",
-										"pincode": 493221,
+										"pincode":[493221],
 										"area": "Area2",
 										"children": []
 									}
@@ -298,7 +298,7 @@
 										"latitude": 21.322014,
 										"label": "Locality",
 										"code": "BR11",
-										"pincode": 493221,
+										"pincode":[493221],
 										"area": "Area2",
 										"children": []
 									}
@@ -323,7 +323,7 @@
 										"latitude": 21.326021,
 										"label": "Locality",
 										"code": "BR12",
-										"pincode": 493221,
+										"pincode":[493221],
 										"area": "Area2",
 										"children": []
 									}
@@ -348,7 +348,7 @@
 										"latitude": 21.315708,
 										"label": "Locality",
 										"code": "BR13",
-										"pincode": 493221,
+										"pincode":[493221],
 										"area": "Area2",
 										"children": []
 									}
@@ -373,7 +373,7 @@
 										"latitude": 21.330998,
 										"label": "Locality",
 										"code": "BR14",
-										"pincode": 493221,
+										"pincode":[493221],
 										"area": "Area2",
 										"children": []
 									}
@@ -398,7 +398,7 @@
 										"latitude": 21.324011,
 										"label": "Locality",
 										"code": "BR15",
-										"pincode": 493221,
+										"pincode":[493221],
 										"area": "Area2",
 										"children": []
 									}
@@ -423,7 +423,7 @@
 										"latitude": 21.307899,
 										"label": "Locality",
 										"code": "BR16",
-										"pincode": 493221,
+										"pincode":[493221],
 										"area": "Area2",
 										"children": []
 									}
@@ -448,7 +448,7 @@
 										"latitude": 21.306245,
 										"label": "Locality",
 										"code": "BR17",
-										"pincode": 493221,
+										"pincode": [493221],
 										"area": "Area2",
 										"children": []
 									}
@@ -473,7 +473,7 @@
 										"latitude": 21.304367,
 										"label": "Locality",
 										"code": "BR18",
-										"pincode": 493221,
+										"pincode": [493221],
 										"area": "Area2",
 										"children": []
 									}
@@ -498,7 +498,7 @@
 										"latitude": 21.308641,
 										"label": "Locality",
 										"code": "BR19",
-										"pincode": 493221,
+										"pincode": [493221],
 										"area": "Area2",
 										"children": []
 									}
@@ -523,7 +523,7 @@
 										"latitude": 21.311668,
 										"label": "Locality",
 										"code": "BR20",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area2",
 										"children": []
 									}
@@ -548,7 +548,7 @@
 										"latitude": 21.311937,
 										"label": "Locality",
 										"code": "BR21",
-										"pincode": 492003,
+										"pincode":[492003],
 										"area": "Area2",
 										"children": []
 									}
@@ -573,7 +573,7 @@
 										"latitude": 21.309986,
 										"label": "Locality",
 										"code": "BR22",
-										"pincode": 492003,
+										"pincode":[492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -598,7 +598,7 @@
 										"latitude": 21.308062,
 										"label": "Locality",
 										"code": "BR23",
-										"pincode": 492003,
+										"pincode":[492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -623,7 +623,7 @@
 										"latitude": 21.307359,
 										"label": "Locality",
 										"code": "BR24",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -648,7 +648,7 @@
 										"latitude": 21.30686,
 										"label": "Locality",
 										"code": "BR25",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -673,7 +673,7 @@
 										"latitude": 21.308908,
 										"label": "Locality",
 										"code": "BR26",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -698,7 +698,7 @@
 										"latitude": 21.308886,
 										"label": "Locality",
 										"code": "BR27",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -723,7 +723,7 @@
 										"latitude": 21.304218,
 										"label": "Locality",
 										"code": "BR28",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -748,7 +748,7 @@
 										"latitude": 21.305545,
 										"label": "Locality",
 										"code": "BR29",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -773,7 +773,7 @@
 										"latitude": 21.303241,
 										"label": "Locality",
 										"code": "BR30",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -798,7 +798,7 @@
 										"latitude": 21.305494,
 										"label": "Locality",
 										"code": "BR31",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -823,7 +823,7 @@
 										"latitude": 21.302123,
 										"label": "Locality",
 										"code": "BR32",
-										"pincode": 492003,
+										"pincode":[492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -848,7 +848,7 @@
 										"latitude": 21.306074,
 										"label": "Locality",
 										"code": "BR33",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -873,7 +873,7 @@
 										"latitude": 21.305959,
 										"label": "Locality",
 										"code": "BR34",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -898,7 +898,7 @@
 										"latitude": 21.300114,
 										"label": "Locality",
 										"code": "BR35",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -923,7 +923,7 @@
 										"latitude": 21.302085,
 										"label": "Locality",
 										"code": "BR36",
-										"pincode": 492003,
+										"pincode": [492003],
 										"area": "Area3",
 										"children": []
 									}
@@ -948,7 +948,7 @@
 										"latitude": 21.287605,
 										"label": "Locality",
 										"code": "BR37",
-										"pincode": 493221,
+										"pincode": [493221],
 										"area": "Area3",
 										"children": []
 									}
@@ -973,7 +973,7 @@
 										"latitude": 21.290094,
 										"label": "Locality",
 										"code": "BR38",
-										"pincode": 493221,
+										"pincode": [493221],
 										"area": "Area3",
 										"children": []
 									}
@@ -998,7 +998,7 @@
 										"latitude": 21.287664,
 										"label": "Locality",
 										"code": "BR39",
-										"pincode": 493221,
+										"pincode": [493221],
 										"area": "Area3",
 										"children": []
 									}
@@ -1023,7 +1023,7 @@
 										"latitude": 21.283537,
 										"label": "Locality",
 										"code": "BR40",
-										"pincode": 493221,
+										"pincode": [493221],
 										"area": "Area1",
 										"children": []
 									}
