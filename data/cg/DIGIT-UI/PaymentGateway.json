@@ -9,6 +9,10 @@
         {
             "gateway": "PAYGOV",
             "active": true
+        },
+        {
+            "gateway": "PAYU",
+            "active": true
         }
     ]
 }
