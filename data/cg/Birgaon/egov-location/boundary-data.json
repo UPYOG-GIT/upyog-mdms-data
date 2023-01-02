@@ -25,7 +25,7 @@
 						"longitude": 81.6097,
 						"latitude": 21.3104,
 						"label": "Zone",
-						"code": "JZN1",
+						"code": "BRZ1",
 						"children": [
 							{
 								"id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
@@ -1057,7 +1057,7 @@
 						"longitude": 81.6097,
 						"latitude": 21.3104,
 						"label": "Zone",
-						"code": "JZN1",
+						"code": "BRZ1",
 						"children": [
 							{
 								"id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
