@@ -63,7 +63,7 @@
          "colorCode":2
       },
       {
-         "name":"Row housing",
+         "name":"Row Housing",
          "code":"A-RH",
          "active":true,
          "occupancyType":"A",
@@ -75,7 +75,7 @@
          "colorCode":2
       },
        {
-         "name":"workcum-residential",
+         "name":"Workcum-Residential",
          "code":"A-WR",
          "active":true,
          "occupancyType":"A",
@@ -375,7 +375,7 @@
          "colorCode":null
       },
       {
-         "name":"Dispensary for pe animals and birds.",
+         "name":"Dispensary for pet animals and birds.",
          "code":"C-DPAB",
          "active":true,
          "occupancyType":"C",
@@ -423,7 +423,7 @@
          "colorCode":null
       },
       {
-         "name":"Super specialty medical facilities/hospitals",
+         "name":"Super Specialty Medical Facilities/Hospitals",
          "code":"C-SSMFH",
          "active":true,
          "occupancyType":"C",
@@ -471,7 +471,7 @@
          "colorCode":null
       },
       {
-         "name":"Theatre building",
+         "name":"Theatre Building",
          "code":"D-TB",
          "active":true,
          "occupancyType":"D",
@@ -483,7 +483,7 @@
          "colorCode":null
       },
       {
-         "name":"auditoria buildings",
+         "name":"Auditoria Buildings",
          "code":"D-AB",
          "active":true,
          "occupancyType":"D",
@@ -555,7 +555,7 @@
          "colorCode":null
       },
       {
-         "name":"Places of congregation",
+         "name":"Places Of Congregation",
          "code":"D-PC",
          "active":true,
          "occupancyType":"D",
@@ -567,7 +567,7 @@
          "colorCode":null
       },
       {
-         "name":"Place of workship",
+         "name":"Place Of Workship",
          "code":"D-PW",
          "active":true,
          "occupancyType":"D",
@@ -591,7 +591,7 @@
          "colorCode":null
       },
       {
-         "name":"Banquet hall/Marriage Hall",
+         "name":"Banquet Hall/Marriage Hall",
          "code":"E-BHMH",
          "active":true,
          "occupancyType":"E",
@@ -639,7 +639,7 @@
          "colorCode":null
       },
       {
-         "name":"Exhibition cum Fair Ground",
+         "name":"Exhibition Cum Fair Ground",
          "code":"E-EFG",
          "active":true,
          "occupancyType":"E",
@@ -651,7 +651,7 @@
          "colorCode":null
       },
       {
-         "name":"Science centre",
+         "name":"Science Centre",
          "code":"E-SC",
          "active":true,
          "occupancyType":"E",
@@ -903,7 +903,7 @@
          "colorCode":null
       },
       {
-         "name":"heritage buildings",
+         "name":"Heritage Buildings",
          "code":"H-HB",
          "active":true,
          "occupancyType":"H",
@@ -915,7 +915,7 @@
          "colorCode":null
       },
       {
-         "name":"heritage precincts",
+         "name":"Heritage Precincts",
          "code":"H-HP",
          "active":true,
          "occupancyType":"H",
@@ -975,7 +975,7 @@
          "colorCode":null
       },
       {
-         "name":"Burial and cremation grounds",
+         "name":"Burial and Cremation Grounds",
          "code":"H-BCG",
          "active":true,
          "occupancyType":"H",
@@ -987,7 +987,7 @@
          "colorCode":null
       },
       {
-         "name":"Liquefied Petroleum Gas station",
+         "name":"Liquefied Petroleum Gas Station",
          "code":"I-LPGS",
          "active":true,
          "occupancyType":"I",
@@ -1011,7 +1011,7 @@
          "colorCode":null
       },
     {
-         "name":"Compressed Natural Gas (CNG) mother station",
+         "name":"Compressed Natural Gas (CNG) Mother Station",
          "code":"I-CNGMS",
          "active":true,
          "occupancyType":"I",
@@ -1131,7 +1131,7 @@
          "colorCode":null
       },
       {
-         "name":"Sports and amenity structures",
+         "name":"Sports and Amenity Structures",
          "code":"K-SAS",
          "active":true,
          "occupancyType":"I",
@@ -1143,7 +1143,7 @@
          "colorCode":null
       },
       {
-         "name":"Religious shrine",
+         "name":"Religious Shrine",
          "code":"L-RS",
          "active":true,
          "occupancyType":"L",
