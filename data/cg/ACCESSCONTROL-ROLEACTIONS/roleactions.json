@@ -15462,6 +15462,12 @@
       "rolecode": "BPA_ARCHITECT",
       "actionid": 2002,
       "actioncode": "",
+      "tenantId": "cg.birgaon"
+    },
+        {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 2002,
+      "actioncode": "",
       "tenantId": "cg"
     },
     {
