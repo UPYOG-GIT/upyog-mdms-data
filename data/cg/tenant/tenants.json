@@ -2,40 +2,6 @@
   "tenantId": "cg",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "cg.raipur",
-      "name": "Raipur",
-      "description": "Raipur",
-      "pincode": [143001,143002,143003,143004,143005],
-      "logoId":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HCM.png",
-	  "logoId1":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HUADM.png",
-      "imageId": null,
-      "domainUrl": "https://www.niwaspass.com",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "citya@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Raipur",
-        "localName": null,
-        "districtCode": "RAIPUR",
-        "districtName": null,
-        "districtTenantCode": "cg.raipur",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.5761829,
-        "latitude": 31.3260152,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "101",
-        "ddrName": "DDR A"
-      },
-      "address": "Raipur Municipal Corporation",
-      "contactNumber": "001-2345876"
-    },
-    {
       "code": "cg.birgaon",
       "name": "Birgaon",
       "description": "birgaon",
@@ -71,76 +37,6 @@
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
-    {
-      "code": "cg.bilaspur",
-      "name": "Bilaspur",
-      "description": "bilaspur",
-      "logoId":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HCM.png",
-	  "logoId1":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HUADM.png",
-      "imageId": null,
-      "domainUrl": "https://www.niwaspass.com",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "cityc@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM",
-        "Sat": "9.00 AM - 12.00 PM"
-      },
-      "city": {
-        "name": "Bilaspur",
-        "localName": null,
-        "districtCode": "BILASPUR",
-        "districtName": null,
-        "districtTenantCode": "cg.birgaon",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 73.8722642,
-        "latitude": 31.6339793,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "103",
-        "ddrName": "DDR C"
-      },
-      "address": "Birgaon Municipal Corporation Address",
-      "contactNumber": "0978-7645345",
-      "helpLineNumber": "0654-8734567"
-    },
-    {
-      "code": "cg.rajnandgaon",
-      "name": "Rajnandgaon",
-      "description": "rajnandgaon",
-      "logoId":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HCM.png",
-	  "logoId1":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HUADM.png",
-      "imageId": null,
-      "domainUrl": "https://www.niwaspass.com",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "cityd@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM",
-        "Sat": "9.00 AM - 12.00 PM"
-      },
-      "city": {
-        "name": "Rajnandgaon",
-        "localName": null,
-        "districtCode": "RAJNANDGAON",
-        "districtName": null,
-        "districtTenantCode": "cg.rajnandgaon",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.8722642,
-        "latitude": 35.6339793,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "104",
-        "ddrName": "DDR D"
-      },
-      "address": "Rajnandgaon Municipal Corporation Address",
-      "contactNumber": "0978-7645345",
-      "helpLineNumber": "0654-8734567"
-    },
 	{
       "code": "cg.bhilaicharoda",
       "name": "Bhilai_Charoda",
@@ -173,6 +69,41 @@
         "ddrName": "DDR E"
       },
       "address": "Bhilai-Charoda Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+	{
+      "code": "cg.dhamtari",
+      "name": "Dhamtari",
+      "description": "dhamtari",
+      "logoId":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HCM.png",
+	  "logoId1":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HUADM.png",
+      "imageId": null,
+      "domainUrl": "https://www.niwaspass.com",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "citye@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Dhamtari",
+        "localName": null,
+        "districtCode": "DHAMTARI",
+        "districtName": null,
+        "districtTenantCode": "cg.dhamtari",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 76.8722642,
+        "latitude": 36.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "105",
+        "ddrName": "DDR E"
+      },
+      "address": "Dhamtari Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
