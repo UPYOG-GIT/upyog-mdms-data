@@ -6117,6 +6117,22 @@
          "rightIcon": "",
          "queryParams": ""
       },
+	  {
+         "id": 1815,
+         "name": "rainmaker-citizen-propertytax",
+         "url": "card",
+         "displayName": "Property Tax",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "/digit-ui/citizen",
+         "leftIcon": "custom:home-city-outline",
+         "rightIcon": "",
+         "queryParams": ""
+      },
       {
          "id": 1816,
          "name": "rainmaker-citizen-tradelicence",
@@ -6985,6 +7001,21 @@
          "code": "null",
          "path": "Dashboard.Home",
          "navigationURL": "integration/dss/home",
+         "leftIcon": "places:business-center",
+         "rightIcon": ""
+      },
+	  {
+         "id": 1887,
+         "name": "Dashboard Property Tax",
+         "url": "url",
+         "displayName": "Property Tax",
+         "orderNumber": 4,
+         "parentModule": "dss-dashboard",
+         "enabled": false,
+         "serviceCode": "DSS",
+         "code": "null",
+         "path": "Dashboard.PropertyTax",
+         "navigationURL": "integration/dss/propertytax",
          "leftIcon": "places:business-center",
          "rightIcon": ""
       },
