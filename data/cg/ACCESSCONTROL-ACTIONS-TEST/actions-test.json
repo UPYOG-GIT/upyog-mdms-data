@@ -6118,22 +6118,6 @@
          "queryParams": ""
       },
       {
-         "id": 1815,
-         "name": "rainmaker-citizen-propertytax",
-         "url": "card",
-         "displayName": "Property Tax",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "",
-         "code": "",
-         "path": "",
-         "navigationURL": "/digit-ui/citizen",
-         "leftIcon": "custom:home-city-outline",
-         "rightIcon": "",
-         "queryParams": ""
-      },
-      {
          "id": 1816,
          "name": "rainmaker-citizen-tradelicence",
          "url": "card",
