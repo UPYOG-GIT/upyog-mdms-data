@@ -35,7 +35,10 @@
             "serviceType": "NEW_CONSTRUCTION",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
-            "amount": 5
+            "builtupAreaFrom": 0,
+            "builtupAreaTo": 75,
+            "amount": 1329
+            "occupancyType": "Residential"
         },
         {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
