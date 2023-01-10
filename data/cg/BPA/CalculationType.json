@@ -42,7 +42,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 76,
@@ -52,7 +52,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 126,
@@ -62,7 +62,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 201,
@@ -72,7 +72,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 301,
@@ -82,7 +82,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 0,
@@ -92,7 +92,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 401,
@@ -102,7 +102,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 601,
@@ -112,7 +112,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 751,
@@ -122,7 +122,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 1001,
@@ -132,7 +132,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 1251,
@@ -142,7 +142,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 1501,
@@ -152,7 +152,7 @@
         },
         {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 2001,
@@ -162,7 +162,7 @@
         },
           {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 0,
@@ -172,7 +172,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 76,
@@ -182,7 +182,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 126,
@@ -192,7 +192,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 201,
@@ -202,7 +202,7 @@
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
+            "serviceType": "ALL",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 301,
