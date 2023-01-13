@@ -82,6 +82,16 @@
             "amount": 23251.74,
             "occupancyType": "Residential"
         },
+	{
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "HIGH",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 751,
+            "builtupAreaTo": 1000,
+            "amount": 23251.74,
+            "occupancyType": "Residential,Mercantile/Commercial"
+        },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
             "serviceType": "NEW_CONSTRUCTION",
