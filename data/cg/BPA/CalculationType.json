@@ -140,7 +140,7 @@
             "builtupAreaFrom": 0,
             "builtupAreaTo": 75,
             "amount": 1328.67,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -150,7 +150,7 @@
             "builtupAreaFrom": 76,
             "builtupAreaTo": 125,
             "amount": 2329.60,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -160,7 +160,7 @@
             "builtupAreaFrom": 126,
             "builtupAreaTo": 200,
             "amount": 3986.01,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
 	{
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -170,7 +170,7 @@
             "builtupAreaFrom": 126,
             "builtupAreaTo": 200,
             "amount": 3986.01,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -180,7 +180,7 @@
             "builtupAreaFrom": 201,
             "builtupAreaTo": 300,
             "amount": 5979.02,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -190,7 +190,7 @@
             "builtupAreaFrom": 301,
             "builtupAreaTo": 400,
             "amount": 7972.02,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
         {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -200,7 +200,7 @@
             "builtupAreaFrom": 401,
             "builtupAreaTo": 600,
             "amount": 13286.71,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -210,7 +210,7 @@
             "builtupAreaFrom": 601,
             "builtupAreaTo": 750,
             "amount": 16608.38,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -220,7 +220,7 @@
             "builtupAreaFrom": 751,
             "builtupAreaTo": 1000,
             "amount": 23251.74,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
 	{
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -230,7 +230,7 @@
             "builtupAreaFrom": 751,
             "builtupAreaTo": 1000,
             "amount": 23251.74,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -240,7 +240,7 @@
             "builtupAreaFrom": 1001,
             "builtupAreaTo": 1250,
             "amount": 33216.77,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -250,7 +250,7 @@
             "builtupAreaFrom": 1251,
             "builtupAreaTo": 1500,
             "amount": 46503.48,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -260,7 +260,7 @@
             "builtupAreaFrom": 1501,
             "builtupAreaTo": 2000,
             "amount": 66433.54,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         },
         {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
@@ -270,7 +270,7 @@
             "builtupAreaFrom": 2001,
             "builtupAreaTo": 2500,
             "amount": 99650.31,
-            "occupancyType": "Commercial"
+            "occupancyType": "Mercantile / Commercial"
         }     
     ]
 }
