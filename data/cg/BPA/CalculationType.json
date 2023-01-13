@@ -162,6 +162,16 @@
             "amount": 3986.01,
             "occupancyType": "Commercial"
         },
+	{
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 126,
+            "builtupAreaTo": 200,
+            "amount": 3986.01,
+            "occupancyType": "Commercial"
+        },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
             "serviceType": "ALL",
@@ -207,6 +217,16 @@
             "serviceType": "NEW_CONSTRUCTION",
             "riskType": "LOW",
             "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 751,
+            "builtupAreaTo": 1000,
+            "amount": 23251.74,
+            "occupancyType": "Commercial"
+        },
+	{
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "HIGH",
+            "feeType": "ApplicationFee",
             "builtupAreaFrom": 751,
             "builtupAreaTo": 1000,
             "amount": 23251.74,
