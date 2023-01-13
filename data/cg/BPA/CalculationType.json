@@ -25,7 +25,7 @@
          {
             "applicationType":"BUILDING_PLAN_SCRUTINY",
             "serviceType":"NEW_CONSTRUCTION",
-            "riskType":"MEDIUM",
+            "riskType":"LOW",
             "feeType":"Low_ApplicationFee",
             "builtupAreaFrom":126,
             "builtupAreaTo":200,
