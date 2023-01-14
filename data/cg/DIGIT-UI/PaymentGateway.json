@@ -13,7 +13,7 @@
         {
             "gateway": "PAYU",
             "active": true
-        }
+        },
         {
             "gateway": "CCAvenue",
             "active": true
