@@ -2,6 +2,14 @@
     "tenantId": "cg",
     "moduleName": "BPA",
     "CalculationType": [
+	{
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "amount": 1,
+            "occupancyType": "Residential"
+        },
          {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
             "serviceType": "NEW_CONSTRUCTION",
@@ -9,7 +17,7 @@
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 0,
             "builtupAreaTo": 75,
-            "amount": 1,
+            "amount": 1328.67,
             "occupancyType": "Residential"
         },
 		{
@@ -19,7 +27,7 @@
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 76,
             "builtupAreaTo": 125,
-            "amount": 1,
+            "amount": 2329.60,
             "occupancyType": "Residential"
         },
          {
@@ -29,7 +37,7 @@
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 126,
             "builtupAreaTo": 200,
-            "amount": 1,
+            "amount": 3986.01,
             "occupancyType": "Residential"
         },
          {
@@ -39,7 +47,7 @@
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 201,
             "builtupAreaTo": 300,
-            "amount": 1,
+            "amount": 5979.02,
             "occupancyType": "Residential"
         },
          {
@@ -49,7 +57,7 @@
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 301,
             "builtupAreaTo": 400,
-            "amount": 1,
+            "amount": 7972.02,
             "occupancyType": "Residential"
         },
          {
