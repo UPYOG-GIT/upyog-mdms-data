@@ -10989,6 +10989,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "GRO",
       "actionid": 1730,
       "actioncode": "",
