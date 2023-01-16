@@ -463,7 +463,7 @@
             "idname": "pt.propertyid"
         },
         {
-            "format": "PG-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+            "format": "CG-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
             "idname": "egov.idgen.bpa.applicationNum"
         },
         {
