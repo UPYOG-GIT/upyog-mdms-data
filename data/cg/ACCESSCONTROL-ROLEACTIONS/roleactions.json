@@ -11199,6 +11199,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "EGF_REPORT_VIEW",
       "actionid": 1753,
       "actioncode": "",
