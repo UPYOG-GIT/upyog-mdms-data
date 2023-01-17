@@ -15507,6 +15507,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2003,
       "actioncode": "",
