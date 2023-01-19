@@ -11001,6 +11001,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_BUILDER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "BPA_APPROVER",
       "actionid": 1730,
       "actioncode": "",
@@ -11139,6 +11145,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_BUILDER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "BPA_ENGINEER",
       "actionid": 1743,
       "actioncode": "",
@@ -11218,6 +11230,12 @@
     },
     {
       "rolecode": "BPA_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_BUILDER",
       "actionid": 1752,
       "actioncode": "",
       "tenantId": "cg"
@@ -16750,6 +16768,12 @@
     },
     {
       "rolecode": "BPA_ENGINEER",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_BUILDER",
       "actionid": 2044,
       "actioncode": "",
       "tenantId": "cg"
