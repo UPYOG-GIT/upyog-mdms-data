@@ -4,15 +4,15 @@
     "PaymentGateway": [
         {
             "gateway": "AXIS",
-            "active": true
+            "active": false
         },
         {
             "gateway": "PAYGOV",
-            "active": true
+            "active": false
         },
         {
             "gateway": "PAYU",
-            "active": true
+            "active": false
         },
         {
             "gateway": "CCAVENUE",
