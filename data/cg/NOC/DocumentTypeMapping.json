@@ -324,7 +324,7 @@
             "docTypes": [
                 {
                     "documentType": "NOC.FIRE",
-                    "required": true
+                    "required": false
                 }
             ]
         },
@@ -334,7 +334,7 @@
             "docTypes": [
                 {
                     "documentType": "NOC.FIRE",
-                    "required": true
+                    "required": false
                 }
             ]
         },
@@ -354,7 +354,7 @@
             "docTypes": [
                 {
                     "documentType": "NOC.AIRPORT",
-                    "required": true
+                    "required": false
                 }
             ]
         },
@@ -364,7 +364,7 @@
             "docTypes": [
                 {
                     "documentType": "NOC.AIRPORT",
-                    "required": true
+                    "required": false
                 }
             ]
         },
