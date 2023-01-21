@@ -4,7 +4,7 @@
     "NOCBusinessServiceRoleMaping": [
         {
             "code": "FIRE_NOC_SRV",
-            "active": true,
+            "active": false,
             "roles": [
                 "FIRE_NOC_APPROVER"
             ],
@@ -12,7 +12,7 @@
         },
         {
             "code": "AIRPORT_NOC_SRV",
-            "active": true,
+            "active": false,
             "roles": [
                 "AIRPORT_AUTHORITY_APPROVER"
             ],
