@@ -4,7 +4,7 @@
     "NocType": [
        {
          "code": "FIRE_NOC",
-         "isActive": true,
+         "isActive": false,
          "offlineWF":"FIRE_NOC_OFFLINE",
          "onlineWF":"FIRE_NOC_SRV",
          "mode":"online",
@@ -12,7 +12,7 @@
       },
       {
         "code":"AIRPORT_AUTHORITY",
-        "isActive": true,
+        "isActive": false,
         "offlineWF":"AIRPORT_NOC_OFFLINE",
         "onlineWF":"AIRPORT_NOC_SRV",
         "mode":"offline",
