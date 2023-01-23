@@ -11157,6 +11157,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1744,
       "actioncode": "",
