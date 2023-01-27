@@ -24,14 +24,6 @@
             "applicationType": "BUILDING_PLAN_SCRUTINY",
             "serviceType": "NEW_CONSTRUCTION",
             "riskType": "ALL",
-            "feeType": "Low_SanctionFee",
-            "amount": 0,
-            "occupancyType": "Residential"
-        },    
-	{
-            "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
-            "riskType": "ALL",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 76,
             "builtupAreaTo": 125,
