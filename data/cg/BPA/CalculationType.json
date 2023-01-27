@@ -24,20 +24,6 @@
             "applicationType": "BUILDING_PLAN_SCRUTINY",
             "serviceType": "NEW_CONSTRUCTION",
             "riskType": "ALL",
-            "feeType": "ApplicationFee",
-            "amount": 120
-        },
-      {
-            "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
-            "riskType": "ALL",
-            "feeType": "SanctionFee",
-            "amount": 500
-        },
-        {
-            "applicationType": "BUILDING_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
-            "riskType": "ALL",
             "feeType": "Low_ApplicationFee",
             "builtupAreaFrom": 76,
             "builtupAreaTo": 125,
