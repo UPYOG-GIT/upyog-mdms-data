@@ -10,6 +10,14 @@
             "amount": 1,
             "occupancyType": "Residential"
         },
+	    {
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "LOW",
+            "feeType": "ApplicationFee",
+            "amount": 11,
+            "occupancyType": "Residential"
+        },
         {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
             "serviceType": "NEW_CONSTRUCTION",
