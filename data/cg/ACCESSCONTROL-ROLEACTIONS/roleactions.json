@@ -1328,6 +1328,12 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+       {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 705,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 706,
