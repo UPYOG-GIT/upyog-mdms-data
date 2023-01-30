@@ -15,7 +15,7 @@
             "serviceType": "NEW_CONSTRUCTION",
             "riskType": "LOW",
             "feeType": "ApplicationFee",
-            "amount": 11,
+            "amount": 1,
             "occupancyType": "Residential"
         },
         {
@@ -287,6 +287,13 @@
             "builtupAreaTo": 2500,
             "amount": 99650,
             "occupancyType": "Mercantile / Commercial"
-        }     
+        },
+	{
+            "applicationType": "BUILDING_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "LOW",
+            "feeType": "SanctionFee",
+            "amount": 500
+        }
     ]
 }
