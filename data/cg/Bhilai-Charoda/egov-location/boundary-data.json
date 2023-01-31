@@ -1,0 +1,2070 @@
+{
+	"tenantId": "cg.birgaon",
+	"moduleName": "egov-location",
+	"TenantBoundary": [
+		{
+			"hierarchyType": {
+				"code": "REVENUE",
+				"name": "REVENUE"
+			},
+			"boundary": {
+				"id": 1,
+				"boundaryNum": 1,
+				"name": "Bhilai-Charoda",
+				"localname": "Bhilai-Charoda",
+				"longitude": 81.6097,
+				"latitude": 21.3104,
+				"label": "City",
+				"code": "cg.bhilaicharoda",
+				"children": [
+					{
+						"id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+						"boundaryNum": 1,
+						"name": "ZONE 1",
+						"localname": "ZONE 1",
+						"longitude": 81.6097,
+						"latitude": 21.3104,
+						"label": "Zone",
+						"code": "BRZ1",
+						"children": [
+							{
+								"id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+								"boundaryNum": 1,
+								"name": "HATHKHOJ INDIRA NAGAR",
+								"localname": "WARD_1",
+								"longitude": 81.41063,
+								"latitude": 21.22075,
+								"label": "Block",
+								"code": "WARD1",
+								"children": [
+									{
+										"id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+										"boundaryNum": 1,
+										"name": "Hathkhoj Indira Nagar",
+										"localname": "Hathkhoj Indira Nagar",
+										"longitude": null,
+										"latitude": null,
+										"label": "Locality",
+										"code": "BR01",
+										"pincode": [
+											492003
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "8b6a74db-d5d0-40ec-a810-df4a319acfb9",
+								"boundaryNum": 1,
+								"name": "HATHKHOJ BASTI",
+								"localname": "WARD_2",
+								"longitude": 81.39937,
+								"latitude": 21.23162,
+								"label": "Block",
+								"code": "WARD2",
+								"children": [
+									{
+										"id": "f3cabc5a-8596-4c4c-ad05-9863342fa176",
+										"boundaryNum": 1,
+										"name": "Hathkhoj Basti",
+										"localname": "Hathkhoj Basti",
+										"longitude": 81.39937,
+										"latitude": 21.23162,
+										"label": "Locality",
+										"code": "BR02",
+										"pincode": [492003],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "eee94089-c88f-4d2e-a980-06b5372dd856",
+								"boundaryNum": 1,
+								"name": "AKORDIH",
+								"localname": "WARD_3",
+								"longitude": 81.41833,
+								"latitude": 21.2387,
+								"label": "Block",
+								"code": "WARD3",
+								"children": [
+									{
+										"id": "11448ad3-ff6a-4026-8d9a-d3d0cdb75680",
+										"boundaryNum": 1,
+										"name": "Akordih",
+										"localname": "Akordih",
+										"longitude": 81.41833,
+										"latitude": 21.2387,
+										"label": "Locality",
+										"code": "BR03",
+										"pincode":[492003],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "4236b1c1-1f00-4b4f-a246-7c50af752d66",
+								"boundaryNum": 1,
+								"name": "JARWAYE",
+								"localname": "WARD_4",
+								"longitude": 81.43002,
+								"latitude": 21.24577,
+								"label": "Block",
+								"code": "WARD4",
+								"children": [
+									{
+										"id": "7a9a4d9a-9b88-4e5e-a496-293e3d03475a",
+										"boundaryNum": 1,
+										"name": "Jarwaye",
+										"localname": "Jarwaye",
+										"longitude": 81.43002,
+										"latitude": 21.24577,
+										"label": "Locality",
+										"code": "BR04",
+										"pincode": [492003],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "77ebd09e-7fa6-4d98-814e-1a8e1fe6c28b",
+								"boundaryNum": 1,
+								"name": "DADAR-PATHARRA",
+								"localname": "WARD_5",
+								"longitude": 81.45414,
+								"latitude": 21.24309,
+								"label": "Block",
+								"code": "WARD5",
+								"children": [
+									{
+										"id": "9fc4a924-7aed-4fd7-9bef-fa910776797f",
+										"boundaryNum": 1,
+										"name": "Dadar-Patharra",
+										"localname": "Dadar-Patharra",
+										"longitude": 81.45414,
+										"latitude": 21.24309,
+										"label": "Locality",
+										"code": "BR05",
+										"pincode": [492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "1fe5613e-69ae-4170-9573-297cec606d62",
+								"boundaryNum": 1,
+								"name": "UMDA",
+								"localname": "WARD_6",
+								"longitude": 81.43108,
+								"latitude": 21.22852,
+								"label": "Block",
+								"code": "WARD6",
+								"children": [
+									{
+										"id": "a8645f32-204d-401e-aa7c-6993cfff9624",
+										"boundaryNum": 1,
+										"name": "Umda",
+										"localname": "Umda",
+										"longitude": 81.43108,
+										"latitude": 21.22852,
+										"label": "Locality",
+										"code": "BR06",
+										"pincode":[492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "94d79e3b-44d7-41b8-bcc9-338de470b016",
+								"boundaryNum": 1,
+								"name": "MAHAMAYA PARA",
+								"localname": "WARD_7",
+								"longitude": 81.611325,
+								"latitude": 21.317877,
+								"label": "Block",
+								"code": "WARD7",
+								"children": [
+									{
+										"id": "652bf15d-633f-4d73-93b2-22aaa591e7be",
+										"boundaryNum": 1,
+										"name": "Mahamaya Para",
+										"localname": "Mahamaya Para",
+										"longitude": 81.611325,
+										"latitude": 21.317877,
+										"label": "Locality",
+										"code": "BR07",
+										"pincode": [492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "56cbb28e-c1fd-4375-8c27-bf10c666ffd0",
+								"boundaryNum": 1,
+								"name": "SHEETLA PARA",
+								"localname": "WARD_8",
+								"longitude": 81.42456,
+								"latitude": 21.21084,
+								"label": "Block",
+								"code": "WARD8",
+								"children": [
+									{
+										"id": "0b3b503d-1cf8-4f46-859c-f224616a57ee",
+										"boundaryNum": 1,
+										"name": "Sheetla Para",
+										"localname": "Sheetla Para",
+										"longitude": 81.42456,
+										"latitude": 21.21084,
+										"label": "Locality",
+										"code": "BR08",
+										"pincode":[492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "541edcf1-e40b-4c89-806e-0fb7c78db168",
+								"boundaryNum": 1,
+								"name": "SHANTIPARA",
+								"localname": "WARD_9",
+								"longitude": 81.42441,
+								"latitude": 21.20731,
+								"label": "Block",
+								"code": "WARD9",
+								"children": [
+									{
+										"id": "acf47450-c3e0-4a6d-a78c-0678f0f74035",
+										"boundaryNum": 1,
+										"name": "Shantipara",
+										"localname": "Shantipara",
+										"longitude": 81.42441,
+										"latitude": 21.20731,
+										"label": "Locality",
+										"code": "BR09",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "64d2ca12-fc43-459b-aeb1-60d5955a8b1c",
+								"boundaryNum": 1,
+								"name": "VIDYUT MANDAL",
+								"localname": "WARD_10",
+								"longitude": 81.41546,
+								"latitude": 21.20872,
+								"label": "Block",
+								"code": "WARD10",
+								"children": [
+									{
+										"id": "b68957d3-63ba-4755-a640-88b58e9fe4f0",
+										"boundaryNum": 1,
+										"name": "Vidyut Mandal",
+										"localname": "Vidyut Mandal",
+										"longitude": 81.41546,
+										"latitude": 21.20872,
+										"label": "Locality",
+										"code": "BR10",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "9dfddd58-8405-4ac1-8bc2-7380197c116c",
+								"boundaryNum": 1,
+								"name": "DABRA PARA",
+								"localname": "WARD_11",
+								"longitude": 81.40833,
+								"latitude": 21.20843,
+								"label": "Block",
+								"code": "WARD11",
+								"children": [
+									{
+										"id": "4c51c978-709b-4658-b5c0-4538d8faf165",
+										"boundaryNum": 1,
+										"name": "Dabra Para",
+										"localname": "Dabra Para",
+										"longitude": 81.40833,
+										"latitude": 21.20843,
+										"label": "Locality",
+										"code": "BR11",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "8237ec14-77d7-47c8-ad9e-1ab24dc7bfd1",
+								"boundaryNum": 1,
+								"name": "RAILWAY COLONY",
+								"localname": "WARD_12",
+								"longitude": 81.41531,
+								"latitude": 21.20476,
+								"label": "Block",
+								"code": "WARD12",
+								"children": [
+									{
+										"id": "40e9b369-41b7-4112-9c05-defe46491b41",
+										"boundaryNum": 1,
+										"name": "Railway Colony",
+										"localname": "Railway Colony",
+										"longitude": 81.41531,
+										"latitude": 21.20476,
+										"label": "Locality",
+										"code": "BR12",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "504830d6-f9e3-4052-8538-673437fc0937",
+								"boundaryNum": 1,
+								"name": "NEHRU NAGAR",
+								"localname": "WARD_13",
+								"longitude": 81.42562,
+								"latitude": 21.20518,
+								"label": "Block",
+								"code": "WARD13",
+								"children": [
+									{
+										"id": "3adb91b5-fdfd-4a1e-b69d-bfa8f4d84a2c",
+										"boundaryNum": 1,
+										"name": "Nehru Nagar",
+										"localname": "Nehru Nagar",
+										"longitude": 81.42562,
+										"latitude": 21.20518,
+										"label": "Locality",
+										"code": "BR13",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "a08750d0-b3fd-4ff5-ba24-d4729d1ef376",
+								"boundaryNum": 1,
+								"name": "GANDHI NAGAR",
+								"localname": "WARD_14",
+								"longitude": 81.43169,
+								"latitude": 21.20688,
+								"label": "Block",
+								"code": "WARD14",
+								"children": [
+									{
+										"id": "cc4598f8-2d2e-4dc4-8807-eeab60bcc105",
+										"boundaryNum": 1,
+										"name": "Gandhi Nagar",
+										"localname": "Gandhi Nagar",
+										"longitude": 81.43169,
+										"latitude": 21.20688,
+										"label": "Locality",
+										"code": "BR14",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "2f52aaf8-5ce9-4966-9b2e-6217cbe19714",
+								"boundaryNum": 1,
+								"name": "BAZAR CHOWK",
+								"localname": "WARD_15",
+								"longitude": 81.42668,
+								"latitude": 21.20716,
+								"label": "Block",
+								"code": "WARD15",
+								"children": [
+									{
+										"id": "f1629cc6-a575-4b33-826a-fe87cd02a016",
+										"boundaryNum": 1,
+										"name": "Bazar chowk",
+										"localname": "Bazar chowk",
+										"longitude": 81.42668,
+										"latitude": 21.20716,
+										"label": "Locality",
+										"code": "BR15",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "d5b787fc-f2ad-4994-ac76-652094057007",
+								"boundaryNum": 1,
+								"name": "SHANTI NAGAR",
+								"localname": "WARD_16",
+								"longitude": 81.43063,
+								"latitude": 21.20985,
+								"label": "Block",
+								"code": "WARD16",
+								"children": [
+									{
+										"id": "45bfa2b7-99b1-4d86-a6ba-f3a3dc09bfb5",
+										"boundaryNum": 1,
+										"name": "Shanti Nagar",
+										"localname": "Shanti Nagar",
+										"longitude": 81.43063,
+										"latitude": 21.20985,
+										"label": "Locality",
+										"code": "BR16",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "ce011818-c33f-464f-86f8-ddddf9f84632",
+								"boundaryNum": 1,
+								"name": "VASUNDHRA NAGAR",
+								"localname": "WARD_17",
+								"longitude": 81.4373,
+								"latitude": 21.21607,
+								"label": "Block",
+								"code": "WARD17",
+								"children": [
+									{
+										"id": "0f04dae6-7d44-40d7-addf-3c6e79c46120",
+										"boundaryNum": 1,
+										"name": "Vasundhra Nagar",
+										"localname": "Vasundhra Nagar",
+										"longitude": 81.4373,
+										"latitude": 21.21607,
+										"label": "Locality",
+										"code": "BR17",
+										"pincode": [493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "7dc79bf2-5da9-421b-961a-caae97c3bd82",
+								"boundaryNum": 1,
+								"name": "PADUM NAGAR WEST",
+								"localname": "WARD_18",
+								"longitude": 81.44428,
+								"latitude": 21.2189,
+								"label": "Block",
+								"code": "WARD18",
+								"children": [
+									{
+										"id": "3987e100-7729-41ac-892a-43728ec214e8",
+										"boundaryNum": 1,
+										"name": "Padum Nagar West",
+										"localname": "Padum Nagar West",
+										"longitude": 81.44428,
+										"latitude": 21.2189,
+										"label": "Locality",
+										"code": "BR18",
+										"pincode": [493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "ecb3a6b1-0248-437e-aa2e-597339ee4d85",
+								"boundaryNum": 1,
+								"name": "PADUM NAGAR EAST",
+								"localname": "WARD_19",
+								"longitude": 81.44808,
+								"latitude": 21.22258,
+								"label": "Block",
+								"code": "WARD19",
+								"children": [
+									{
+										"id": "c4189fe2-4531-4e04-b3a0-e8228ec1a23d",
+										"boundaryNum": 1,
+										"name": "Padum Nagar East",
+										"localname": "Padum Nagar East",
+										"longitude": 81.44808,
+										"latitude": 21.22258,
+										"label": "Locality",
+										"code": "BR19",
+										"pincode": [493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "6a39ee47-629e-408f-ac5d-70b9278d1504",
+								"boundaryNum": 1,
+								"name": "CHARODA BASTI",
+								"localname": "WARD_20",
+								"longitude": 81.45096,
+								"latitude": 21.23121,
+								"label": "Block",
+								"code": "WARD20",
+								"children": [
+									{
+										"id": "fa2b351a-8318-41d4-aea1-1b3a061da1a2",
+										"boundaryNum": 1,
+										"name": "Charoda Basti",
+										"localname": "Charoda Basti",
+										"longitude": 81.45096,
+										"latitude": 21.23121,
+										"label": "Locality",
+										"code": "BR20",
+										"pincode": [492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "7b130a6c-5915-4cf3-a211-fe3d0ed073f3",
+								"boundaryNum": 1,
+								"name": "CHARODA BHATHAPARA",
+								"localname": "WARD_21",
+								"longitude": 81.45612,
+								"latitude": 21.23319,
+								"label": "Block",
+								"code": "WARD21",
+								"children": [
+									{
+										"id": "37f37419-7044-4b7e-b576-166bd482f48b",
+										"boundaryNum": 1,
+										"name": "Charoda Bhathapara",
+										"localname": "Charoda Bhathapara",
+										"longitude": 81.45612,
+										"latitude": 21.23319,
+										"label": "Locality",
+										"code": "BR21",
+										"pincode":[492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "4e53381b-7678-4a72-af5b-63060d95f588",
+								"boundaryNum": 1,
+								"name": "CHARODA HOUSING BOARD",
+								"localname": "WARD_22",
+								"longitude": 81.46022,
+								"latitude": 21.23517,
+								"label": "Block",
+								"code": "WARD22",
+								"children": [
+									{
+										"id": "8d3f15bf-ffa8-4045-a7b2-a3cac0418d24",
+										"boundaryNum": 1,
+										"name": "Charoda Housing Board",
+										"localname": "Charoda Housing Board",
+										"longitude": 81.46022,
+										"latitude": 21.23517,
+										"label": "Locality",
+										"code": "BR22",
+										"pincode":[492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "83a3cb20-0cef-4d48-b3b0-8036c870826e",
+								"boundaryNum": 1,
+								"name": "PANCHSHEEL NAGAR",
+								"localname": "WARD_23",
+								"longitude": 81.45445,
+								"latitude": 21.22541,
+								"label": "Block",
+								"code": "WARD23",
+								"children": [
+									{
+										"id": "a46ae6f0-433b-4c35-bef5-d857090e724f",
+										"boundaryNum": 1,
+										"name": "Panchsheel Nagar",
+										"localname": "Panchsheel Nagar",
+										"longitude": 81.45445,
+										"latitude": 21.22541,
+										"label": "Locality",
+										"code": "BR23",
+										"pincode":[492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "199f5a68-384d-49d4-9e07-504a174ead15",
+								"boundaryNum": 1,
+								"name": "INDIRA NAGAR SAMTA COLONY",
+								"localname": "WARD_24",
+								"longitude": 81.44732,
+								"latitude": 21.21537,
+								"label": "Block",
+								"code": "WARD24",
+								"children": [
+									{
+										"id": "1951084c-7c09-49ca-9642-842ca2c274a3",
+										"boundaryNum": 1,
+										"name": "Indira Nagar Samta Colony",
+										"localname": "Indira Nagar Samta Colony",
+										"longitude": 81.44732,
+										"latitude": 21.21537,
+										"label": "Locality",
+										"code": "BR24",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "3b9c7586-5a33-481b-89e8-233cba433a5b",
+								"boundaryNum": 1,
+								"name": "ZONE-1 WEST CHARODA",
+								"localname": "WARD_25",
+								"longitude": 81.45333,
+								"latitude": 21.21767,
+								"label": "Block",
+								"code": "WARD25",
+								"children": [
+									{
+										"id": "30f474c9-ccaf-4216-9faa-5f77832abef2",
+										"boundaryNum": 1,
+										"name": "Zone-1 West Charoda",
+										"localname": "Zone-1 West Charoda",
+										"longitude": 81.45333,
+										"latitude": 21.21767,
+										"label": "Locality",
+										"code": "BR25",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b8961a48-d459-4e7c-b469-7873083198df",
+								"boundaryNum": 1,
+								"name": "ZONE-1 EAST CHARODA",
+								"localname": "WARD_26",
+								"longitude": 81.45667,
+								"latitude": 21.22233,
+								"label": "Block",
+								"code": "WARD26",
+								"children": [
+									{
+										"id": "2386ffc9-3a36-4d3b-b5e2-d3ee0d123308",
+										"boundaryNum": 1,
+										"name": "Zone-1 East Charoda",
+										"localname": "Zone-1 East Charoda",
+										"longitude": 81.45667,
+										"latitude": 21.22233,
+										"label": "Locality",
+										"code": "BR26",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "a6549188-aa75-4071-ac3c-9a78af61a6fc",
+								"boundaryNum": 1,
+								"name": "ZONE-2 WEST CHARODA",
+								"localname": "WARD_27",
+								"longitude": 81.46244,
+								"latitude": 21.22601,
+								"label": "Block",
+								"code": "WARD27",
+								"children": [
+									{
+										"id": "eb79267b-4c1c-404c-946c-95ae1885eefd",
+										"boundaryNum": 1,
+										"name": "Zone-2 West Charoda",
+										"localname": "Zone-2 West Charoda",
+										"longitude": 81.46244,
+										"latitude": 21.22601,
+										"label": "Locality",
+										"code": "BR27",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "d67fdcf3-023f-4c39-9ea2-ae63fb7b94de",
+								"boundaryNum": 1,
+								"name": "ZONE-2 EAST CHARODA",
+								"localname": "WARD_28",
+								"longitude": 81.461,
+								"latitude": 21.22078,
+								"label": "Block",
+								"code": "WARD28",
+								"children": [
+									{
+										"id": "7163b298-0bc4-4d54-a4a3-8d0d8eb54cc7",
+										"boundaryNum": 1,
+										"name": "Zone-2 East Charoda",
+										"localname": "Zone-2 East Charoda",
+										"longitude": 81.461,
+										"latitude": 21.22078,
+										"label": "Locality",
+										"code": "BR28",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b12c173e-67c1-41a1-b479-a693537ae921",
+								"boundaryNum": 1,
+								"name": "ZONE-3 EAST CHARODA",
+								"localname": "WARD_29",
+								"longitude": 81.47587,
+								"latitude": 21.2299,
+								"label": "Block",
+								"code": "WARD29",
+								"children": [
+									{
+										"id": "498a7812-7013-4040-82d9-7f5897563814",
+										"boundaryNum": 1,
+										"name": "Zone-3 East Charoda",
+										"localname": "Zone-3 East Charoda",
+										"longitude": 81.47587,
+										"latitude": 21.2299,
+										"label": "Locality",
+										"code": "BR29",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "75413d67-39d5-4728-8928-4c4c20e6b3dd",
+								"boundaryNum": 1,
+								"name": "URLA",
+								"localname": "WARD_30",
+								"longitude": 81.49613,
+								"latitude": 21.22098,
+								"label": "Block",
+								"code": "WARD30",
+								"children": [
+									{
+										"id": "4b2d76da-e277-40fb-9b1c-324a4c0503a8",
+										"boundaryNum": 1,
+										"name": "Urla",
+										"localname": "Urla",
+										"longitude": 81.49613,
+										"latitude": 21.22098,
+										"label": "Locality",
+										"code": "BR30",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "e0d5350b-defe-42af-8eed-65a91ff9bee1",
+								"boundaryNum": 1,
+								"name": "DEVBALAUDA SHIV MANDIR",
+								"localname": "WARD_31",
+								"longitude": 81.48467,
+								"latitude": 21.21483,
+								"label": "Block",
+								"code": "WARD31",
+								"children": [
+									{
+										"id": "12f34f54-597b-4a0d-8d53-c7770c0b6a3f",
+										"boundaryNum": 1,
+										"name": "Devbalauda Shiv Mandir",
+										"localname": "Devbalauda Shiv Mandir",
+										"longitude": 81.48467,
+										"latitude": 21.21483,
+										"label": "Locality",
+										"code": "BR31",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "82be3a3e-1f56-4fe4-9322-fab7b1877ad9",
+								"boundaryNum": 1,
+								"name": "DEVBALAUDA BASTI",
+								"localname": "WARD_32",
+								"longitude": 81.47526,
+								"latitude": 21.20549,
+								"label": "Block",
+								"code": "WARD32",
+								"children": [
+									{
+										"id": "8c89a784-cb4f-45f2-b276-35fd8b12495d",
+										"boundaryNum": 1,
+										"name": "Devbalauda Basti",
+										"localname": "Devbalauda Basti",
+										"longitude": 81.47526,
+										"latitude": 21.20549,
+										"label": "Locality",
+										"code": "BR32",
+										"pincode":[492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b37851a2-b302-4abb-8be4-b76394d85643",
+								"boundaryNum": 1,
+								"name": "DEVBALAUDA SAGAR PARA",
+								"localname": "WARD_33",
+								"longitude": 81.46843,
+								"latitude": 21.21872,
+								"label": "Block",
+								"code": "WARD33",
+								"children": [
+									{
+										"id": "ace294a0-c75a-497d-be51-993acc5a254b",
+										"boundaryNum": 1,
+										"name": "Devbalauda Sagar Para",
+										"localname": "Devbalauda Sagar Para",
+										"longitude": 81.46843,
+										"latitude": 21.21872,
+										"label": "Locality",
+										"code": "BR33",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "aa4273f7-c13b-417c-b83c-cb8598adfa62",
+								"boundaryNum": 1,
+								"name": "G Cabin Charoda",
+								"localname": "WARD_34",
+								"longitude": 81.46054,
+								"latitude": 21.21603,
+								"label": "Block",
+								"code": "WARD34",
+								"children": [
+									{
+										"id": "2c5c8330-bde1-4f29-ab06-0e8ceffaff3f",
+										"boundaryNum": 1,
+										"name": "G Cabin Charoda",
+										"localname": "G Cabin Charoda",
+										"longitude": 81.46054,
+										"latitude": 21.21603,
+										"label": "Locality",
+										"code": "BR34",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "6ecea37c-8caa-4be1-bf63-a7751d513fe3",
+								"boundaryNum": 1,
+								"name": "G CABIN PP YARD",
+								"localname": "WARD_35",
+								"longitude": 81.44756,
+								"latitude": 21.20953,
+								"label": "Block",
+								"code": "WARD35",
+								"children": [
+									{
+										"id": "1828fab3-3f2b-453a-bec2-a743ac553826",
+										"boundaryNum": 1,
+										"name": "G Cabin PP Yard",
+										"localname": "G Cabin PP Yard",
+										"longitude": 81.44756,
+										"latitude": 21.20953,
+										"label": "Locality",
+										"code": "BR35",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "dd221bd9-43f2-4a83-ba05-d30f8c363729",
+								"boundaryNum": 1,
+								"name": "SIRSA KALA BASTI",
+								"localname": "WARD_36",
+								"longitude": 81.46114,
+								"latitude": 21.20167,
+								"label": "Block",
+								"code": "WARD36",
+								"children": [
+									{
+										"id": "8abe7bdd-48bb-4a56-ab61-7abc10aa7ef8",
+										"boundaryNum": 1,
+										"name": "Sirsa Kala Basti",
+										"localname": "Sirsa Kala Basti",
+										"longitude": 81.46114,
+										"latitude": 21.20167,
+										"label": "Locality",
+										"code": "BR36",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "c052195c-2342-4760-bd4d-f5d99d5bc1d3",
+								"boundaryNum": 1,
+								"name": "SIRSA BHATHAPARA",
+								"localname": "WARD_37",
+								"longitude": 81.44847,
+								"latitude": 21.19269,
+								"label": "Block",
+								"code": "WARD37",
+								"children": [
+									{
+										"id": "a3d3b866-f732-4f0b-98be-87832aeb87ca",
+										"boundaryNum": 1,
+										"name": "Sirsa Bhathapara",
+										"localname": "Sirsa Bhathapara",
+										"longitude": 81.44847,
+										"latitude": 21.19269,
+										"label": "Locality",
+										"code": "BR37",
+										"pincode": [493221],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "bf6c4965-abda-41cf-a5bf-80820dd89f66",
+								"boundaryNum": 1,
+								"name": "SOMNI",
+								"localname": "WARD_38",
+								"longitude": 81.43709,
+								"latitude": 21.17996,
+								"label": "Block",
+								"code": "WARD38",
+								"children": [
+									{
+										"id": "38f52d5f-e3e7-4477-adbe-9800ce534889",
+										"boundaryNum": 1,
+										"name": "Somni",
+										"localname": "Somni",
+										"longitude": 81.43709,
+										"latitude": 21.17996,
+										"label": "Locality",
+										"code": "BR38",
+										"pincode": [493221],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "0ad423f5-209d-445d-a728-7e61b1d45d67",
+								"boundaryNum": 1,
+								"name": "MORID",
+								"localname": "WARD_39",
+								"longitude": 81.41538,
+								"latitude": 21.16069,
+								"label": "Block",
+								"code": "WARD39",
+								"children": [
+									{
+										"id": "b9ab23e4-ce0b-452f-acd9-582047350b9a",
+										"boundaryNum": 1,
+										"name": "Morid",
+										"localname": "Morid",
+										"longitude": 81.41538,
+										"latitude": 21.16069,
+										"label": "Locality",
+										"code": "BR39",
+										"pincode": [493221],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b00b56af-05b1-40cd-ada7-f5572bf7e107",
+								"boundaryNum": 1,
+								"name": "GANIYARI",
+								"localname": "WARD_40",
+								"longitude": 81.43471,
+								"latitude": 21.16564,
+								"label": "Block",
+								"code": "WARD40",
+								"children": [
+									{
+										"id": "cf0c675e-d2f7-4c8b-b4f4-512f22a4be5d",
+										"boundaryNum": 1,
+										"name": "Ganiyari",
+										"localname": "Ganiyari",
+										"longitude": 81.43471,
+										"latitude": 21.16564,
+										"label": "Locality",
+										"code": "BR40",
+										"pincode": [493221],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"hierarchyType": {
+				"code": "ADMIN",
+				"name": "ADMIN"
+			},
+			"boundary": {
+				"id": 1,
+				"boundaryNum": 1,
+				"name": "Birgaon",
+				"localname": "Birgaon",
+				"longitude": 81.6097,
+				"latitude": 21.3104,
+				"label": "City",
+				"code": "cg.birgaon",
+				"children": [
+					{
+						"id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+						"boundaryNum": 1,
+						"name": "ZONE 1",
+						"localname": "ZONE 1",
+						"longitude": 81.6097,
+						"latitude": 21.3104,
+						"label": "Zone",
+						"code": "BRZ1",
+						"children": [
+							{
+								"id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+								"boundaryNum": 1,
+								"name": "HATHKHOJ INDIRA NAGAR",
+								"localname": "WARD_1",
+								"longitude": 81.41063,
+								"latitude": 21.22075,
+								"label": "Block",
+								"code": "WARD1",
+								"children": [
+									{
+										"id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+										"boundaryNum": 1,
+										"name": "Hathkhoj Indira Nagar",
+										"localname": "Hathkhoj Indira Nagar",
+										"longitude": null,
+										"latitude": null,
+										"label": "Locality",
+										"code": "BR01",
+										"pincode": [
+											492003
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "8b6a74db-d5d0-40ec-a810-df4a319acfb9",
+								"boundaryNum": 1,
+								"name": "HATHKHOJ BASTI",
+								"localname": "WARD_2",
+								"longitude": 81.39937,
+								"latitude": 21.23162,
+								"label": "Block",
+								"code": "WARD2",
+								"children": [
+									{
+										"id": "f3cabc5a-8596-4c4c-ad05-9863342fa176",
+										"boundaryNum": 1,
+										"name": "Hathkhoj Basti",
+										"localname": "Hathkhoj Basti",
+										"longitude": 81.39937,
+										"latitude": 21.23162,
+										"label": "Locality",
+										"code": "BR02",
+										"pincode": [492003],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "eee94089-c88f-4d2e-a980-06b5372dd856",
+								"boundaryNum": 1,
+								"name": "AKORDIH",
+								"localname": "WARD_3",
+								"longitude": 81.41833,
+								"latitude": 21.2387,
+								"label": "Block",
+								"code": "WARD3",
+								"children": [
+									{
+										"id": "11448ad3-ff6a-4026-8d9a-d3d0cdb75680",
+										"boundaryNum": 1,
+										"name": "Akordih",
+										"localname": "Akordih",
+										"longitude": 81.41833,
+										"latitude": 21.2387,
+										"label": "Locality",
+										"code": "BR03",
+										"pincode":[492003],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "4236b1c1-1f00-4b4f-a246-7c50af752d66",
+								"boundaryNum": 1,
+								"name": "JARWAYE",
+								"localname": "WARD_4",
+								"longitude": 81.43002,
+								"latitude": 21.24577,
+								"label": "Block",
+								"code": "WARD4",
+								"children": [
+									{
+										"id": "7a9a4d9a-9b88-4e5e-a496-293e3d03475a",
+										"boundaryNum": 1,
+										"name": "Jarwaye",
+										"localname": "Jarwaye",
+										"longitude": 81.43002,
+										"latitude": 21.24577,
+										"label": "Locality",
+										"code": "BR04",
+										"pincode": [492003],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "77ebd09e-7fa6-4d98-814e-1a8e1fe6c28b",
+								"boundaryNum": 1,
+								"name": "DADAR-PATHARRA",
+								"localname": "WARD_5",
+								"longitude": 81.45414,
+								"latitude": 21.24309,
+								"label": "Block",
+								"code": "WARD5",
+								"children": [
+									{
+										"id": "9fc4a924-7aed-4fd7-9bef-fa910776797f",
+										"boundaryNum": 1,
+										"name": "Dadar-Patharra",
+										"localname": "Dadar-Patharra",
+										"longitude": 81.45414,
+										"latitude": 21.24309,
+										"label": "Locality",
+										"code": "BR05",
+										"pincode": [492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "1fe5613e-69ae-4170-9573-297cec606d62",
+								"boundaryNum": 1,
+								"name": "UMDA",
+								"localname": "WARD_6",
+								"longitude": 81.43108,
+								"latitude": 21.22852,
+								"label": "Block",
+								"code": "WARD6",
+								"children": [
+									{
+										"id": "a8645f32-204d-401e-aa7c-6993cfff9624",
+										"boundaryNum": 1,
+										"name": "Umda",
+										"localname": "Umda",
+										"longitude": 81.43108,
+										"latitude": 21.22852,
+										"label": "Locality",
+										"code": "BR06",
+										"pincode":[492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "94d79e3b-44d7-41b8-bcc9-338de470b016",
+								"boundaryNum": 1,
+								"name": "MAHAMAYA PARA",
+								"localname": "WARD_7",
+								"longitude": 81.611325,
+								"latitude": 21.317877,
+								"label": "Block",
+								"code": "WARD7",
+								"children": [
+									{
+										"id": "652bf15d-633f-4d73-93b2-22aaa591e7be",
+										"boundaryNum": 1,
+										"name": "Mahamaya Para",
+										"localname": "Mahamaya Para",
+										"longitude": 81.611325,
+										"latitude": 21.317877,
+										"label": "Locality",
+										"code": "BR07",
+										"pincode": [492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "56cbb28e-c1fd-4375-8c27-bf10c666ffd0",
+								"boundaryNum": 1,
+								"name": "SHEETLA PARA",
+								"localname": "WARD_8",
+								"longitude": 81.42456,
+								"latitude": 21.21084,
+								"label": "Block",
+								"code": "WARD8",
+								"children": [
+									{
+										"id": "0b3b503d-1cf8-4f46-859c-f224616a57ee",
+										"boundaryNum": 1,
+										"name": "Sheetla Para",
+										"localname": "Sheetla Para",
+										"longitude": 81.42456,
+										"latitude": 21.21084,
+										"label": "Locality",
+										"code": "BR08",
+										"pincode":[492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "541edcf1-e40b-4c89-806e-0fb7c78db168",
+								"boundaryNum": 1,
+								"name": "SHANTIPARA",
+								"localname": "WARD_9",
+								"longitude": 81.42441,
+								"latitude": 21.20731,
+								"label": "Block",
+								"code": "WARD9",
+								"children": [
+									{
+										"id": "acf47450-c3e0-4a6d-a78c-0678f0f74035",
+										"boundaryNum": 1,
+										"name": "Shantipara",
+										"localname": "Shantipara",
+										"longitude": 81.42441,
+										"latitude": 21.20731,
+										"label": "Locality",
+										"code": "BR09",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "64d2ca12-fc43-459b-aeb1-60d5955a8b1c",
+								"boundaryNum": 1,
+								"name": "VIDYUT MANDAL",
+								"localname": "WARD_10",
+								"longitude": 81.41546,
+								"latitude": 21.20872,
+								"label": "Block",
+								"code": "WARD10",
+								"children": [
+									{
+										"id": "b68957d3-63ba-4755-a640-88b58e9fe4f0",
+										"boundaryNum": 1,
+										"name": "Vidyut Mandal",
+										"localname": "Vidyut Mandal",
+										"longitude": 81.41546,
+										"latitude": 21.20872,
+										"label": "Locality",
+										"code": "BR10",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "9dfddd58-8405-4ac1-8bc2-7380197c116c",
+								"boundaryNum": 1,
+								"name": "DABRA PARA",
+								"localname": "WARD_11",
+								"longitude": 81.40833,
+								"latitude": 21.20843,
+								"label": "Block",
+								"code": "WARD11",
+								"children": [
+									{
+										"id": "4c51c978-709b-4658-b5c0-4538d8faf165",
+										"boundaryNum": 1,
+										"name": "Dabra Para",
+										"localname": "Dabra Para",
+										"longitude": 81.40833,
+										"latitude": 21.20843,
+										"label": "Locality",
+										"code": "BR11",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "8237ec14-77d7-47c8-ad9e-1ab24dc7bfd1",
+								"boundaryNum": 1,
+								"name": "RAILWAY COLONY",
+								"localname": "WARD_12",
+								"longitude": 81.41531,
+								"latitude": 21.20476,
+								"label": "Block",
+								"code": "WARD12",
+								"children": [
+									{
+										"id": "40e9b369-41b7-4112-9c05-defe46491b41",
+										"boundaryNum": 1,
+										"name": "Railway Colony",
+										"localname": "Railway Colony",
+										"longitude": 81.41531,
+										"latitude": 21.20476,
+										"label": "Locality",
+										"code": "BR12",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "504830d6-f9e3-4052-8538-673437fc0937",
+								"boundaryNum": 1,
+								"name": "NEHRU NAGAR",
+								"localname": "WARD_13",
+								"longitude": 81.42562,
+								"latitude": 21.20518,
+								"label": "Block",
+								"code": "WARD13",
+								"children": [
+									{
+										"id": "3adb91b5-fdfd-4a1e-b69d-bfa8f4d84a2c",
+										"boundaryNum": 1,
+										"name": "Nehru Nagar",
+										"localname": "Nehru Nagar",
+										"longitude": 81.42562,
+										"latitude": 21.20518,
+										"label": "Locality",
+										"code": "BR13",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "a08750d0-b3fd-4ff5-ba24-d4729d1ef376",
+								"boundaryNum": 1,
+								"name": "GANDHI NAGAR",
+								"localname": "WARD_14",
+								"longitude": 81.43169,
+								"latitude": 21.20688,
+								"label": "Block",
+								"code": "WARD14",
+								"children": [
+									{
+										"id": "cc4598f8-2d2e-4dc4-8807-eeab60bcc105",
+										"boundaryNum": 1,
+										"name": "Gandhi Nagar",
+										"localname": "Gandhi Nagar",
+										"longitude": 81.43169,
+										"latitude": 21.20688,
+										"label": "Locality",
+										"code": "BR14",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "2f52aaf8-5ce9-4966-9b2e-6217cbe19714",
+								"boundaryNum": 1,
+								"name": "BAZAR CHOWK",
+								"localname": "WARD_15",
+								"longitude": 81.42668,
+								"latitude": 21.20716,
+								"label": "Block",
+								"code": "WARD15",
+								"children": [
+									{
+										"id": "f1629cc6-a575-4b33-826a-fe87cd02a016",
+										"boundaryNum": 1,
+										"name": "Bazar chowk",
+										"localname": "Bazar chowk",
+										"longitude": 81.42668,
+										"latitude": 21.20716,
+										"label": "Locality",
+										"code": "BR15",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "d5b787fc-f2ad-4994-ac76-652094057007",
+								"boundaryNum": 1,
+								"name": "SHANTI NAGAR",
+								"localname": "WARD_16",
+								"longitude": 81.43063,
+								"latitude": 21.20985,
+								"label": "Block",
+								"code": "WARD16",
+								"children": [
+									{
+										"id": "45bfa2b7-99b1-4d86-a6ba-f3a3dc09bfb5",
+										"boundaryNum": 1,
+										"name": "Shanti Nagar",
+										"localname": "Shanti Nagar",
+										"longitude": 81.43063,
+										"latitude": 21.20985,
+										"label": "Locality",
+										"code": "BR16",
+										"pincode":[493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "ce011818-c33f-464f-86f8-ddddf9f84632",
+								"boundaryNum": 1,
+								"name": "VASUNDHRA NAGAR",
+								"localname": "WARD_17",
+								"longitude": 81.4373,
+								"latitude": 21.21607,
+								"label": "Block",
+								"code": "WARD17",
+								"children": [
+									{
+										"id": "0f04dae6-7d44-40d7-addf-3c6e79c46120",
+										"boundaryNum": 1,
+										"name": "Vasundhra Nagar",
+										"localname": "Vasundhra Nagar",
+										"longitude": 81.4373,
+										"latitude": 21.21607,
+										"label": "Locality",
+										"code": "BR17",
+										"pincode": [493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "7dc79bf2-5da9-421b-961a-caae97c3bd82",
+								"boundaryNum": 1,
+								"name": "PADUM NAGAR WEST",
+								"localname": "WARD_18",
+								"longitude": 81.44428,
+								"latitude": 21.2189,
+								"label": "Block",
+								"code": "WARD18",
+								"children": [
+									{
+										"id": "3987e100-7729-41ac-892a-43728ec214e8",
+										"boundaryNum": 1,
+										"name": "Padum Nagar West",
+										"localname": "Padum Nagar West",
+										"longitude": 81.44428,
+										"latitude": 21.2189,
+										"label": "Locality",
+										"code": "BR18",
+										"pincode": [493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "ecb3a6b1-0248-437e-aa2e-597339ee4d85",
+								"boundaryNum": 1,
+								"name": "PADUM NAGAR EAST",
+								"localname": "WARD_19",
+								"longitude": 81.44808,
+								"latitude": 21.22258,
+								"label": "Block",
+								"code": "WARD19",
+								"children": [
+									{
+										"id": "c4189fe2-4531-4e04-b3a0-e8228ec1a23d",
+										"boundaryNum": 1,
+										"name": "Padum Nagar East",
+										"localname": "Padum Nagar East",
+										"longitude": 81.44808,
+										"latitude": 21.22258,
+										"label": "Locality",
+										"code": "BR19",
+										"pincode": [493221],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "6a39ee47-629e-408f-ac5d-70b9278d1504",
+								"boundaryNum": 1,
+								"name": "CHARODA BASTI",
+								"localname": "WARD_20",
+								"longitude": 81.45096,
+								"latitude": 21.23121,
+								"label": "Block",
+								"code": "WARD20",
+								"children": [
+									{
+										"id": "fa2b351a-8318-41d4-aea1-1b3a061da1a2",
+										"boundaryNum": 1,
+										"name": "Charoda Basti",
+										"localname": "Charoda Basti",
+										"longitude": 81.45096,
+										"latitude": 21.23121,
+										"label": "Locality",
+										"code": "BR20",
+										"pincode": [492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "7b130a6c-5915-4cf3-a211-fe3d0ed073f3",
+								"boundaryNum": 1,
+								"name": "CHARODA BHATHAPARA",
+								"localname": "WARD_21",
+								"longitude": 81.45612,
+								"latitude": 21.23319,
+								"label": "Block",
+								"code": "WARD21",
+								"children": [
+									{
+										"id": "37f37419-7044-4b7e-b576-166bd482f48b",
+										"boundaryNum": 1,
+										"name": "Charoda Bhathapara",
+										"localname": "Charoda Bhathapara",
+										"longitude": 81.45612,
+										"latitude": 21.23319,
+										"label": "Locality",
+										"code": "BR21",
+										"pincode":[492003],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "4e53381b-7678-4a72-af5b-63060d95f588",
+								"boundaryNum": 1,
+								"name": "CHARODA HOUSING BOARD",
+								"localname": "WARD_22",
+								"longitude": 81.46022,
+								"latitude": 21.23517,
+								"label": "Block",
+								"code": "WARD22",
+								"children": [
+									{
+										"id": "8d3f15bf-ffa8-4045-a7b2-a3cac0418d24",
+										"boundaryNum": 1,
+										"name": "Charoda Housing Board",
+										"localname": "Charoda Housing Board",
+										"longitude": 81.46022,
+										"latitude": 21.23517,
+										"label": "Locality",
+										"code": "BR22",
+										"pincode":[492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "83a3cb20-0cef-4d48-b3b0-8036c870826e",
+								"boundaryNum": 1,
+								"name": "PANCHSHEEL NAGAR",
+								"localname": "WARD_23",
+								"longitude": 81.45445,
+								"latitude": 21.22541,
+								"label": "Block",
+								"code": "WARD23",
+								"children": [
+									{
+										"id": "a46ae6f0-433b-4c35-bef5-d857090e724f",
+										"boundaryNum": 1,
+										"name": "Panchsheel Nagar",
+										"localname": "Panchsheel Nagar",
+										"longitude": 81.45445,
+										"latitude": 21.22541,
+										"label": "Locality",
+										"code": "BR23",
+										"pincode":[492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "199f5a68-384d-49d4-9e07-504a174ead15",
+								"boundaryNum": 1,
+								"name": "INDIRA NAGAR SAMTA COLONY",
+								"localname": "WARD_24",
+								"longitude": 81.44732,
+								"latitude": 21.21537,
+								"label": "Block",
+								"code": "WARD24",
+								"children": [
+									{
+										"id": "1951084c-7c09-49ca-9642-842ca2c274a3",
+										"boundaryNum": 1,
+										"name": "Indira Nagar Samta Colony",
+										"localname": "Indira Nagar Samta Colony",
+										"longitude": 81.44732,
+										"latitude": 21.21537,
+										"label": "Locality",
+										"code": "BR24",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "3b9c7586-5a33-481b-89e8-233cba433a5b",
+								"boundaryNum": 1,
+								"name": "ZONE-1 WEST CHARODA",
+								"localname": "WARD_25",
+								"longitude": 81.45333,
+								"latitude": 21.21767,
+								"label": "Block",
+								"code": "WARD25",
+								"children": [
+									{
+										"id": "30f474c9-ccaf-4216-9faa-5f77832abef2",
+										"boundaryNum": 1,
+										"name": "Zone-1 West Charoda",
+										"localname": "Zone-1 West Charoda",
+										"longitude": 81.45333,
+										"latitude": 21.21767,
+										"label": "Locality",
+										"code": "BR25",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b8961a48-d459-4e7c-b469-7873083198df",
+								"boundaryNum": 1,
+								"name": "ZONE-1 EAST CHARODA",
+								"localname": "WARD_26",
+								"longitude": 81.45667,
+								"latitude": 21.22233,
+								"label": "Block",
+								"code": "WARD26",
+								"children": [
+									{
+										"id": "2386ffc9-3a36-4d3b-b5e2-d3ee0d123308",
+										"boundaryNum": 1,
+										"name": "Zone-1 East Charoda",
+										"localname": "Zone-1 East Charoda",
+										"longitude": 81.45667,
+										"latitude": 21.22233,
+										"label": "Locality",
+										"code": "BR26",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "a6549188-aa75-4071-ac3c-9a78af61a6fc",
+								"boundaryNum": 1,
+								"name": "ZONE-2 WEST CHARODA",
+								"localname": "WARD_27",
+								"longitude": 81.46244,
+								"latitude": 21.22601,
+								"label": "Block",
+								"code": "WARD27",
+								"children": [
+									{
+										"id": "eb79267b-4c1c-404c-946c-95ae1885eefd",
+										"boundaryNum": 1,
+										"name": "Zone-2 West Charoda",
+										"localname": "Zone-2 West Charoda",
+										"longitude": 81.46244,
+										"latitude": 21.22601,
+										"label": "Locality",
+										"code": "BR27",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "d67fdcf3-023f-4c39-9ea2-ae63fb7b94de",
+								"boundaryNum": 1,
+								"name": "ZONE-2 EAST CHARODA",
+								"localname": "WARD_28",
+								"longitude": 81.461,
+								"latitude": 21.22078,
+								"label": "Block",
+								"code": "WARD28",
+								"children": [
+									{
+										"id": "7163b298-0bc4-4d54-a4a3-8d0d8eb54cc7",
+										"boundaryNum": 1,
+										"name": "Zone-2 East Charoda",
+										"localname": "Zone-2 East Charoda",
+										"longitude": 81.461,
+										"latitude": 21.22078,
+										"label": "Locality",
+										"code": "BR28",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b12c173e-67c1-41a1-b479-a693537ae921",
+								"boundaryNum": 1,
+								"name": "ZONE-3 EAST CHARODA",
+								"localname": "WARD_29",
+								"longitude": 81.47587,
+								"latitude": 21.2299,
+								"label": "Block",
+								"code": "WARD29",
+								"children": [
+									{
+										"id": "498a7812-7013-4040-82d9-7f5897563814",
+										"boundaryNum": 1,
+										"name": "Zone-3 East Charoda",
+										"localname": "Zone-3 East Charoda",
+										"longitude": 81.47587,
+										"latitude": 21.2299,
+										"label": "Locality",
+										"code": "BR29",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "75413d67-39d5-4728-8928-4c4c20e6b3dd",
+								"boundaryNum": 1,
+								"name": "URLA",
+								"localname": "WARD_30",
+								"longitude": 81.49613,
+								"latitude": 21.22098,
+								"label": "Block",
+								"code": "WARD30",
+								"children": [
+									{
+										"id": "4b2d76da-e277-40fb-9b1c-324a4c0503a8",
+										"boundaryNum": 1,
+										"name": "Urla",
+										"localname": "Urla",
+										"longitude": 81.49613,
+										"latitude": 21.22098,
+										"label": "Locality",
+										"code": "BR30",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "e0d5350b-defe-42af-8eed-65a91ff9bee1",
+								"boundaryNum": 1,
+								"name": "DEVBALAUDA SHIV MANDIR",
+								"localname": "WARD_31",
+								"longitude": 81.48467,
+								"latitude": 21.21483,
+								"label": "Block",
+								"code": "WARD31",
+								"children": [
+									{
+										"id": "12f34f54-597b-4a0d-8d53-c7770c0b6a3f",
+										"boundaryNum": 1,
+										"name": "Devbalauda Shiv Mandir",
+										"localname": "Devbalauda Shiv Mandir",
+										"longitude": 81.48467,
+										"latitude": 21.21483,
+										"label": "Locality",
+										"code": "BR31",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "82be3a3e-1f56-4fe4-9322-fab7b1877ad9",
+								"boundaryNum": 1,
+								"name": "DEVBALAUDA BASTI",
+								"localname": "WARD_32",
+								"longitude": 81.47526,
+								"latitude": 21.20549,
+								"label": "Block",
+								"code": "WARD32",
+								"children": [
+									{
+										"id": "8c89a784-cb4f-45f2-b276-35fd8b12495d",
+										"boundaryNum": 1,
+										"name": "Devbalauda Basti",
+										"localname": "Devbalauda Basti",
+										"longitude": 81.47526,
+										"latitude": 21.20549,
+										"label": "Locality",
+										"code": "BR32",
+										"pincode":[492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b37851a2-b302-4abb-8be4-b76394d85643",
+								"boundaryNum": 1,
+								"name": "DEVBALAUDA SAGAR PARA",
+								"localname": "WARD_33",
+								"longitude": 81.46843,
+								"latitude": 21.21872,
+								"label": "Block",
+								"code": "WARD33",
+								"children": [
+									{
+										"id": "ace294a0-c75a-497d-be51-993acc5a254b",
+										"boundaryNum": 1,
+										"name": "Devbalauda Sagar Para",
+										"localname": "Devbalauda Sagar Para",
+										"longitude": 81.46843,
+										"latitude": 21.21872,
+										"label": "Locality",
+										"code": "BR33",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "aa4273f7-c13b-417c-b83c-cb8598adfa62",
+								"boundaryNum": 1,
+								"name": "G Cabin Charoda",
+								"localname": "WARD_34",
+								"longitude": 81.46054,
+								"latitude": 21.21603,
+								"label": "Block",
+								"code": "WARD34",
+								"children": [
+									{
+										"id": "2c5c8330-bde1-4f29-ab06-0e8ceffaff3f",
+										"boundaryNum": 1,
+										"name": "G Cabin Charoda",
+										"localname": "G Cabin Charoda",
+										"longitude": 81.46054,
+										"latitude": 21.21603,
+										"label": "Locality",
+										"code": "BR34",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "6ecea37c-8caa-4be1-bf63-a7751d513fe3",
+								"boundaryNum": 1,
+								"name": "G CABIN PP YARD",
+								"localname": "WARD_35",
+								"longitude": 81.44756,
+								"latitude": 21.20953,
+								"label": "Block",
+								"code": "WARD35",
+								"children": [
+									{
+										"id": "1828fab3-3f2b-453a-bec2-a743ac553826",
+										"boundaryNum": 1,
+										"name": "G Cabin PP Yard",
+										"localname": "G Cabin PP Yard",
+										"longitude": 81.44756,
+										"latitude": 21.20953,
+										"label": "Locality",
+										"code": "BR35",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "dd221bd9-43f2-4a83-ba05-d30f8c363729",
+								"boundaryNum": 1,
+								"name": "SIRSA KALA BASTI",
+								"localname": "WARD_36",
+								"longitude": 81.46114,
+								"latitude": 21.20167,
+								"label": "Block",
+								"code": "WARD36",
+								"children": [
+									{
+										"id": "8abe7bdd-48bb-4a56-ab61-7abc10aa7ef8",
+										"boundaryNum": 1,
+										"name": "Sirsa Kala Basti",
+										"localname": "Sirsa Kala Basti",
+										"longitude": 81.46114,
+										"latitude": 21.20167,
+										"label": "Locality",
+										"code": "BR36",
+										"pincode": [492003],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "c052195c-2342-4760-bd4d-f5d99d5bc1d3",
+								"boundaryNum": 1,
+								"name": "SIRSA BHATHAPARA",
+								"localname": "WARD_37",
+								"longitude": 81.44847,
+								"latitude": 21.19269,
+								"label": "Block",
+								"code": "WARD37",
+								"children": [
+									{
+										"id": "a3d3b866-f732-4f0b-98be-87832aeb87ca",
+										"boundaryNum": 1,
+										"name": "Sirsa Bhathapara",
+										"localname": "Sirsa Bhathapara",
+										"longitude": 81.44847,
+										"latitude": 21.19269,
+										"label": "Locality",
+										"code": "BR37",
+										"pincode": [493221],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "bf6c4965-abda-41cf-a5bf-80820dd89f66",
+								"boundaryNum": 1,
+								"name": "SOMNI",
+								"localname": "WARD_38",
+								"longitude": 81.43709,
+								"latitude": 21.17996,
+								"label": "Block",
+								"code": "WARD38",
+								"children": [
+									{
+										"id": "38f52d5f-e3e7-4477-adbe-9800ce534889",
+										"boundaryNum": 1,
+										"name": "Somni",
+										"localname": "Somni",
+										"longitude": 81.43709,
+										"latitude": 21.17996,
+										"label": "Locality",
+										"code": "BR38",
+										"pincode": [493221],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "0ad423f5-209d-445d-a728-7e61b1d45d67",
+								"boundaryNum": 1,
+								"name": "MORID",
+								"localname": "WARD_39",
+								"longitude": 81.41538,
+								"latitude": 21.16069,
+								"label": "Block",
+								"code": "WARD39",
+								"children": [
+									{
+										"id": "b9ab23e4-ce0b-452f-acd9-582047350b9a",
+										"boundaryNum": 1,
+										"name": "Morid",
+										"localname": "Morid",
+										"longitude": 81.41538,
+										"latitude": 21.16069,
+										"label": "Locality",
+										"code": "BR39",
+										"pincode": [493221],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b00b56af-05b1-40cd-ada7-f5572bf7e107",
+								"boundaryNum": 1,
+								"name": "GANIYARI",
+								"localname": "WARD_40",
+								"longitude": 81.43471,
+								"latitude": 21.16564,
+								"label": "Block",
+								"code": "WARD40",
+								"children": [
+									{
+										"id": "cf0c675e-d2f7-4c8b-b4f4-512f22a4be5d",
+										"boundaryNum": 1,
+										"name": "Ganiyari",
+										"localname": "Ganiyari",
+										"longitude": 81.43471,
+										"latitude": 21.16564,
+										"label": "Locality",
+										"code": "BR40",
+										"pincode": [493221],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}
