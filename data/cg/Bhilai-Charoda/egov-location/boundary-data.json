@@ -1,5 +1,5 @@
 {
-	"tenantId": "cg.birgaon",
+	"tenantId": "cg.bhilaicharoda",
 	"moduleName": "egov-location",
 	"TenantBoundary": [
 		{
@@ -12,8 +12,8 @@
 				"boundaryNum": 1,
 				"name": "Bhilai-Charoda",
 				"localname": "Bhilai-Charoda",
-				"longitude": 81.6097,
-				"latitude": 21.3104,
+				"longitude": 81.458008,
+				"latitude": 21.231903,
 				"label": "City",
 				"code": "cg.bhilaicharoda",
 				"children": [
@@ -22,10 +22,10 @@
 						"boundaryNum": 1,
 						"name": "ZONE 1",
 						"localname": "ZONE 1",
-						"longitude": 81.6097,
-						"latitude": 21.3104,
+						"longitude": 81.458008,
+						"latitude": 21.231903,
 						"label": "Zone",
-						"code": "BRZ1",
+						"code": "BCZ1",
 						"children": [
 							{
 								"id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
@@ -45,7 +45,7 @@
 										"longitude": null,
 										"latitude": null,
 										"label": "Locality",
-										"code": "BR01",
+										"code": "BC01",
 										"pincode": [
 											492003
 										],
@@ -72,7 +72,7 @@
 										"longitude": 81.39937,
 										"latitude": 21.23162,
 										"label": "Locality",
-										"code": "BR02",
+										"code": "BC02",
 										"pincode": [492003],
 										"area": "Area1",
 										"children": []
@@ -97,7 +97,7 @@
 										"longitude": 81.41833,
 										"latitude": 21.2387,
 										"label": "Locality",
-										"code": "BR03",
+										"code": "BC03",
 										"pincode":[492003],
 										"area": "Area1",
 										"children": []
@@ -122,7 +122,7 @@
 										"longitude": 81.43002,
 										"latitude": 21.24577,
 										"label": "Locality",
-										"code": "BR04",
+										"code": "BC04",
 										"pincode": [492003],
 										"area": "Area1",
 										"children": []
@@ -147,7 +147,7 @@
 										"longitude": 81.45414,
 										"latitude": 21.24309,
 										"label": "Locality",
-										"code": "BR05",
+										"code": "BC05",
 										"pincode": [492003],
 										"area": "Area2",
 										"children": []
@@ -172,7 +172,7 @@
 										"longitude": 81.43108,
 										"latitude": 21.22852,
 										"label": "Locality",
-										"code": "BR06",
+										"code": "BC06",
 										"pincode":[492003],
 										"area": "Area2",
 										"children": []
@@ -197,7 +197,7 @@
 										"longitude": 81.611325,
 										"latitude": 21.317877,
 										"label": "Locality",
-										"code": "BR07",
+										"code": "BC07",
 										"pincode": [492003],
 										"area": "Area2",
 										"children": []
@@ -222,7 +222,7 @@
 										"longitude": 81.42456,
 										"latitude": 21.21084,
 										"label": "Locality",
-										"code": "BR08",
+										"code": "BC08",
 										"pincode":[492003],
 										"area": "Area2",
 										"children": []
@@ -247,7 +247,7 @@
 										"longitude": 81.42441,
 										"latitude": 21.20731,
 										"label": "Locality",
-										"code": "BR09",
+										"code": "BC09",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -272,7 +272,7 @@
 										"longitude": 81.41546,
 										"latitude": 21.20872,
 										"label": "Locality",
-										"code": "BR10",
+										"code": "BC10",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -282,7 +282,7 @@
 							{
 								"id": "9dfddd58-8405-4ac1-8bc2-7380197c116c",
 								"boundaryNum": 1,
-								"name": "DABRA PARA",
+								"name": "DABCA PARA",
 								"localname": "WARD_11",
 								"longitude": 81.40833,
 								"latitude": 21.20843,
@@ -292,12 +292,12 @@
 									{
 										"id": "4c51c978-709b-4658-b5c0-4538d8faf165",
 										"boundaryNum": 1,
-										"name": "Dabra Para",
-										"localname": "Dabra Para",
+										"name": "DaBCa Para",
+										"localname": "DaBCa Para",
 										"longitude": 81.40833,
 										"latitude": 21.20843,
 										"label": "Locality",
-										"code": "BR11",
+										"code": "BC11",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -322,7 +322,7 @@
 										"longitude": 81.41531,
 										"latitude": 21.20476,
 										"label": "Locality",
-										"code": "BR12",
+										"code": "BC12",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -347,7 +347,7 @@
 										"longitude": 81.42562,
 										"latitude": 21.20518,
 										"label": "Locality",
-										"code": "BR13",
+										"code": "BC13",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -372,7 +372,7 @@
 										"longitude": 81.43169,
 										"latitude": 21.20688,
 										"label": "Locality",
-										"code": "BR14",
+										"code": "BC14",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -397,7 +397,7 @@
 										"longitude": 81.42668,
 										"latitude": 21.20716,
 										"label": "Locality",
-										"code": "BR15",
+										"code": "BC15",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -422,7 +422,7 @@
 										"longitude": 81.43063,
 										"latitude": 21.20985,
 										"label": "Locality",
-										"code": "BR16",
+										"code": "BC16",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -447,7 +447,7 @@
 										"longitude": 81.4373,
 										"latitude": 21.21607,
 										"label": "Locality",
-										"code": "BR17",
+										"code": "BC17",
 										"pincode": [493221],
 										"area": "Area2",
 										"children": []
@@ -472,7 +472,7 @@
 										"longitude": 81.44428,
 										"latitude": 21.2189,
 										"label": "Locality",
-										"code": "BR18",
+										"code": "BC18",
 										"pincode": [493221],
 										"area": "Area2",
 										"children": []
@@ -497,7 +497,7 @@
 										"longitude": 81.44808,
 										"latitude": 21.22258,
 										"label": "Locality",
-										"code": "BR19",
+										"code": "BC19",
 										"pincode": [493221],
 										"area": "Area2",
 										"children": []
@@ -522,7 +522,7 @@
 										"longitude": 81.45096,
 										"latitude": 21.23121,
 										"label": "Locality",
-										"code": "BR20",
+										"code": "BC20",
 										"pincode": [492003],
 										"area": "Area2",
 										"children": []
@@ -547,7 +547,7 @@
 										"longitude": 81.45612,
 										"latitude": 21.23319,
 										"label": "Locality",
-										"code": "BR21",
+										"code": "BC21",
 										"pincode":[492003],
 										"area": "Area2",
 										"children": []
@@ -572,7 +572,7 @@
 										"longitude": 81.46022,
 										"latitude": 21.23517,
 										"label": "Locality",
-										"code": "BR22",
+										"code": "BC22",
 										"pincode":[492003],
 										"area": "Area3",
 										"children": []
@@ -597,7 +597,7 @@
 										"longitude": 81.45445,
 										"latitude": 21.22541,
 										"label": "Locality",
-										"code": "BR23",
+										"code": "BC23",
 										"pincode":[492003],
 										"area": "Area3",
 										"children": []
@@ -622,7 +622,7 @@
 										"longitude": 81.44732,
 										"latitude": 21.21537,
 										"label": "Locality",
-										"code": "BR24",
+										"code": "BC24",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -647,7 +647,7 @@
 										"longitude": 81.45333,
 										"latitude": 21.21767,
 										"label": "Locality",
-										"code": "BR25",
+										"code": "BC25",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -672,7 +672,7 @@
 										"longitude": 81.45667,
 										"latitude": 21.22233,
 										"label": "Locality",
-										"code": "BR26",
+										"code": "BC26",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -697,7 +697,7 @@
 										"longitude": 81.46244,
 										"latitude": 21.22601,
 										"label": "Locality",
-										"code": "BR27",
+										"code": "BC27",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -722,7 +722,7 @@
 										"longitude": 81.461,
 										"latitude": 21.22078,
 										"label": "Locality",
-										"code": "BR28",
+										"code": "BC28",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -747,7 +747,7 @@
 										"longitude": 81.47587,
 										"latitude": 21.2299,
 										"label": "Locality",
-										"code": "BR29",
+										"code": "BC29",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -772,7 +772,7 @@
 										"longitude": 81.49613,
 										"latitude": 21.22098,
 										"label": "Locality",
-										"code": "BR30",
+										"code": "BC30",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -797,7 +797,7 @@
 										"longitude": 81.48467,
 										"latitude": 21.21483,
 										"label": "Locality",
-										"code": "BR31",
+										"code": "BC31",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -822,7 +822,7 @@
 										"longitude": 81.47526,
 										"latitude": 21.20549,
 										"label": "Locality",
-										"code": "BR32",
+										"code": "BC32",
 										"pincode":[492003],
 										"area": "Area3",
 										"children": []
@@ -847,7 +847,7 @@
 										"longitude": 81.46843,
 										"latitude": 21.21872,
 										"label": "Locality",
-										"code": "BR33",
+										"code": "BC33",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -872,7 +872,7 @@
 										"longitude": 81.46054,
 										"latitude": 21.21603,
 										"label": "Locality",
-										"code": "BR34",
+										"code": "BC34",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -897,7 +897,7 @@
 										"longitude": 81.44756,
 										"latitude": 21.20953,
 										"label": "Locality",
-										"code": "BR35",
+										"code": "BC35",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -922,7 +922,7 @@
 										"longitude": 81.46114,
 										"latitude": 21.20167,
 										"label": "Locality",
-										"code": "BR36",
+										"code": "BC36",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -947,7 +947,7 @@
 										"longitude": 81.44847,
 										"latitude": 21.19269,
 										"label": "Locality",
-										"code": "BR37",
+										"code": "BC37",
 										"pincode": [493221],
 										"area": "Area3",
 										"children": []
@@ -972,7 +972,7 @@
 										"longitude": 81.43709,
 										"latitude": 21.17996,
 										"label": "Locality",
-										"code": "BR38",
+										"code": "BC38",
 										"pincode": [493221],
 										"area": "Area3",
 										"children": []
@@ -997,7 +997,7 @@
 										"longitude": 81.41538,
 										"latitude": 21.16069,
 										"label": "Locality",
-										"code": "BR39",
+										"code": "BC39",
 										"pincode": [493221],
 										"area": "Area3",
 										"children": []
@@ -1022,7 +1022,7 @@
 										"longitude": 81.43471,
 										"latitude": 21.16564,
 										"label": "Locality",
-										"code": "BR40",
+										"code": "BC40",
 										"pincode": [493221],
 										"area": "Area1",
 										"children": []
@@ -1042,22 +1042,22 @@
 			"boundary": {
 				"id": 1,
 				"boundaryNum": 1,
-				"name": "Birgaon",
-				"localname": "Birgaon",
-				"longitude": 81.6097,
-				"latitude": 21.3104,
+				"name": "Bhilai-Charoda",
+				"localname": "Bhilai-Charoda",
+				"longitude": 81.458008,
+				"latitude": 21.231903,
 				"label": "City",
-				"code": "cg.birgaon",
+				"code": "cg.bhilaicharoda",
 				"children": [
 					{
 						"id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
 						"boundaryNum": 1,
 						"name": "ZONE 1",
 						"localname": "ZONE 1",
-						"longitude": 81.6097,
-						"latitude": 21.3104,
+						"longitude": 81.458008,
+						"latitude": 21.231903,
 						"label": "Zone",
-						"code": "BRZ1",
+						"code": "BCZ1",
 						"children": [
 							{
 								"id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
@@ -1077,7 +1077,7 @@
 										"longitude": null,
 										"latitude": null,
 										"label": "Locality",
-										"code": "BR01",
+										"code": "BC01",
 										"pincode": [
 											492003
 										],
@@ -1104,7 +1104,7 @@
 										"longitude": 81.39937,
 										"latitude": 21.23162,
 										"label": "Locality",
-										"code": "BR02",
+										"code": "BC02",
 										"pincode": [492003],
 										"area": "Area1",
 										"children": []
@@ -1129,7 +1129,7 @@
 										"longitude": 81.41833,
 										"latitude": 21.2387,
 										"label": "Locality",
-										"code": "BR03",
+										"code": "BC03",
 										"pincode":[492003],
 										"area": "Area1",
 										"children": []
@@ -1154,7 +1154,7 @@
 										"longitude": 81.43002,
 										"latitude": 21.24577,
 										"label": "Locality",
-										"code": "BR04",
+										"code": "BC04",
 										"pincode": [492003],
 										"area": "Area1",
 										"children": []
@@ -1179,7 +1179,7 @@
 										"longitude": 81.45414,
 										"latitude": 21.24309,
 										"label": "Locality",
-										"code": "BR05",
+										"code": "BC05",
 										"pincode": [492003],
 										"area": "Area2",
 										"children": []
@@ -1204,7 +1204,7 @@
 										"longitude": 81.43108,
 										"latitude": 21.22852,
 										"label": "Locality",
-										"code": "BR06",
+										"code": "BC06",
 										"pincode":[492003],
 										"area": "Area2",
 										"children": []
@@ -1229,7 +1229,7 @@
 										"longitude": 81.611325,
 										"latitude": 21.317877,
 										"label": "Locality",
-										"code": "BR07",
+										"code": "BC07",
 										"pincode": [492003],
 										"area": "Area2",
 										"children": []
@@ -1254,7 +1254,7 @@
 										"longitude": 81.42456,
 										"latitude": 21.21084,
 										"label": "Locality",
-										"code": "BR08",
+										"code": "BC08",
 										"pincode":[492003],
 										"area": "Area2",
 										"children": []
@@ -1279,7 +1279,7 @@
 										"longitude": 81.42441,
 										"latitude": 21.20731,
 										"label": "Locality",
-										"code": "BR09",
+										"code": "BC09",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -1304,7 +1304,7 @@
 										"longitude": 81.41546,
 										"latitude": 21.20872,
 										"label": "Locality",
-										"code": "BR10",
+										"code": "BC10",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -1314,7 +1314,7 @@
 							{
 								"id": "9dfddd58-8405-4ac1-8bc2-7380197c116c",
 								"boundaryNum": 1,
-								"name": "DABRA PARA",
+								"name": "DABCA PARA",
 								"localname": "WARD_11",
 								"longitude": 81.40833,
 								"latitude": 21.20843,
@@ -1324,12 +1324,12 @@
 									{
 										"id": "4c51c978-709b-4658-b5c0-4538d8faf165",
 										"boundaryNum": 1,
-										"name": "Dabra Para",
-										"localname": "Dabra Para",
+										"name": "DaBCa Para",
+										"localname": "DaBCa Para",
 										"longitude": 81.40833,
 										"latitude": 21.20843,
 										"label": "Locality",
-										"code": "BR11",
+										"code": "BC11",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -1354,7 +1354,7 @@
 										"longitude": 81.41531,
 										"latitude": 21.20476,
 										"label": "Locality",
-										"code": "BR12",
+										"code": "BC12",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -1379,7 +1379,7 @@
 										"longitude": 81.42562,
 										"latitude": 21.20518,
 										"label": "Locality",
-										"code": "BR13",
+										"code": "BC13",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -1404,7 +1404,7 @@
 										"longitude": 81.43169,
 										"latitude": 21.20688,
 										"label": "Locality",
-										"code": "BR14",
+										"code": "BC14",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -1429,7 +1429,7 @@
 										"longitude": 81.42668,
 										"latitude": 21.20716,
 										"label": "Locality",
-										"code": "BR15",
+										"code": "BC15",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -1454,7 +1454,7 @@
 										"longitude": 81.43063,
 										"latitude": 21.20985,
 										"label": "Locality",
-										"code": "BR16",
+										"code": "BC16",
 										"pincode":[493221],
 										"area": "Area2",
 										"children": []
@@ -1479,7 +1479,7 @@
 										"longitude": 81.4373,
 										"latitude": 21.21607,
 										"label": "Locality",
-										"code": "BR17",
+										"code": "BC17",
 										"pincode": [493221],
 										"area": "Area2",
 										"children": []
@@ -1504,7 +1504,7 @@
 										"longitude": 81.44428,
 										"latitude": 21.2189,
 										"label": "Locality",
-										"code": "BR18",
+										"code": "BC18",
 										"pincode": [493221],
 										"area": "Area2",
 										"children": []
@@ -1529,7 +1529,7 @@
 										"longitude": 81.44808,
 										"latitude": 21.22258,
 										"label": "Locality",
-										"code": "BR19",
+										"code": "BC19",
 										"pincode": [493221],
 										"area": "Area2",
 										"children": []
@@ -1554,7 +1554,7 @@
 										"longitude": 81.45096,
 										"latitude": 21.23121,
 										"label": "Locality",
-										"code": "BR20",
+										"code": "BC20",
 										"pincode": [492003],
 										"area": "Area2",
 										"children": []
@@ -1579,7 +1579,7 @@
 										"longitude": 81.45612,
 										"latitude": 21.23319,
 										"label": "Locality",
-										"code": "BR21",
+										"code": "BC21",
 										"pincode":[492003],
 										"area": "Area2",
 										"children": []
@@ -1604,7 +1604,7 @@
 										"longitude": 81.46022,
 										"latitude": 21.23517,
 										"label": "Locality",
-										"code": "BR22",
+										"code": "BC22",
 										"pincode":[492003],
 										"area": "Area3",
 										"children": []
@@ -1629,7 +1629,7 @@
 										"longitude": 81.45445,
 										"latitude": 21.22541,
 										"label": "Locality",
-										"code": "BR23",
+										"code": "BC23",
 										"pincode":[492003],
 										"area": "Area3",
 										"children": []
@@ -1654,7 +1654,7 @@
 										"longitude": 81.44732,
 										"latitude": 21.21537,
 										"label": "Locality",
-										"code": "BR24",
+										"code": "BC24",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1679,7 +1679,7 @@
 										"longitude": 81.45333,
 										"latitude": 21.21767,
 										"label": "Locality",
-										"code": "BR25",
+										"code": "BC25",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1704,7 +1704,7 @@
 										"longitude": 81.45667,
 										"latitude": 21.22233,
 										"label": "Locality",
-										"code": "BR26",
+										"code": "BC26",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1729,7 +1729,7 @@
 										"longitude": 81.46244,
 										"latitude": 21.22601,
 										"label": "Locality",
-										"code": "BR27",
+										"code": "BC27",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1754,7 +1754,7 @@
 										"longitude": 81.461,
 										"latitude": 21.22078,
 										"label": "Locality",
-										"code": "BR28",
+										"code": "BC28",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1779,7 +1779,7 @@
 										"longitude": 81.47587,
 										"latitude": 21.2299,
 										"label": "Locality",
-										"code": "BR29",
+										"code": "BC29",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1804,7 +1804,7 @@
 										"longitude": 81.49613,
 										"latitude": 21.22098,
 										"label": "Locality",
-										"code": "BR30",
+										"code": "BC30",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1829,7 +1829,7 @@
 										"longitude": 81.48467,
 										"latitude": 21.21483,
 										"label": "Locality",
-										"code": "BR31",
+										"code": "BC31",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1854,7 +1854,7 @@
 										"longitude": 81.47526,
 										"latitude": 21.20549,
 										"label": "Locality",
-										"code": "BR32",
+										"code": "BC32",
 										"pincode":[492003],
 										"area": "Area3",
 										"children": []
@@ -1879,7 +1879,7 @@
 										"longitude": 81.46843,
 										"latitude": 21.21872,
 										"label": "Locality",
-										"code": "BR33",
+										"code": "BC33",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1904,7 +1904,7 @@
 										"longitude": 81.46054,
 										"latitude": 21.21603,
 										"label": "Locality",
-										"code": "BR34",
+										"code": "BC34",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1929,7 +1929,7 @@
 										"longitude": 81.44756,
 										"latitude": 21.20953,
 										"label": "Locality",
-										"code": "BR35",
+										"code": "BC35",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1954,7 +1954,7 @@
 										"longitude": 81.46114,
 										"latitude": 21.20167,
 										"label": "Locality",
-										"code": "BR36",
+										"code": "BC36",
 										"pincode": [492003],
 										"area": "Area3",
 										"children": []
@@ -1979,7 +1979,7 @@
 										"longitude": 81.44847,
 										"latitude": 21.19269,
 										"label": "Locality",
-										"code": "BR37",
+										"code": "BC37",
 										"pincode": [493221],
 										"area": "Area3",
 										"children": []
@@ -2004,7 +2004,7 @@
 										"longitude": 81.43709,
 										"latitude": 21.17996,
 										"label": "Locality",
-										"code": "BR38",
+										"code": "BC38",
 										"pincode": [493221],
 										"area": "Area3",
 										"children": []
@@ -2029,7 +2029,7 @@
 										"longitude": 81.41538,
 										"latitude": 21.16069,
 										"label": "Locality",
-										"code": "BR39",
+										"code": "BC39",
 										"pincode": [493221],
 										"area": "Area3",
 										"children": []
@@ -2054,7 +2054,7 @@
 										"longitude": 81.43471,
 										"latitude": 21.16564,
 										"label": "Locality",
-										"code": "BR40",
+										"code": "BC40",
 										"pincode": [493221],
 										"area": "Area1",
 										"children": []
