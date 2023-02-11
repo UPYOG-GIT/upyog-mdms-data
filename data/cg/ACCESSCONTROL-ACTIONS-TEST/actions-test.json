@@ -13324,6 +13324,43 @@
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
+    },
+	{
+      "id": {2409},
+      "name": "{EmployeeReport}",
+      "url": "url",
+      "displayName": "{Employee Report}",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "file:///work-dir/upyog-configs/configs/reports/reportFileLocationsv1.txt",
+      "navigationURL": "{Naviagtion url}",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": {2410},
+      "name": "EmployeeReport",
+      "url": "/report/hrms/EmployeeReport/_get",
+      "displayName": "{Employee Report}",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "{Service code}",
+      "code": "null",
+      "path": "file:///work-dir/upyog-configs/configs/reports/reportFileLocationsv1.txt"
+    },
+    {
+      "id": 2411,
+      "name": "EmployeeReport",
+      "url": "/report/hrms/EmployeeReport/metadata/_get",
+      "displayName": "Employee Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "{Service code}",
+      "code": "null",
+      "path": "file:///work-dir/upyog-configs/configs/reports/reportFileLocationsv1.txt"
     }
    ]
 }
