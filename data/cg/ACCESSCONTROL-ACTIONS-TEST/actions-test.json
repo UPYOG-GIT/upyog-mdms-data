@@ -13326,10 +13326,10 @@
       "path": ""
     },
 	{
-      "id": {2409},
-      "name": "{EmployeeReport}",
-      "url": "url",
-      "displayName": "{Employee Report}",
+      "id": 2500,
+      "name": "EmployeeReport",
+      "url": "/report/hrms/EmployeeReport/_get",
+      "displayName": "Employee Report",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
@@ -13341,7 +13341,7 @@
       "rightIcon": ""
     },
     {
-      "id": {2410},
+      "id": 2501,
       "name": "EmployeeReport",
       "url": "/report/hrms/EmployeeReport/_get",
       "displayName": "{Employee Report}",
@@ -13352,7 +13352,7 @@
       "path": "file:///work-dir/upyog-configs/configs/reports/reportFileLocationsv1.txt"
     },
     {
-      "id": 2411,
+      "id": 2502,
       "name": "EmployeeReport",
       "url": "/report/hrms/EmployeeReport/metadata/_get",
       "displayName": "Employee Report",
