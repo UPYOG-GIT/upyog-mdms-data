@@ -6499,7 +6499,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6510,7 +6510,7 @@
          "url": "/report/rainmaker-pgr/EmployeeReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
