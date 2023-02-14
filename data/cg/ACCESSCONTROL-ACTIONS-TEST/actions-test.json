@@ -8999,7 +8999,7 @@
          "url": "/report/hrms/EmployeeReport/metadata/_get",
          "displayName": "Rainmaker Employee report",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EmployeeReport",
          "code": "null",
          "path": "Employee Report"
@@ -9010,7 +9010,7 @@
          "url": "/report/hrms/EmployeeReport/_get",
          "displayName": "Employee Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EmployeeReport",
          "code": "null",
          "path": "Employee Report"
