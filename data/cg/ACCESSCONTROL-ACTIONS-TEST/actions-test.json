@@ -13336,7 +13336,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "null",
-      "path": "hrms", 
+      "path": "HRMS.Search", 
       "navigationURL": "/report/hrms/EmployeeReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -13351,7 +13351,7 @@
       "enabled": true,
       "serviceCode": "{Service code}",
       "code": "null",
-      "path": "hrms"
+      "path": "HRMS.Search"
     },
     
 
@@ -13364,7 +13364,7 @@
       "enabled": true,
       "serviceCode": "{Service code}",
       "code": "null",
-      "path": "hrms"
+      "path": "HRMS.Search"
     }
 	   
    ]
