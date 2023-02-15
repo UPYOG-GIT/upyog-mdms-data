@@ -25095,22 +25095,22 @@
       "tenantId": "cg"
     },
 	{
-      "rolecode": "EMPLOYEE",
-      "actionid": 2500,
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2409,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "cg"
     },
 	{
-      "rolecode": "EMPLOYEE",
-      "actionid": 2501,
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2410,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "cg"
     },
 	{
-      "rolecode": "EMPLOYEE",
-      "actionid": 2502,
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2411,
       "actioncode": "",
-      "tenantId": "pb"
-    }
+      "tenantId": "cg"
+    },
   ]
 }
