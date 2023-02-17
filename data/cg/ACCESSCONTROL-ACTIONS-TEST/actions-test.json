@@ -13324,7 +13324,44 @@
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
-    }
+    },
+	   {
+         "id": 2409,
+         "name": "MisPendencyReport",
+         "url": "url",
+         "displayName": "MisPendencyReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "HRMS.Search Employee",
+         "navigationURL": "report/rainmaker-obps/MisPendencyReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 2410,
+         "name": "MisPendencyReport",
+         "url": "/report/rainmaker-obps/MisPendencyReport/metadata/_get",
+         "displayName": "MisPendencyReport",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "MisPendencyReport",
+         "code": "null",
+         "path": "HRMS.Search Employee"
+      },
+      {
+         "id": 2411,
+         "name": "MisPendencyReport",
+         "url": "/report/rainmaker-obps/MisPendencyReport/_get",
+         "displayName": "MisPendencyReport",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "MisPendencyReport",
+         "code": "null",
+         "path": "HRMS.Search Employee"
+      }
 	   
    ]
 }
