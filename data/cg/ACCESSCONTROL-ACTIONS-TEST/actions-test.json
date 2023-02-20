@@ -13361,6 +13361,43 @@
          "serviceCode": "MisPendencyReport",
          "code": "null",
          "path": "HRMS.Search Employee"
+      },
+	   {
+         "id": 2412,
+         "name": "EmployeeReport",
+         "url": "url",
+         "displayName": "EmployeeReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "HRMS.Search Employee",
+         "navigationURL": "report/hrms/EmployeeReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 2413,
+         "name": "EmployeeReport",
+         "url": "/report/hrms/EmployeeReport/metadata/_get",
+         "displayName": "EmployeeReport",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "EmployeeReport",
+         "code": "null",
+         "path": "HRMS.Search Employee"
+      },
+      {
+         "id": 2414,
+         "name": "EmployeeReport",
+         "url": "/report/hrms/EmployeeReport/_get",
+         "displayName": "EmployeeReport",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "EmployeeReport",
+         "code": "null",
+         "path": "HRMS.Search Employee"
       }
 	   
    ]
