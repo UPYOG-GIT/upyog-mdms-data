@@ -13367,7 +13367,7 @@
          "name": "EmployeeReport",
          "url": "url",
          "displayName": "EmployeeReport",
-         "orderNumber": 1,
+         "orderNumber": 2,
          "parentModule": "",
          "enabled": true,
          "serviceCode": "",
