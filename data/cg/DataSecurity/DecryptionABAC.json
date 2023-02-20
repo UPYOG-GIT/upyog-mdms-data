@@ -297,7 +297,7 @@
         "key" : "EmployeeReport",
         "roleAttributeAccessList" : [
           {
-            "roleCode" : "EMPLOYEE",
+            "roleCode" : "HRMS_ADMIN",
             "attributeAccessList" : [
               {
                 "attribute" : {
