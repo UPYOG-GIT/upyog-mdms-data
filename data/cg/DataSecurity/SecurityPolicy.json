@@ -745,7 +745,7 @@
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
-        {
+		    {
           "name": "currentowner",
           "jsonPath": "currentowner",
           "patternId": "002",
@@ -753,6 +753,22 @@
         }
       ],
       "roleBasedDecryptionPolicy": [
+        {
+          "roles": ["HRMS_ADMIN"],
+          "attributeAccessList": [
+            {
+              "attribute": "name",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+		      	{
+              "attribute": "currentowner",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            }
+			
+          ]
+        }
       ]
     },
     {
