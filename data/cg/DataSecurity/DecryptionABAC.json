@@ -310,6 +310,22 @@
         ]
       },
 	    {
+        "key" : "ObpsApplicationStatusReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "HRMS_ADMIN",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+	    {
         "key" : "MisPendencyReport",
         "roleAttributeAccessList" : [
           {
