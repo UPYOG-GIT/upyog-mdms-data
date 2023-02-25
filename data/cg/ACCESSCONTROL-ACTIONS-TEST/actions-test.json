@@ -13435,6 +13435,43 @@
          "serviceCode": "ObpsApplicationStatusReport",
          "code": "null",
          "path": ""
+      },
+	   {
+         "id": 2418,
+         "name": "CitizenService",
+         "url": "url",
+         "displayName": "CitizenService",
+         "orderNumber": 4,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "HRMS.Search Employee",
+         "navigationURL": "report/citizen/CitizenService",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 2419,
+         "name": "CitizenService",
+         "url": "/report/citizen/CitizenService/metadata/_get",
+         "displayName": "CitizenService",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "CitizenService",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2420,
+         "name": "CitizenService",
+         "url": "/report/citizen/CitizenService/_get",
+         "displayName": "CitizenService",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "CitizenService",
+         "code": "null",
+         "path": ""
       }
 	   
    ]
