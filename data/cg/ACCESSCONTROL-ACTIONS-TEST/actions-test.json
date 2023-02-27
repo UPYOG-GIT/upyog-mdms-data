@@ -13336,14 +13336,14 @@
          "serviceCode": "",
          "code": "null",
          "path": "HRMS.Search Employee",
-         "navigationURL": "report/rainmaker-obps/MisPendencyReport",
+         "navigationURL": "report/rainmaker-bpa/MisPendencyReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
       {
          "id": 2410,
          "name": "MisPendencyReport",
-         "url": "/report/rainmaker-obps/MisPendencyReport/metadata/_get",
+         "url": "/report/rainmaker-bpa/MisPendencyReport/metadata/_get",
          "displayName": "MisPendencyReport",
          "orderNumber": 1,
          "enabled": true,
@@ -13354,7 +13354,7 @@
       {
          "id": 2411,
          "name": "MisPendencyReport",
-         "url": "/report/rainmaker-obps/MisPendencyReport/_get",
+         "url": "/report/rainmaker-bpa/MisPendencyReport/_get",
          "displayName": "MisPendencyReport",
          "orderNumber": 0,
          "enabled": true,
