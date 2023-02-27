@@ -332,6 +332,28 @@
         ]
       },
 	    {
+        "key" : "bpaApplicationStatusReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "HRMS_ADMIN",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+			  {
+                "attribute" : {
+                  "jsonPath" : "*/currentowner"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+	    {
         "key" : "MisPendencyReport",
         "roleAttributeAccessList" : [
           {
