@@ -13455,7 +13455,7 @@
          "id": 2419,
          "name": "bpaApplicationStatusReport",
          "url": "/report/rainmaker-bpa/bpaApplicationStatusReport/metadata/_get",
-         "displayName": "CitizenService",
+         "displayName": "bpaApplicationStatusReport",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "bpaApplicationStatusReport",
