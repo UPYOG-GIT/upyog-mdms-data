@@ -13409,7 +13409,7 @@
          "enabled": true,
          "serviceCode": "",
          "code": "null",
-         "path": "OBPS.Search Employee",
+         "path": "OBPS.Obps Reports.ObpsApplicationStatusReport",
          "navigationURL": "report/rainmaker-obps/ObpsApplicationStatusReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
