@@ -4438,30 +4438,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 840,
-      "actioncode": "",
-      "tenantId": "cg"
-    },
-    {
-      "rolecode": "ULB Operator",
-      "actionid": 840,
-      "actioncode": "",
-      "tenantId": "cg"
-    },
-    {
-      "rolecode": "Property Verifier",
-      "actionid": 840,
-      "actioncode": "",
-      "tenantId": "cg"
-    },
-    {
-      "rolecode": "Property Approver",
-      "actionid": 840,
-      "actioncode": "",
-      "tenantId": "cg"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 841,
       "actioncode": "",
       "tenantId": "cg"
