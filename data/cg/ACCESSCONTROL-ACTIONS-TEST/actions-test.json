@@ -2061,29 +2061,7 @@
          "code": "null",
          "path": "Trade License.License Transactions.UpdateLegacyLicense"
       },
-     /* {
-         "id": 840,
-         "name": "PT Report",
-         "url": "/report/property/_get",
-         "displayName": "PT Report",
-         "orderNumber": 1,
-         "enabled": false,
-         "serviceCode": "PTIS_REPORTS",
-         "code": "null",
-         "path": "Property Tax.PTIS Reports.PT Report"
-      },
-      {
-         "id": 841,
-         "name": "PT Report Metadata",
-         "url": "/report/property/metadata/_get",
-         "displayName": "PT Report Metadata",
-         "orderNumber": 2,
-         "enabled": false,
-         "serviceCode": "PTIS_REPORTS",
-         "code": "null",
-         "path": "Property Tax.PTIS Reports.PT Report Metadata"
-      },*/
-      {
+       {
          "id": 873,
          "name": "SearchBoundaryType",
          "url": "/egov-location/boundarytypes/_search",
