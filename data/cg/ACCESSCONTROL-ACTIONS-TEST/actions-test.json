@@ -10270,28 +10270,6 @@
       "rightIcon": ""
     },
     {
-      "id": 2164,
-      "name": "ReceiptRegisterReport",
-      "url": "/report/pt-reports/PTReceiptRegister/_get",
-      "displayName": "Property Receipt Report",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "PTREGISTERREPORTS",
-      "code": "null",
-      "path": "Employee Report"
-    },
-    {
-      "id": 2165,
-      "name": "ReceiptRegisterReport",
-      "url": "/report/pt-reports/PTReceiptRegister/metadata/_get",
-      "displayName": "Receipt Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "PTREPORTMETADATA",
-      "code": "null",
-      "path": "Employee Report"
-    },
-    {
       "id": 2166,
       "name": "PTCollectionReport",
       "url": "url",
