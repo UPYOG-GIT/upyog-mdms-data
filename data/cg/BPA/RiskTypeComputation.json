@@ -14,7 +14,7 @@
 		{
             "fromPlotArea": 105,
             "toPlotArea": 500,
-            "fromBuildingHeight": 6,
+            "fromBuildingHeight": 7,
             "toBuildingHeight": 10,
             "riskType": "LOW",
             "occupancyType": "Residential",
@@ -23,7 +23,7 @@
 		{
             "fromPlotArea": 501,
             "toPlotArea": 1000,
-            "fromBuildingHeight": 10,
+            "fromBuildingHeight": 11,
             "toBuildingHeight": 14,
             "riskType": "MEDIUM",
             "occupancyType": "Residential",
