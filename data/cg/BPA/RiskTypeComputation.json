@@ -6,7 +6,7 @@
             "fromPlotArea": 0,
             "toPlotArea": 104,
             "fromBuildingHeight": 0,
-            "toBuildingHeight": 14,
+            "toBuildingHeight": 6,
             "riskType": "VLOW",
             "occupancyType": "Residential",
             "note": "Up to 14.0 mt Height and Plot area upto 300 sq.mt and No basement and No stilt floor and Number of floor <=3"
@@ -14,8 +14,8 @@
 		{
             "fromPlotArea": 105,
             "toPlotArea": 500,
-            "fromBuildingHeight": 0,
-            "toBuildingHeight": 14,
+            "fromBuildingHeight": 6,
+            "toBuildingHeight": 10,
             "riskType": "LOW",
             "occupancyType": "Residential",
             "note": "Up to 10.0 mt Height and Plot area upto 300 sq.mt and No basement and No stilt floor and Number of floor <=3"
@@ -23,7 +23,7 @@
 		{
             "fromPlotArea": 501,
             "toPlotArea": 1000,
-            "fromBuildingHeight": 0,
+            "fromBuildingHeight": 10,
             "toBuildingHeight": 14,
             "riskType": "MEDIUM",
             "occupancyType": "Residential",
