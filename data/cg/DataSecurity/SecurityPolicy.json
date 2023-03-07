@@ -820,7 +820,7 @@
         {
           "name": "emailid",
           "jsonPath": "emailid",
-          "patternId": "002",
+          "patternId": "004",
           "defaultVisibility": "PLAIN"
         },
 		    {
