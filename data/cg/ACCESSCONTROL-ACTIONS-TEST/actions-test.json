@@ -13413,6 +13413,43 @@
          "serviceCode": "bpaApplicationStatusReport",
          "code": "null",
          "path": ""
+      },
+	   {
+         "id": 2421,
+         "name": "HistoryMisReport",
+         "url": "url",
+         "displayName": "HistoryMisReport",
+         "orderNumber": 5,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "HRMS.Search Employee",
+         "navigationURL": "report/rainmaker-bpa/HistoryMisReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 2422,
+         "name": "HistoryMisReport",
+         "url": "/report/rainmaker-bpa/HistoryMisReport/metadata/_get",
+         "displayName": "HistoryMisReport",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "HistoryMisReport",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2423,
+         "name": "HistoryMisReport",
+         "url": "/report/rainmaker-bpa/HistoryMisReport/_get",
+         "displayName": "HistoryMisReport",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "HistoryMisReport",
+         "code": "null",
+         "path": ""
       }
 	   
    ]
