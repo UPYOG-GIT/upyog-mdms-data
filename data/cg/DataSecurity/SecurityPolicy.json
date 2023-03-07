@@ -810,6 +810,45 @@
         }
       ]
     },
+	  {
+      "model": "HistoryMisReport",
+      "uniqueIdentifier": {
+        "name": "uuid",
+        "jsonPath": "/uuid"
+      },
+      "attributes": [
+        {
+          "name": "emailid",
+          "jsonPath": "emailid",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+		    {
+          "name": "mobilenumber",
+          "jsonPath": "mobilenumber",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": ["HRMS_ADMIN"],
+          "attributeAccessList": [
+            {
+              "attribute": "emailid",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+		      	{
+              "attribute": "mobilenumber",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            }
+			
+          ]
+        }
+      ]
+    },
     {
       "model": "ObpsDailyCollectionReport",
       "uniqueIdentifier": {
