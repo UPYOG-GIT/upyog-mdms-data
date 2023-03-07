@@ -369,6 +369,28 @@
           }
         ]
       },
+	    {
+        "key" : "HistoryMisReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "HRMS_ADMIN",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/emailid"
+                },
+                "accessType" : "PLAIN"
+              },
+			  {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
       {
         "key" : "ULBEmployeeWiseReport",
         "roleAttributeAccessList" : [
