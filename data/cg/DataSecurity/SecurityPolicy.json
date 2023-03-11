@@ -818,9 +818,9 @@
       },
       "attributes": [
         {
-          "name": "emailid",
-          "jsonPath": "emailid",
-          "patternId": "004",
+          "name": "name",
+          "jsonPath": "name",
+          "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
 		    {
@@ -835,7 +835,7 @@
           "roles": ["HRMS_ADMIN"],
           "attributeAccessList": [
             {
-              "attribute": "emailid",
+              "attribute": "name",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
