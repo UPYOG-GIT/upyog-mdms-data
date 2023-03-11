@@ -377,7 +377,7 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/usr.name"
+                  "jsonPath" : "*/name"
                 },
                 "accessType" : "PLAIN"
               },
