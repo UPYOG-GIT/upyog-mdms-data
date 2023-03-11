@@ -818,8 +818,8 @@
       },
       "attributes": [
         {
-          "name": "name",
-          "jsonPath": "name",
+          "name": "usr.name",
+          "jsonPath": "usr.name",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
@@ -835,7 +835,7 @@
           "roles": ["HRMS_ADMIN"],
           "attributeAccessList": [
             {
-              "attribute": "name",
+              "attribute": "usr.name",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
