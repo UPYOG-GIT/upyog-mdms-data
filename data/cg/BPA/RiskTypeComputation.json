@@ -32,8 +32,8 @@
         {
             "fromPlotArea": 1001,
             "toPlotArea": 9999999999,
-            "fromBuildingHeight": 0,
-            "toBuildingHeight": 14,
+            "fromBuildingHeight": 15,
+            "toBuildingHeight": 9999999,
             "riskType": "HIGH",
             "occupancyType": "Residential",
             "note": "(Heigh 15 Mt or More) or ( Plot area >=800 sq.Mt)"
