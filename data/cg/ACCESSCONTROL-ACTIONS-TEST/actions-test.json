@@ -13450,6 +13450,43 @@
          "serviceCode": "HistoryMisReport",
          "code": "null",
          "path": ""
+      },
+	   {
+         "id": 2424,
+         "name": "MisPaymentReport",
+         "url": "url",
+         "displayName": "MisPaymentReport",
+         "orderNumber": 5,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "HRMS.Search Employee",
+         "navigationURL": "report/rainmaker-bpa/MisPaymentReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 2425,
+         "name": "MisPaymentReport",
+         "url": "/report/rainmaker-bpa/MisPaymentReport/metadata/_get",
+         "displayName": "HistoryMisReport",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "MisPaymentReport",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2426,
+         "name": "MisPaymentReport",
+         "url": "/report/rainmaker-bpa/MisPaymentReport/_get",
+         "displayName": "HistoryMisReport",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "HistoryMisReport",
+         "code": "null",
+         "path": ""
       }
 	   
    ]
