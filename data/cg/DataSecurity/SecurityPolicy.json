@@ -849,6 +849,22 @@
         }
       ]
     },
+	  {
+      "model": "MisPaymentReport",
+      "uniqueIdentifier": {
+        "name": "uuid",
+        "jsonPath": "/uuid"
+      },
+      "attributes": [
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": ["HRMS_ADMIN"],
+          "attributeAccessList": [		
+          ]
+        }
+      ]
+    },
     {
       "model": "ObpsDailyCollectionReport",
       "uniqueIdentifier": {
