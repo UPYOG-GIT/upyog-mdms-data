@@ -13470,7 +13470,7 @@
          "id": 2425,
          "name": "MisPaymentReport",
          "url": "/report/rainmaker-bpa/MisPaymentReport/metadata/_get",
-         "displayName": "HistoryMisReport",
+         "displayName": "MisPaymentReport",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "MisPaymentReport",
@@ -13481,10 +13481,10 @@
          "id": 2426,
          "name": "MisPaymentReport",
          "url": "/report/rainmaker-bpa/MisPaymentReport/_get",
-         "displayName": "HistoryMisReport",
+         "displayName": "MisPaymentReport",
          "orderNumber": 0,
          "enabled": true,
-         "serviceCode": "HistoryMisReport",
+         "serviceCode": "MisPaymentReport",
          "code": "null",
          "path": ""
       }
