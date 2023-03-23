@@ -402,12 +402,6 @@
                   "jsonPath" : ""
                 },
                 "accessType" : "PLAIN"
-              },
-			  {
-                "attribute" : {
-                  "jsonPath" : ""
-                },
-                "accessType" : "PLAIN"
               }
             ]
           }
