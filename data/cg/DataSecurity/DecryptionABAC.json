@@ -391,6 +391,28 @@
           }
         ]
       },
+	    {
+        "key" : "MisPaymentReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "HRMS_ADMIN",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : ""
+                },
+                "accessType" : "PLAIN"
+              },
+			  {
+                "attribute" : {
+                  "jsonPath" : ""
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
       {
         "key" : "ULBEmployeeWiseReport",
         "roleAttributeAccessList" : [
