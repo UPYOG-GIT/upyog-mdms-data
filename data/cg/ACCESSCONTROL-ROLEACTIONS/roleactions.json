@@ -11227,7 +11227,7 @@
       "rolecode": "BPAREG_APPROVER",
       "actionid": 1752,
       "actioncode": "",
-      "tenantId": "cg"
+      "tenantId": "cg.birgaon"
     },
     {
       "rolecode": "EMPLOYEE",
