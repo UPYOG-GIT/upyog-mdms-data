@@ -10995,15 +10995,12 @@
       "actioncode": "",
       "tenantId": "cg"
     },	  
-  {
+    {
       "rolecode": "BPAREG_DOC_VERIFIER",
       "actionid": 1743,
       "actioncode": "",
       "tenantId": "cg"
-    },	  	  
-	  
-	  
-	  
+    },	  	    
     {
       "rolecode": "BPA_APPROVER",
       "actionid": 1730,
