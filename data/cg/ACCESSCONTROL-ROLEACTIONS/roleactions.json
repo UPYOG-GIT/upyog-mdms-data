@@ -11223,13 +11223,7 @@
       "actioncode": "",
       "tenantId": "cg"
     },
-    {
-      "rolecode": "BPAREG_APPROVER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "cg.birgaon"
-    },
-	  {
+	 {
       "rolecode": "BPAREG_APPROVER",
       "actionid": 1752,
       "actioncode": "",
