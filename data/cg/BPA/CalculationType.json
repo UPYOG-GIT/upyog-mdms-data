@@ -288,6 +288,35 @@
             "amount": 99650,
             "occupancyType": "Mercantile / Commercial"
         },
+	     {
+            "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+            "serviceType": "ALL",
+            "riskType": "LOW",
+            "feeType": "ApplicationFee",
+            "amount": 100
+        },
+        {
+            "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "ALL",
+            "feeType": "ApplicationFee",
+            "amount": 120
+        },
+        {
+            "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "LOW",
+            "feeType": "ApplicationFee",
+            "amount": 200
+        },
+        {
+            "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "amount": 100
+        },
+        
 	        {
             "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
             "serviceType": "ALL",
