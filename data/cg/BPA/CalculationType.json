@@ -288,5 +288,40 @@
             "amount": 99650,
             "occupancyType": "Mercantile / Commercial"
         }
+	        {
+            "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+            "serviceType": "ALL",
+            "riskType": "ALL",
+            "feeType": "SanctionFee",
+            "amount": 500,
+            "calsiLogic": [
+                {
+                    "parameter": "builtuparea",
+                    "tolerancelimit": 1,
+                    "calculationType": "number",
+                    "deviation": [
+                        {
+                            "from": 1,
+                            "to": 3,
+                            "MF": 1,
+                            "uom": 100
+                        },
+                        {
+                            "from": 3,
+                            "to": 5,
+                            "MF": 2,
+                            "uom": 150
+                        },
+                        {
+                            "from": 5,
+                            "to": 499,
+                            "MF": 3,
+                            "uom": 200
+                        }
+                    ],
+                    "paramPath": "edcrDetail[0].planDetail.virtualBuilding.totalBuitUpArea"
+                }
+            ]
+        }
     ]
 }
