@@ -25195,6 +25195,18 @@
       "actionid": 2426,
       "actioncode": "",
       "tenantId": "cg"
+    },
+	  {
+      "rolecode": "CITIZEN",
+      "actionid": 2427,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+	  {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 2427,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
