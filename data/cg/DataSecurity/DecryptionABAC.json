@@ -339,13 +339,13 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/applicantname"
+                  "jsonPath" : "*/name"
                 },
                 "accessType" : "PLAIN"
               },
 			  {
                 "attribute" : {
-                  "jsonPath" : "*/archContactno"
+                  "jsonPath" : "*/mobilenumber"
                 },
                 "accessType" : "PLAIN"
               }
