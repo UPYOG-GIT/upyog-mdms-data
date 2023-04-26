@@ -816,6 +816,16 @@
               "attribute": "mobilenumber",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
+            },
+		   {
+              "attribute": "Aname",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+		   {
+              "attribute": "Amobilenumber",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
             }
           ]
         }
