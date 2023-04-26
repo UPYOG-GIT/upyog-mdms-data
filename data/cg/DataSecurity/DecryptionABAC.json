@@ -348,6 +348,18 @@
                   "jsonPath" : "*/mobilenumber"
                 },
                 "accessType" : "PLAIN"
+              },
+		    {
+                "attribute" : {
+                  "jsonPath" : "*/Aname"
+                },
+                "accessType" : "PLAIN"
+              },
+		    {
+                "attribute" : {
+                  "jsonPath" : "*/Amobilenumber"
+                },
+                "accessType" : "PLAIN"
               }
             ]
           }
