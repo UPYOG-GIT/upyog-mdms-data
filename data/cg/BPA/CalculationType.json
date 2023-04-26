@@ -302,13 +302,7 @@
             "feeType": "ApplicationFee",
             "amount": 120
         },
-        {
-            "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-            "serviceType": "NEW_CONSTRUCTION",
-            "riskType": "LOW",
-            "feeType": "ApplicationFee",
-            "amount": 200
-        },
+       
 	      {
             "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
             "serviceType": "NEW_CONSTRUCTION",
@@ -317,6 +311,17 @@
             "builtupAreaFrom": 1001,
             "builtupAreaTo": 3000,
             "amount": 33217,
+            "occupancyType": "Mercantile / Commercial"
+            
+        },
+	    {
+            "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "LOW",
+            "feeType": "ApplicationFee",
+            "builtupAreaFrom": 100,
+            "builtupAreaTo": 300,
+            "amount": 200,
             "occupancyType": "Mercantile / Commercial"
             
         },
