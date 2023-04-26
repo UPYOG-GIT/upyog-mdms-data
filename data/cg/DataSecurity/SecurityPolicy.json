@@ -779,13 +779,13 @@
       },
       "attributes": [
         {
-          "name": "applicantname",
+          "name": "name",
           "jsonPath": "name",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
 		{
-          "name": "archContactno",
+          "name": "mobilenumber",
           "jsonPath": "mobilenumber",
           "patternId": "001",
           "defaultVisibility": "PLAIN"
@@ -796,12 +796,12 @@
           "roles": ["HRMS_ADMIN"],
           "attributeAccessList": [
             {
-              "attribute": "applicantname",
+              "attribute": "name",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
 		    {
-              "attribute": "archContactno",
+              "attribute": "mobilenumber",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             }
