@@ -814,12 +814,27 @@
           "roles": ["HRMS_ADMIN"],
           "attributeAccessList": [
             {
-              "attribute": "name",
+              "attribute": "applicantname",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
 		      	{
-              "attribute": "mobilenumber",
+              "attribute": "archContactno",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+			{
+              "attribute": "emailid",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+			{
+              "attribute": "CitName",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+			{
+              "attribute": "CitMob",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             }
