@@ -780,13 +780,13 @@
       "attributes": [
         {
           "name": "applicantname",
-          "jsonPath": "name",
+          "jsonPath": "applicantname",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
 		{
           "name": "archContactno",
-          "jsonPath": "mobilenumber",
+          "jsonPath": "archContactno",
           "patternId": "001",
           "defaultVisibility": "PLAIN"
         },
@@ -798,13 +798,13 @@
         },
 		{
           "name": "CitName",
-          "jsonPath": "name",
+          "jsonPath": "CitName",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
 		{
           "name": "CitMob",
-          "jsonPath": "mobilenumber",
+          "jsonPath": "CitMob",
           "patternId": "001",
           "defaultVisibility": "PLAIN"
         }
