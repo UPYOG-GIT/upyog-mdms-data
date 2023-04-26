@@ -779,15 +779,33 @@
       },
       "attributes": [
         {
-          "name": "name",
+          "name": "applicantname",
           "jsonPath": "name",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
-		    {
-          "name": "currentowner",
-          "jsonPath": "currentowner",
+		{
+          "name": "archContactno",
+          "jsonPath": "mobilenumber",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+		{
+          "name": "emailid",
+          "jsonPath": "emailId",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        },
+		{
+          "name": "CitName",
+          "jsonPath": "name",
           "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+		{
+          "name": "CitMob",
+          "jsonPath": "mobilenumber",
+          "patternId": "001",
           "defaultVisibility": "PLAIN"
         }
       ],
@@ -801,7 +819,7 @@
               "secondLevelVisibility": "PLAIN"
             },
 		      	{
-              "attribute": "currentowner",
+              "attribute": "mobilenumber",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             }
