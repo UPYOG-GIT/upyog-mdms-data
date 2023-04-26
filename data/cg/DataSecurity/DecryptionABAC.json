@@ -339,13 +339,31 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/name"
+                  "jsonPath" : "*/applicantname"
                 },
                 "accessType" : "PLAIN"
               },
 			  {
                 "attribute" : {
-                  "jsonPath" : "*/currentowner"
+                  "jsonPath" : "*/archContactno"
+                },
+                "accessType" : "PLAIN"
+              },
+			  {
+                "attribute" : {
+                  "jsonPath" : "*/emailid"
+                },
+                "accessType" : "PLAIN"
+              },
+			  {
+                "attribute" : {
+                  "jsonPath" : "*/CitName"
+                },
+                "accessType" : "PLAIN"
+              },
+			  {
+                "attribute" : {
+                  "jsonPath" : "*/CitMob"
                 },
                 "accessType" : "PLAIN"
               }
