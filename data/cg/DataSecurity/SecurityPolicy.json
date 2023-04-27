@@ -792,13 +792,13 @@
         },
 	      {
           "name": "Aname",
-          "jsonPath": "name",
+          "jsonPath": "Aname",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
 	      {
           "name": "Amobilenumber",
-          "jsonPath": "mobilenumber",
+          "jsonPath": "Amobilenumber",
           "patternId": "001",
           "defaultVisibility": "PLAIN"
         }
