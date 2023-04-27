@@ -793,7 +793,7 @@
 	      {
           "name": "emailId",
           "jsonPath": "emailId",
-          "patternId": "001",
+          "patternId": "004",
           "defaultVisibility": "PLAIN"
         },
 	      {
