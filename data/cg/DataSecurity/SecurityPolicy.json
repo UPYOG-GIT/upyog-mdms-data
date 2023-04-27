@@ -823,13 +823,18 @@
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
-		   {
-              "attribute": "Aname",
+		  {
+              "attribute": "emailId",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
 		   {
-              "attribute": "Amobilenumber",
+              "attribute": "username",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+		   {
+              "attribute": "altContactNumber",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             }
