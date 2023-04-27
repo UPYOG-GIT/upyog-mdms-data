@@ -791,14 +791,20 @@
           "defaultVisibility": "PLAIN"
         },
 	      {
-          "name": "Aname",
-          "jsonPath": "Aname",
+          "name": "emailId",
+          "jsonPath": "emailId",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+	      {
+          "name": "username",
+          "jsonPath": "username",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
 	      {
-          "name": "Amobilenumber",
-          "jsonPath": "Amobilenumber",
+          "name": "altContactNumber",
+          "jsonPath": "altContactNumber",
           "patternId": "001",
           "defaultVisibility": "PLAIN"
         }
