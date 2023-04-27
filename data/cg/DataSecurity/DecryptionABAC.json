@@ -351,13 +351,19 @@
               },
 		    {
                 "attribute" : {
-                  "jsonPath" : "*/Aname"
+                  "jsonPath" : "*/emailId"
                 },
                 "accessType" : "PLAIN"
               },
 		    {
                 "attribute" : {
-                  "jsonPath" : "*/Amobilenumber"
+                  "jsonPath" : "*/username"
+                },
+                "accessType" : "PLAIN"
+              },
+		    {
+                "attribute" : {
+                  "jsonPath" : "*/altContactNumber"
                 },
                 "accessType" : "PLAIN"
               }
