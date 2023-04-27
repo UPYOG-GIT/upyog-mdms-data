@@ -804,7 +804,7 @@
         },
 	      {
           "name": "altContactNumber",
-          "jsonPath": "altContactNumber",
+          "jsonPath": "mobileNumber",
           "patternId": "001",
           "defaultVisibility": "PLAIN"
         }
