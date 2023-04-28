@@ -13496,6 +13496,43 @@
          "serviceCode": "COLLECTION_SERVICE",
          "code": "null",
          "path": ""
+    },
+	{
+         "id": 2428,
+         "name": "DirectBhavanAnugyaReport",
+         "url": "url",
+         "displayName": "DirectBhavanAnugyaReport",
+         "orderNumber": 5,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "HRMS.Search Employee",
+         "navigationURL": "report/rainmaker-bpa/DirectBhavanAnugyaReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+    },
+    {
+         "id": 2429,
+         "name": "DirectBhavanAnugyaReport",
+         "url": "/report/rainmaker-bpa/DirectBhavanAnugyaReport/metadata/_get",
+         "displayName": "DirectBhavanAnugyaReport",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "DirectBhavanAnugyaReport",
+         "code": "null",
+         "path": ""
+    },
+    {
+         "id": 2430,
+         "name": "DirectBhavanAnugyaReport",
+         "url": "/report/rainmaker-bpa/DirectBhavanAnugyaReport/_get",
+         "displayName": "DirectBhavanAnugyaReport",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "DirectBhavanAnugyaReport",
+         "code": "null",
+         "path": ""
     }
 	   
    ]
