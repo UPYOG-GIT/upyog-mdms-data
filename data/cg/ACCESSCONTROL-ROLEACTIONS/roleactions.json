@@ -25207,6 +25207,24 @@
       "actionid": 2427,
       "actioncode": "",
       "tenantId": "cg"
+    },
+	  {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2428,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+	{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2429,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+	{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2430,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
