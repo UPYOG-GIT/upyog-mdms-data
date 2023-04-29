@@ -425,6 +425,22 @@
           }
         ]
       },
+	    {
+        "key" : "DirectBhavanAnugyaReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "HRMS_ADMIN",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : ""
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+    },
       {
         "key" : "ULBEmployeeWiseReport",
         "roleAttributeAccessList" : [
