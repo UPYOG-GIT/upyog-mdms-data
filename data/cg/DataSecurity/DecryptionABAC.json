@@ -351,7 +351,7 @@
               },
 		    {
                 "attribute" : {
-                  "jsonPath" : "*/emailId"
+                  "jsonPath" : "*/emailid"
                 },
                 "accessType" : "PLAIN"
               },
@@ -363,7 +363,7 @@
               },
 		    {
                 "attribute" : {
-                  "jsonPath" : "*/altContactNumber"
+                  "jsonPath" : "*/altcontactnumber"
                 },
                 "accessType" : "PLAIN"
               }
