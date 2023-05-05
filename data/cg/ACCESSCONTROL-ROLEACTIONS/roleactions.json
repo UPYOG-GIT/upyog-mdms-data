@@ -10970,6 +10970,12 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+	   {
+      "rolecode": "BPAREG_APPROVER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
     {
       "rolecode": "BPA_VERIFIER",
       "actionid": 1730,
