@@ -13545,14 +13545,14 @@
          "serviceCode": "",
          "code": "null",
          "path": "HRMS.Search Employee",
-         "navigationURL": "report/rainmaker-bpa/ArchitectMisReport",
+         "navigationURL": "report/rainmaker-obps/ArchitectMisReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
     },
     {
          "id": 2432,
          "name": "ArchitectMisReport",
-         "url": "/report/rainmaker-bpa/ArchitectMisReport/metadata/_get",
+         "url": "/report/rainmaker-obps/ArchitectMisReport/metadata/_get",
          "displayName": "ArchitectMisReport",
          "orderNumber": 1,
          "enabled": true,
@@ -13563,7 +13563,7 @@
     {
          "id": 2433,
          "name": "ArchitectMisReport",
-         "url": "/report/rainmaker-bpa/ArchitectMisReport/_get",
+         "url": "/report/rainmaker-obps/ArchitectMisReport/_get",
          "displayName": "ArchitectMisReport",
          "orderNumber": 0,
          "enabled": true,
