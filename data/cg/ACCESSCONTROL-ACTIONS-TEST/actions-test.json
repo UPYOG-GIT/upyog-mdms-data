@@ -13533,6 +13533,43 @@
          "serviceCode": "DirectBhavanAnugyaReport",
          "code": "null",
          "path": ""
+    },
+	   {
+         "id": 2431,
+         "name": "ArchitectMisReport",
+         "url": "url",
+         "displayName": "ArchitectMisReport",
+         "orderNumber": 6,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "HRMS.Search Employee",
+         "navigationURL": "report/rainmaker-bpa/ArchitectMisReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+    },
+    {
+         "id": 2432,
+         "name": "ArchitectMisReport",
+         "url": "/report/rainmaker-bpa/ArchitectMisReport/metadata/_get",
+         "displayName": "ArchitectMisReport",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "ArchitectMisReport",
+         "code": "null",
+         "path": ""
+    },
+    {
+         "id": 2433,
+         "name": "ArchitectMisReport",
+         "url": "/report/rainmaker-bpa/ArchitectMisReport/_get",
+         "displayName": "ArchitectMisReport",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "ArchitectMisReport",
+         "code": "null",
+         "path": ""
     }
 	   
    ]
