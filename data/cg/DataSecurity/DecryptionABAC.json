@@ -441,6 +441,34 @@
           }
         ]
     },
+	    {
+        "key" : "ArchitectMisReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "HRMS_ADMIN",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/architectname"
+                },
+                "accessType" : "PLAIN"
+              },
+			  {
+                "attribute" : {
+                  "jsonPath" : "*/contactno"
+                },
+                "accessType" : "PLAIN"
+              },
+		    {
+                "attribute" : {
+                  "jsonPath" : "*/emailid"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+    },
       {
         "key" : "ULBEmployeeWiseReport",
         "roleAttributeAccessList" : [
