@@ -921,13 +921,13 @@
       },
       "attributes": [
         {
-          "name": "architectname",
+          "name": "name",
           "jsonPath": "*/name",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
 		{
-          "name": "contactno",
+          "name": "mobilenumber",
           "jsonPath": "*/mobilenumber",
           "patternId": "001",
           "defaultVisibility": "PLAIN"
@@ -944,12 +944,12 @@
           "roles": ["HRMS_ADMIN"],
           "attributeAccessList": [
             {
-              "attribute": "architectname",
+              "attribute": "name",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
 		    {
-              "attribute": "contactno",
+              "attribute": "mobilenumber",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
