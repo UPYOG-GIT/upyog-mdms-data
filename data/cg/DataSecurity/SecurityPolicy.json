@@ -772,7 +772,7 @@
       ]
     },
 	  {
-      "model": "ArchitectMisReport",
+      "model": "bpaApplicationStatusReport",
       "uniqueIdentifier": {
         "name": "uuid",
         "jsonPath": "/uuid"
