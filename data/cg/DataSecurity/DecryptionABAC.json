@@ -449,13 +449,13 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/architectname"
+                  "jsonPath" : "*/name"
                 },
                 "accessType" : "PLAIN"
               },
 			  {
                 "attribute" : {
-                  "jsonPath" : "*/contactno"
+                  "jsonPath" : "*/mobilenumber"
                 },
                 "accessType" : "PLAIN"
               },
