@@ -922,19 +922,19 @@
       "attributes": [
         {
           "name": "architectname",
-          "jsonPath": "architectname",
+          "jsonPath": "*/name",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
 		{
           "name": "contactno",
-          "jsonPath": "contactno",
+          "jsonPath": "*/mobilenumber",
           "patternId": "001",
           "defaultVisibility": "PLAIN"
         },
 	      {
           "name": "emailid",
-          "jsonPath": "emailid",
+          "jsonPath": "*/emailid",
           "patternId": "004",
           "defaultVisibility": "PLAIN"
         }
