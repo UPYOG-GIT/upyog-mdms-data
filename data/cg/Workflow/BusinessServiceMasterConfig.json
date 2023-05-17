@@ -5,12 +5,12 @@
       {
         "businessService": "NewTL",
         "active": "true",
-        "isStatelevel": "true"
+        "isStatelevel": "false"
       },
       {
         "businessService": "PGR",
         "active": "true",
-        "isStatelevel": "true"
+        "isStatelevel": "false"
       }
         
     ]
