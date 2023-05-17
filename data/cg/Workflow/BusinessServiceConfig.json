@@ -4,7 +4,7 @@
   "BusinessServiceConfig": [
     {
       "code": "NEWTL",
-      "isStateLevel": true
+      "isStateLevel": false
     },
     {
       "code": "FIRENOC",
