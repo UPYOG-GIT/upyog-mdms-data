@@ -420,6 +420,12 @@
                   "jsonPath" : ""
                 },
                 "accessType" : "PLAIN"
+              },
+	      {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
               }
             ]
           }
