@@ -13570,6 +13570,43 @@
          "serviceCode": "ArchitectMisReport",
          "code": "null",
          "path": ""
+    },
+	   {
+         "id": 2434,
+         "name": "ApplicationStatusReport",
+         "url": "url",
+         "displayName": "ApplicationStatusReport",
+         "orderNumber": 5,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "HRMS.Search Employee",
+         "navigationURL": "report/rainmaker-obps/ApplicationStatusReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+    },
+    {
+         "id": 2435,
+         "name": "ApplicationStatusReport",
+         "url": "/report/rainmaker-obps/ApplicationStatusReport/metadata/_get",
+         "displayName": "ApplicationStatusReport",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "ApplicationStatusReport",
+         "code": "null",
+         "path": ""
+    },
+    {
+         "id": 2436,
+         "name": "ApplicationStatusReport",
+         "url": "/report/rainmaker-obps/ApplicationStatusReport/_get",
+         "displayName": "ApplicationStatusReport",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "ApplicationStatusReport",
+         "code": "null",
+         "path": ""
     }
 	   
    ]
