@@ -772,6 +772,44 @@
       ]
     },
 	  {
+      "model": "ApplicationStatusReport",
+      "uniqueIdentifier": {
+        "name": "uuid",
+        "jsonPath": "/uuid"
+      },
+      "attributes": [
+        {
+          "name": "name",
+          "jsonPath": "name",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+	    {
+          "name": "username",
+          "jsonPath": "username",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": ["HRMS_ADMIN"],
+          "attributeAccessList": [
+            {
+              "attribute": "name",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+			{
+              "attribute": "username",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+	  {
       "model": "bpaApplicationStatusReport",
       "uniqueIdentifier": {
         "name": "uuid",
