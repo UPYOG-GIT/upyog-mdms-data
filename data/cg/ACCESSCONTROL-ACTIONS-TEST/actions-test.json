@@ -13607,6 +13607,42 @@
          "serviceCode": "ApplicationStatusReport",
          "code": "null",
          "path": ""
+    },
+    {
+         "id": 2437,
+         "name": "Renew BPALicense",
+         "url": "/tl-services/v1/BPAREN/_create",
+         "parentModule": "",
+         "displayName": "Renew BPALicense",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "tl-services",
+         "code": "null",
+         "path": ""
+    },
+    {
+         "id": 2438,
+         "name": "Search BPALicense",
+         "url": "/tl-services/v1/BPAREN/_search",
+         "parentModule": "",
+         "displayName": "Search BPALicense",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "tl-services",
+         "code": "null",
+         "path": ""
+    },
+    {
+         "id": 2439,
+         "name": "Get Bill BPA Renewal",
+         "url": "/tl-calculator/v1/BPAREN/_getbill",
+         "parentModule": "",
+         "displayName": "Get Bill BPA Renewal",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "tl-calculator",
+         "code": "null",
+         "path": ""
     }
 	   
    ]
