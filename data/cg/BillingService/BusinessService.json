@@ -1059,6 +1059,17 @@
       "isActive": true
     },
     {
+      "businessService": "BPARenewal",
+      "code": "BPAREN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
       "businessService": "ws-services-calculation",
       "code": "WS",
       "collectionModesNotAllowed": [
