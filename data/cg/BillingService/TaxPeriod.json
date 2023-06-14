@@ -779,6 +779,14 @@
       "financialYear": "2018-28"
     },
     {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPAREN",
+      "code": "BPAREN10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
       "fromDate": 1554076800000,
       "toDate": 1617175799000,
       "periodCycle": "TWOYEARS",
