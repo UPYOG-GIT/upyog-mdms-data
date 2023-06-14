@@ -205,6 +205,16 @@
       "isRequired": false
     },
     {
+      "category": "FEE",
+      "service": "BPAREN",
+      "name": "BPA Stakeholder Renewal fees",
+      "code": "BPAREN_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
       "category": "TAX",
       "service": "FIRENOC",
       "name": "firenoc taxes",
