@@ -8281,6 +8281,2695 @@
           "order": 14
         }
       ]
+    },
+     {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "INPROGRESS",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	 {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "INPROGRESS",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 151
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 152
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 153
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 154
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 155
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 156
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 157
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 158
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 159
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 160
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 161
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 162
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 163
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 164
+        }
+      ]
+    },
+	
+	 {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "INITIATED",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	  {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "INITIATED",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 151
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 152
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 153
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 154
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 155
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 156
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 157
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 158
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 159
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 160
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 161
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 162
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 163
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 164
+        }
+      ]
+    },
+	
+	  {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "DOC_VERIFICATION_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 49
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 50
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 51
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 52
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 53
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 54
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 55
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 56
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 57
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 59
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 60
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 61
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 62
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 63
+        }
+      ]
+    },
+	
+	 {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "DOC_VERIFICATION_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 221
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 222
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 223
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 224
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 225
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 226
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 227
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 228
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 229
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 230
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 231
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 232
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 233
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 234
+        }
+      ]
+    },
+	    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "FIELDINSPECTION_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "FIELDINSPECTION_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "NOC_VERIFICATION_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 66
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 67
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 68
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 69
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 70
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 71
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 72
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 73
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 74
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 75
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 76
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 77
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 78
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 79
+        }
+      ]
+    },
+	
+	{
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "NOC_VERIFICATION_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 241
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 242
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 243
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 244
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 245
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 246
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 247
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 248
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 249
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 250
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 251
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 252
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 253
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 254
+        }
+      ]
+    },
+	
+	{
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "PENDINGAPPROVAL",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	 {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "PENDINGAPPROVAL",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "APPROVED",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "APPROVED",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	  {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "REJECTED",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	 {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "REJECTED",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "SEND_TO_CITIZEN",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "CITIZEN_APPROVAL_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": false,
+          "allow": false,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": false,
+          "allow": false,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": false,
+          "allow": false,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": false,
+          "allow": false,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": false,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": false,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": false,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": false,
+          "allow": false,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": false,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": false,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": false,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": false,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": false,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": false,
+          "order": 14
+        }
+      ]
+    },
+	
+	   {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "CITIZEN_APPROVAL_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": false,
+          "allow": false,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": false,
+          "allow": false,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": false,
+          "allow": false,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": false,
+          "allow": false,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": false,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": false,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": false,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": false,
+          "allow": false,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": false,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": false,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": false,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": false,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": false,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": false,
+          "order": 14
+        }
+      ]
+    },
+	    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "BACK_FROM_NOC_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	   {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "BACK_FROM_NOC_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	   {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "BACK_FROM_FI_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	 {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "BACK_FROM_FI_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	  {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "BACK_FROM_DOC_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "BACK_FROM_DOC_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "PENDING_APPL_FEE_PAYMENT",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	   {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "PENDING_APPL_FEE_PAYMENT",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	 {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "PENDING_SANC_FEE_PAYMENT",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+	
+	    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "VLOW",
+      "WFState": "PENDING_SANC_FEE_PAYMENT",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
     }
   ]
 }
