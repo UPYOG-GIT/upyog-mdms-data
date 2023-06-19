@@ -8658,7 +8658,7 @@
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "VLOW",
-      "WFState": "DOC_VERIFICATION_PENDING",
+      "WFState": "DOC_VERIFICATION_PENDING_BY_ENGINEER",
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
