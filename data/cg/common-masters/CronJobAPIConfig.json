@@ -15,6 +15,12 @@
       },
       {
         "jobName": "daily",
+        "active": "true",
+        "method": "POST",
+        "url": "http://egov-edcr.egov:8080/edcr/rest/dcr/deleterejectedscrutiny"
+      },
+      {
+        "jobName": "daily",
         "active": "false",
         "method": "POST",
         "url": "http://tl-services.egov:8080/tl-services/v1/TL/Reminder/_batch",
