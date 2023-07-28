@@ -13643,6 +13643,17 @@
          "serviceCode": "tl-calculator",
          "code": "null",
          "path": ""
+    },
+    {
+      "id": 2440,
+      "name": "Plan Scrutiny",
+      "url": "/edcr/rest/dcr/rgascrutinize",
+      "displayName": "Regularisation Scrutiny",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "EDCR",
+      "code": "null",
+      "path": ""
     }
 	   
    ]
