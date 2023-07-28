@@ -695,6 +695,14 @@
             "idname": "bpa.permitnumber"
         },
         {
+            "format": "CG-RG-[cy:yyyy-MM-dd]-[SEQ_EG_RG_APN]",
+            "idname": "rga.aplnumber"
+        },
+        {
+            "format": "CG-RG-[cy:yyyy-MM-dd]-[SEQ_EG_RG_PN]",
+            "idname": "rga.permitnumber"
+        },
+        {
             "format": "BR/CB/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
             "idname": "birth_cert.receipt.id"
         },
