@@ -1,0 +1,25 @@
+{
+    "tenantId": "cg",
+    "moduleName": "RGA",
+    "BPAAppicationMapping": [
+      {
+        "code": "REGULARISATION",
+        "active": true,
+        "applicationType": [
+          "REGULARISATION"
+        ],
+        "roles": [
+          "BPA_VERIFIER",
+          "BPA_FIELD_INSPECTOR",
+          "BPA_NOC_VERIFIER",
+          "BPA_APPROVER",
+          "BPA_ARCHITECT",
+          "BPA_BUILDER",
+          "BPA_ENGINEER",
+          "BPA_STRUCTURALENGINEER",
+          "BPA_TOWNPLANNER",
+          "BPA_SUPERVISOR"
+        ]
+      }
+    ]
+  }

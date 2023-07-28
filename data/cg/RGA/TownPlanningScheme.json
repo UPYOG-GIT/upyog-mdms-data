@@ -1,0 +1,11 @@
+{
+  "tenantId": "cg",
+  "moduleName": "RGA",
+  "TownPlanningScheme": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    }
+  ]
+}

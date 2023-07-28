@@ -1,0 +1,11 @@
+{
+    "tenantId": "cg",
+    "moduleName": "RGA",
+    "ServiceType": [
+       {
+        "code": "REGULARISATION",
+        "active": true,
+        "applicationType":["REGULARISATION"]
+      }
+    ]
+  }

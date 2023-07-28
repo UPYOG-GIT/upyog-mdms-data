@@ -1,0 +1,292 @@
+{
+    "tenantId": "cg",
+    "moduleName": "RGA",
+    "CalculationType": [
+	{
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "amount": 1,
+            "occupancyType": "Residential"
+        },
+	    {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "LOW",
+            "feeType": "ApplicationFee",
+            "amount": 1,
+            "occupancyType": "Residential"
+        },
+        {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 0,
+            "builtupAreaTo": 75,
+            "amount": 1329,
+            "occupancyType": "Residential"
+        },
+        {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 76,
+            "builtupAreaTo": 125,
+            "amount": 2330,
+            "occupancyType": "Residential"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 126,
+            "builtupAreaTo": 200,
+            "amount": 3986,
+            "occupancyType": "Residential"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 201,
+            "builtupAreaTo": 300,
+            "amount": 5979,
+            "occupancyType": "Residential"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 301,
+            "builtupAreaTo": 400,
+            "amount": 7972,
+            "occupancyType": "Residential"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 401,
+            "builtupAreaTo": 600,
+            "amount": 13287,
+            "occupancyType": "Residential"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 601,
+            "builtupAreaTo": 750,
+            "amount": 16608,
+            "occupancyType": "Residential"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 751,
+            "builtupAreaTo": 1000,
+            "amount": 23252,
+            "occupancyType": "Residential"
+        },
+	{
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "HIGH",
+            "feeType": "ApplicationFee",
+            "builtupAreaFrom": 751,
+            "builtupAreaTo": 1000,
+            "amount": 23252,
+            "occupancyType": "Residential,Mercantile / Commercial"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 1001,
+            "builtupAreaTo": 1250,
+            "amount": 33217,
+            "occupancyType": "Residential"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 1251,
+            "builtupAreaTo": 1500,
+            "amount": 46503,
+            "occupancyType": "Residential"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 1501,
+            "builtupAreaTo": 2000,
+            "amount": 66433,
+            "occupancyType": "Residential"
+        },
+        {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "ALL",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 2001,
+            "builtupAreaTo": 2500,
+            "amount": 99650,
+            "occupancyType": "Residential"
+        },
+          {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 0,
+            "builtupAreaTo": 75,
+            "amount": 1329,
+            "occupancyType": "Mercantile / Commercial"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "ALL",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 76,
+            "builtupAreaTo": 125,
+            "amount": 2329,
+            "occupancyType": "Mercantile / Commercial"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "ALL",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 126,
+            "builtupAreaTo": 200,
+            "amount": 3986,
+            "occupancyType": "Mercantile / Commercial"
+        },
+	{
+            "applicationType": "REGULARISATION",
+            "serviceType": "NEW_CONSTRUCTION",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 126,
+            "builtupAreaTo": 200,
+            "amount": 3986,
+            "occupancyType": "Mercantile / Commercial"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "ALL",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 201,
+            "builtupAreaTo": 300,
+            "amount": 5979,
+            "occupancyType": "Mercantile / Commercial"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "ALL",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 301,
+            "builtupAreaTo": 400,
+            "amount": 7972,
+            "occupancyType": "Mercantile / Commercial"
+        },
+        {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 401,
+            "builtupAreaTo": 600,
+            "amount": 13287,
+            "occupancyType": "Mercantile / Commercial"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 601,
+            "builtupAreaTo": 750,
+            "amount": 16608,
+            "occupancyType": "Mercantile / Commercial"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 751,
+            "builtupAreaTo": 1000,
+            "amount": 23252,
+            "occupancyType": "Mercantile / Commercial"
+        },
+	{
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "HIGH",
+            "feeType": "ApplicationFee",
+            "builtupAreaFrom": 751,
+            "builtupAreaTo": 1000,
+            "amount": 23256,
+            "occupancyType": "Mercantile / Commercial"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 1001,
+            "builtupAreaTo": 1250,
+            "amount": 33217,
+            "occupancyType": "Mercantile / Commercial"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 1251,
+            "builtupAreaTo": 1500,
+            "amount": 46503,
+            "occupancyType": "Mercantile / Commercial"
+        },
+         {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 1501,
+            "builtupAreaTo": 2000,
+            "amount": 66433,
+            "occupancyType": "Mercantile / Commercial"
+        },
+        {
+            "applicationType": "REGULARISATION",
+            "serviceType": "REGULARISATION",
+            "riskType": "LOW",
+            "feeType": "Low_ApplicationFee",
+            "builtupAreaFrom": 2001,
+            "builtupAreaTo": 2500,
+            "amount": 99650,
+            "occupancyType": "Mercantile / Commercial"
+        }
+    ]
+}

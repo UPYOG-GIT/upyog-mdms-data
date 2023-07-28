@@ -1,0 +1,11 @@
+{
+  "tenantId": "cg",
+  "moduleName": "RGA",
+  "ProposedLandUse": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    }
+  ]
+}

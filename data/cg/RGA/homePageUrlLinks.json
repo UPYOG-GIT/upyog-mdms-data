@@ -1,0 +1,14 @@
+{
+    "tenantId": "cg",
+    "moduleName": "RGA",
+    "homePageUrlLinks": [
+       {
+        "applicationType": "REGULARISATION",
+        "serviceType": "REGULARISATION",
+        "link": "/building_plan_scrutiny/new_construction",
+        "WFState": "INITIATED",
+        "flow": "RGA",
+        "active": true
+      }
+    ]
+  }
