@@ -5,7 +5,7 @@
        {
         "applicationType": "REGULARISATION",
         "serviceType": "REGULARISATION",
-        "link": "/building_plan_scrutiny/new_construction",
+        "link": "/regularisation/regularisation",
         "WFState": "INITIATED",
         "flow": "RGA",
         "active": true
