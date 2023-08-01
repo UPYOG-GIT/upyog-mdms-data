@@ -25351,6 +25351,24 @@
       "actionid": 2440,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2441,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2441,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 2441,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
