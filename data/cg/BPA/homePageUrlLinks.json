@@ -17,7 +17,7 @@
         "flow": "OCBPA",
         "active":true
       },{
-        "applicationType": "Regularisation",
+        "applicationType": "REGULARISATION",
         "serviceType": "REGULARISATION",
         "link": "/regularisation/regularisation",
         "WFState": "INITIATED",
