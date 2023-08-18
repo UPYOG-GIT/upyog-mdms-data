@@ -25369,6 +25369,60 @@
       "actionid": 2441,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPAREG_DOC_VERIFIER",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+	{
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
