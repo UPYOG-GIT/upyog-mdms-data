@@ -13665,6 +13665,17 @@
          "serviceCode": "RGA",
          "code": "null",
          "path": ""
+      },
+     {
+         "id": 2442,
+         "name": "BPA-updateapplicationservice",
+         "url": "/bpa-services/v1/bpa/_update",
+         "displayName": "Apply",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "BPA",
+         "code": "null",
+         "path": ""
       }
 	   
    ]
