@@ -13668,15 +13668,27 @@
       },
      {
          "id": 2442,
-         "name": "BPA-updateapplicationservice",
-         "url": "/bpa-services/v1/bpa/_update",
+         "name": "RGA-updateapplicationservice",
+         "url": "/rga-services/rga/_update",
          "displayName": "Apply",
          "orderNumber": 0,
          "enabled": false,
-         "serviceCode": "BPA",
+         "serviceCode": "RGA",
          "code": "null",
          "path": ""
-      }
+      },
+      {
+      "id": 2443,
+      "name": "RGA Calculator",
+      "url": "/rga-calculator/rga/_calculate",
+      "parentModule": "",
+      "displayName": "RGA Calculator",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "RGA",
+      "code": "null",
+      "path": ""
+    },
 	   
    ]
 }
