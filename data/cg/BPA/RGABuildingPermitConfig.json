@@ -1,6 +1,6 @@
 {
     "tenantId": "cg",
-    "moduleName": "BPA",
+    "moduleName": "RGA",
     "BuildingPermitConfig": [
       {
         "head": "ES_NEW_APPLICATION_PROPERTY_ASSESSMENT",
