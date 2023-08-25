@@ -7,13 +7,13 @@
         "body": [
           {
             "route": "docs-required",
-            "component": "DocsRequired",
+            "component": "RGADocsRequired",
             "key": "data",
             "nextStep": "basic-details"
           },
           {
             "route": "basic-details",
-            "component": "BasicDetails",
+            "component": "RGABasicDetails",
             "key": "data",
             "nextStep": "plot-details"
           },
