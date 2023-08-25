@@ -331,7 +331,7 @@
           }
         ]
       },
-	    {
+	   {
         "key" : "bpaApplicationStatusReport",
         "roleAttributeAccessList" : [
           {
@@ -339,13 +339,7 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/owner_1"
-                },
-                "accessType" : "PLAIN"
-              },
-		    {
-                "attribute" : {
-                  "jsonPath" : "*/owner_2"
+                  "jsonPath" : "*/name"
                 },
                 "accessType" : "PLAIN"
               },
