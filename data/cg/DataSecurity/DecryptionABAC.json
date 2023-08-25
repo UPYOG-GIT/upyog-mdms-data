@@ -339,7 +339,13 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/name"
+                  "jsonPath" : "*/owner_1"
+                },
+                "accessType" : "PLAIN"
+              },
+		    {
+                "attribute" : {
+                  "jsonPath" : "*/owner_2"
                 },
                 "accessType" : "PLAIN"
               },
