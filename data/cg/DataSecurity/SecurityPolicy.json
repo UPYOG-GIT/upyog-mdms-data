@@ -809,7 +809,7 @@
         }
       ]
     },
-	  {
+	 {
       "model": "bpaApplicationStatusReport",
       "uniqueIdentifier": {
         "name": "uuid",
@@ -817,14 +817,8 @@
       },
       "attributes": [
         {
-          "name": "owner_1",
-          "jsonPath": "owner_1",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
-        },
-	      {
-          "name": "owner_2",
-          "jsonPath": "owner_2",
+          "name": "name",
+          "jsonPath": "name",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
