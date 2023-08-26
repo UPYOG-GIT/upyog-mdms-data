@@ -817,8 +817,20 @@
       },
       "attributes": [
         {
-          "name": "name",
-          "jsonPath": "name",
+          "name": "owner_1",
+          "jsonPath": "owner_1",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+	      {
+          "name": "owner_2",
+          "jsonPath": "owner_2",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+	      {
+          "name": "owner_3",
+          "jsonPath": "owner_3",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         },
