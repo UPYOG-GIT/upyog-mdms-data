@@ -19,7 +19,7 @@
           },
           {
             "route": "plot-details",
-            "component": "PlotDetails",
+            "component": "RGAPlotDetails",
             "key": "data",
             "nextStep": "scrutiny-details",
             "texts": {
@@ -46,7 +46,7 @@
           },
           {
             "route": "scrutiny-details",
-            "component": "ScrutinyDetails",
+            "component": "RGAScrutinyDetails",
             "nextStep": "location",
             "hideInEmployee": true,
             "key": "subOccupancy",
@@ -60,7 +60,7 @@
           },
           {
             "route": "location",
-            "component": "LocationDetails",
+            "component": "RGALocationDetails",
             "nextStep": "owner-details",
             "hideInEmployee": true,
             "key": "address",
@@ -74,7 +74,7 @@
           },
           {
             "route": "owner-details",
-            "component": "OwnerDetails",
+            "component": "RGAOwnerDetails",
             "nextStep": "document-details",
             "key": "owners",
             "texts": {
@@ -85,25 +85,13 @@
           },
           {
             "route": "document-details",
-            "component": "DocumentDetails",
+            "component": "RGADocumentDetails",
             "nextStep": "noc-details",
             "key": "documents",
             "texts": {
               "headerCaption": "BPA_OWNER_AND_DOCUMENT_DETAILS_LABEL",
               "header": "BPA_DOCUMENT_DETAILS_LABEL",
               "submitBarLabel": "CS_COMMON_NEXT"
-            }
-          },
-          {
-            "route": "noc-details",
-            "component": "NOCDetails",
-            "nextStep": null,
-            "key": "nocDocuments",
-            "texts": {
-              "headerCaption": "BPA_NOC_DETAILS_SUMMARY",
-              "header": "",
-              "submitBarLabel": "CS_COMMON_NEXT",
-              "skipText": "CORE_COMMON_SKIP_CONTINUE"
             }
           }
         ]
