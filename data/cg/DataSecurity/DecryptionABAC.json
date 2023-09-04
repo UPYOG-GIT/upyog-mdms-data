@@ -331,7 +331,7 @@
           }
         ]
       },
-	   {
+	  {
         "key" : "bpaApplicationStatusReport",
         "roleAttributeAccessList" : [
           {
@@ -357,10 +357,22 @@
               },
 			  {
                 "attribute" : {
-                  "jsonPath" : "*/mobilenumber"
+                  "jsonPath" : "*/owner_1_no"
                 },
                 "accessType" : "PLAIN"
               },
+			  {
+                "attribute" : {
+                  "jsonPath" : "*/owner_2_no"
+                },
+                "accessType" : "PLAIN"
+              },
+			  {
+                "attribute" : {
+                  "jsonPath" : "*/owner_3_no"
+                },
+                "accessType" : "PLAIN"
+              }
 		    {
                 "attribute" : {
                   "jsonPath" : "*/emailid"
