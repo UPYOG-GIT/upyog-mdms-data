@@ -835,8 +835,20 @@
           "defaultVisibility": "PLAIN"
         },
 		{
-          "name": "mobilenumber",
-          "jsonPath": "mobilenumber",
+          "name": "owner_1_no",
+          "jsonPath": "owner_1_no",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+		{
+          "name": "owner_2_no",
+          "jsonPath": "owner_2_no",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+		{
+          "name": "owner_3_no",
+          "jsonPath": "owner_3_no",
           "patternId": "001",
           "defaultVisibility": "PLAIN"
         },
