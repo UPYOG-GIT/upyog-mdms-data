@@ -13388,14 +13388,14 @@
          "serviceCode": "",
          "code": "null",
          "path": "HRMS.Search Employee",
-         "navigationURL": "report/rainmaker-obps/bpaApplicationStatusReport",
+         "navigationURL": "report/eg_hrms_employee/bpaApplicationStatusReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
       {
          "id": 2419,
          "name": "bpaApplicationStatusReport",
-         "url": "/report/rainmaker-obps/bpaApplicationStatusReport/metadata/_get",
+         "url": "/report/eg_hrms_employee/bpaApplicationStatusReport/metadata/_get",
          "displayName": "bpaApplicationStatusReport",
          "orderNumber": 1,
          "enabled": true,
@@ -13406,7 +13406,7 @@
       {
          "id": 2420,
          "name": "bpaApplicationStatusReport",
-         "url": "/report/rainmaker-obps/bpaApplicationStatusReport/_get",
+         "url": "/report/eg_hrms_employee/bpaApplicationStatusReport/_get",
          "displayName": "bpaApplicationStatusReport",
          "orderNumber": 0,
          "enabled": true,
