@@ -10973,7 +10973,7 @@
     },
 	  
     {
-      "applicationType": "Regularisation",
+      "applicationType": "REGULARISATION",
       "ServiceType": "REGULARISATION",
       "RiskType": "LOW",
       "WFState": "INITIATED",
@@ -11066,7 +11066,7 @@
     },
 	  
     {
-      "applicationType": "Regularisation",
+      "applicationType": "REGULARISATION",
       "ServiceType": "REGULARISATION",
       "RiskType": "LOW",
       "WFState": "INPROGRESS",
