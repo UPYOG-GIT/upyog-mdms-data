@@ -60,6 +60,14 @@
       "active": true
     },
     {
+      "code": "BPD.SITEIMG.SITEIMG",
+      "active": true
+    },
+    {
+      "code": "BPD.OTHERS.OTHERS",
+      "active": true
+    },
+    {
       "code": "NOC.FIRE.CERTIFICATE",
       "active": true
     },
