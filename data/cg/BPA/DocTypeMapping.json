@@ -91,6 +91,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -183,6 +195,18 @@
           "required": false,
           "allow": true,
           "order": 30
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 31
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 32
         }    
       ]
     },
@@ -275,6 +299,18 @@
           "required": false,
           "allow": true,
           "order": 46
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 47
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 48
         }
       ]
     },
@@ -643,6 +679,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -735,6 +783,18 @@
           "required": false,
           "allow": true,
           "order": 30
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 31
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 32
         }
       ]
     },
@@ -827,6 +887,18 @@
           "required": false,
           "allow": true,
           "order": 46
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 47
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 48
         }
       ]
     },
@@ -1195,6 +1267,18 @@
           "required": false,
           "allow": true,
           "order": 63
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 64
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 65
         }
       ]
     },
@@ -1287,6 +1371,18 @@
           "required": false,
           "allow": true,
           "order": 95
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 96
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 97
         }
       ]
     },
@@ -1379,6 +1475,18 @@
           "required": false,
           "allow": true,
           "order": 130
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 131
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 132
         }
       ]
     },
@@ -2023,6 +2131,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -2115,6 +2235,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -2207,6 +2339,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -2299,6 +2443,18 @@
           "required": false,
           "allow": true,
           "order": 79
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 80
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 81
         }
       ]
     },
@@ -2391,6 +2547,18 @@
           "required": false,
           "allow": true,
           "order": 114
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 115
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 116
         }
       ]
     },
@@ -2483,6 +2651,18 @@
           "required": false,
           "allow": true,
           "order": 146
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 147
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 148
         }
       ]
     },
@@ -3127,6 +3307,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -3219,6 +3411,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -3311,6 +3515,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -3679,6 +3895,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -3771,6 +3999,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -3863,6 +4103,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -4231,6 +4483,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -4323,6 +4587,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -4415,6 +4691,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -4507,6 +4795,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -4599,6 +4899,18 @@
           "required": false,
           "allow": true,
           "order": 30
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 31
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 32
         }
       ]
     },
@@ -4691,6 +5003,18 @@
           "required": false,
           "allow": true,
           "order": 46
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 47
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 48
         }
       ]
     },
@@ -5059,6 +5383,18 @@
           "required": false,
           "allow": false,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -5151,11 +5487,311 @@
           "required": false,
           "allow": false,
           "order": 30
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 31
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 32
         }
       ]
     },
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "MEDIUM",
+      "WFState": "CITIZEN_APPROVAL_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": false,
+          "allow": false,
+          "order": 33
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": false,
+          "allow": false,
+          "order": 34
+        },
+        {
+          "code": "APPL.LTR",
+          "required": false,
+          "allow": false,
+          "order": 35
+        },
+        {
+          "code": "APPL.TDP",
+          "required": false,
+          "allow": false,
+          "order": 36
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": false,
+          "order": 37
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": false,
+          "order": 38
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": false,
+          "order": 39
+        },
+        {
+          "code": "BPD.SITP",
+          "required": false,
+          "allow": false,
+          "order": 40
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": false,
+          "order": 41
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": false,
+          "order": 42
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": false,
+          "order": 43
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": false,
+          "order": 44
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": false,
+          "order": 45
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": false,
+          "order": 46
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 47
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 48
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "CITIZEN_APPROVAL_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": false,
+          "allow": false,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": false,
+          "allow": false,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": false,
+          "allow": false,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": false,
+          "allow": false,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": false,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": false,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": false,
+          "order": 7
+        },
+        {
+          "code": "BPD.SITP",
+          "required": false,
+          "allow": false,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": false,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": false,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": false,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": false,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": false,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": false,
+          "order": 14
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "HIGH",
+      "WFState": "CITIZEN_APPROVAL_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": false,
+          "allow": false,
+          "order": 17
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": false,
+          "allow": false,
+          "order": 18
+        },
+        {
+          "code": "APPL.LTR",
+          "required": false,
+          "allow": false,
+          "order": 19
+        },
+        {
+          "code": "APPL.TDP",
+          "required": false,
+          "allow": false,
+          "order": 20
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": false,
+          "order": 21
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": false,
+          "order": 22
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": false,
+          "order": 23
+        },
+        {
+          "code": "BPD.SITP",
+          "required": false,
+          "allow": false,
+          "order": 24
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": false,
+          "order": 25
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": false,
+          "order": 26
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": false,
+          "order": 27
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": false,
+          "order": 28
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": false,
+          "order": 29
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": false,
+          "order": 30
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "MEDIUM",
       "WFState": "CITIZEN_APPROVAL_PENDING",
@@ -5249,282 +5885,6 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "CITIZEN_APPROVAL_PENDING",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": false,
-          "allow": false,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": false,
-          "allow": false,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": false,
-          "allow": false,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": false,
-          "allow": false,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": false,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": false,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": false,
-          "order": 7
-        },
-        {
-          "code": "BPD.SITP",
-          "required": false,
-          "allow": false,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": false,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": false,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": false,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": false,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": false,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": false,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
-      "WFState": "CITIZEN_APPROVAL_PENDING",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "APPL.LTR",
-          "required": false,
-          "allow": false,
-          "order": 19
-        },
-        {
-          "code": "APPL.TDP",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "BPD.SITP",
-          "required": false,
-          "allow": false,
-          "order": 24
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": false,
-          "order": 25
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": false,
-          "order": 26
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": false,
-          "order": 27
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": false,
-          "order": 28
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": false,
-          "order": 29
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": false,
-          "order": 30
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "CITIZEN_APPROVAL_PENDING",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": false,
-          "allow": false,
-          "order": 33
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": false,
-          "allow": false,
-          "order": 34
-        },
-        {
-          "code": "APPL.LTR",
-          "required": false,
-          "allow": false,
-          "order": 35
-        },
-        {
-          "code": "APPL.TDP",
-          "required": false,
-          "allow": false,
-          "order": 36
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": false,
-          "order": 37
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": false,
-          "order": 38
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": false,
-          "order": 39
-        },
-        {
-          "code": "BPD.SITP",
-          "required": false,
-          "allow": false,
-          "order": 40
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": false,
-          "order": 41
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": false,
-          "order": 42
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": false,
-          "order": 43
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": false,
-          "order": 44
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": false,
-          "order": 45
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": false,
-          "order": 46
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "MEDIUM",
       "WFState": "BACK_FROM_NOC_VERIFICATION",
       "docTypes": [
@@ -5887,6 +6247,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -5979,6 +6351,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -6071,6 +6455,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -6439,6 +6835,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -6531,6 +6939,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -6623,6 +7043,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -6991,6 +7423,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -7083,6 +7527,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -7175,6 +7631,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -7543,6 +8011,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -7635,6 +8115,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -7727,6 +8219,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -8095,6 +8599,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -8187,6 +8703,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -8279,6 +8807,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -8371,6 +8911,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -8557,6 +9109,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -8743,6 +9307,18 @@
           "required": false,
           "allow": true,
           "order": 63
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 64
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 65
         }
       ]
     },
@@ -9021,6 +9597,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -9113,6 +9701,18 @@
           "required": false,
           "allow": true,
           "order": 79
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 80
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 81
         }
       ]
     },
@@ -9392,6 +9992,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -9578,6 +10190,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -9763,6 +10387,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -9855,6 +10491,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -9948,6 +10596,18 @@
           "required": false,
           "allow": false,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -10225,6 +10885,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -10410,6 +11082,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -10596,6 +11280,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -10782,6 +11478,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
@@ -10968,6 +11676,18 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.SITEIMG",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "BPD.OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 16
         }
       ]
     },
