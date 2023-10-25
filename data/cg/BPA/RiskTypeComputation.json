@@ -12,7 +12,7 @@
             "note": "Up to 14.0 mt Height and Plot area upto 300 sq.mt and No basement and No stilt floor and Number of floor <=3"
         },
         {
-            "fromPlotArea": 105,
+            "fromPlotArea": 104.1,
             "toPlotArea": 500,
             "fromBuildingHeight": 0,
             "toBuildingHeight": 14,
@@ -21,7 +21,7 @@
             "note": "Up to 10.0 mt Height and Plot area upto 300 sq.mt and No basement and No stilt floor and Number of floor <=3"
         },
         {
-            "fromPlotArea": 501,
+            "fromPlotArea": 500.1,
             "toPlotArea": 1000,
             "fromBuildingHeight": 0,
             "toBuildingHeight": 14,
@@ -30,7 +30,7 @@
             "note": "(Heigh >10 mt and <15) or ( Plot area < 800 sq.Mt and > 300 sq.Mt.)"
         },
         {
-            "fromPlotArea": 1001,
+            "fromPlotArea": 1000.1,
             "toPlotArea": 9999999999,
             "fromBuildingHeight": 15,
             "toBuildingHeight": 9999999999,
