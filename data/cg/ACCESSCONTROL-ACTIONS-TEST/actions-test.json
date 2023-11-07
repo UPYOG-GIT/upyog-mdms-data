@@ -13700,14 +13700,14 @@
          "serviceCode": "",
          "code": "null",
          "path": "HRMS.Search Employee",
-         "navigationURL": "report/rainmaker-bpa/DirectBhavanAnugyaReport",
+         "navigationURL": "report/rainmaker-bpa/NonDirectBhavanAnugyaReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
     },
     {
          "id": 2445,
          "name": "NonDirectBhavanAnugyaReport",
-         "url": "/report/rainmaker-bpa/DirectBhavanAnugyaReport/metadata/_get",
+         "url": "/report/rainmaker-bpa/NonDirectBhavanAnugyaReport/metadata/_get",
          "displayName": "NonDirectBhavanAnugyaReport",
          "orderNumber": 1,
          "enabled": true,
@@ -13718,7 +13718,7 @@
     {
          "id": 2446,
          "name": "NonDirectBhavanAnugyaReport",
-         "url": "/report/rainmaker-bpa/DirectBhavanAnugyaReport/_get",
+         "url": "/report/rainmaker-bpa/NonDirectBhavanAnugyaReport/_get",
          "displayName": "NonDirectBhavanAnugyaReport",
          "orderNumber": 0,
          "enabled": true,
