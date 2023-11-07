@@ -13688,6 +13688,43 @@
       "serviceCode": "RGA",
       "code": "null",
       "path": ""
+    },
+	   {
+         "id": 2444,
+         "name": "NonDirectBhavanAnugyaReport",
+         "url": "url",
+         "displayName": "NonDirectBhavanAnugyaReport",
+         "orderNumber": 5,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "HRMS.Search Employee",
+         "navigationURL": "report/rainmaker-bpa/DirectBhavanAnugyaReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+    },
+    {
+         "id": 2445,
+         "name": "NonDirectBhavanAnugyaReport",
+         "url": "/report/rainmaker-bpa/DirectBhavanAnugyaReport/metadata/_get",
+         "displayName": "NonDirectBhavanAnugyaReport",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "NonDirectBhavanAnugyaReport",
+         "code": "null",
+         "path": ""
+    },
+    {
+         "id": 2446,
+         "name": "NonDirectBhavanAnugyaReport",
+         "url": "/report/rainmaker-bpa/DirectBhavanAnugyaReport/_get",
+         "displayName": "NonDirectBhavanAnugyaReport",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "NonDirectBhavanAnugyaReport",
+         "code": "null",
+         "path": ""
     }
 	   
    ]
