@@ -471,21 +471,21 @@
           }
         ]
     },
-	    {
-      "model": "NonDirectBhavanAnugyaReport",
-      "uniqueIdentifier": {
-        "name": "uuid",
-        "jsonPath": "/uuid"
-      },
-      "attributes": [
-      ],
-      "roleBasedDecryptionPolicy": [
-        {
-          "roles": ["HRMS_ADMIN"],
-          "attributeAccessList": [		
-          ]
-        }
-      ]
+	   {
+        "key" : "NonDirectBhavanAnugyaReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "HRMS_ADMIN",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : ""
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
     },
 	    {
         "key" : "ArchitectMisReport",
