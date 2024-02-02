@@ -23896,6 +23896,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 698,
       "actioncode": "",
