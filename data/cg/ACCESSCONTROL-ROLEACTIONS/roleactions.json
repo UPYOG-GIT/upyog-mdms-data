@@ -18994,6 +18994,18 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "UC_EMP",
       "actionid": 701,
       "actioncode": "",
