@@ -18166,6 +18166,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2086,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "FSM_DSO",
       "actionid": 1729,
       "actioncode": "",
