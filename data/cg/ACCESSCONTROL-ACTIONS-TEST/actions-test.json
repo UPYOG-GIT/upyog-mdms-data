@@ -13725,7 +13725,18 @@
          "serviceCode": "NonDirectBhavanAnugyaReport",
          "code": "null",
          "path": ""
-    }
+    },
+	   {
+         "id": 2447,
+         "name": "Decrypt",
+         "url": "/egov-enc-service/crypto/v1/_decrypt",
+         "displayName": "Decrypt",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "Enc",
+         "code": "null",
+         "path": "Enc.Decrypt"
+      }
 	   
    ]
 }
