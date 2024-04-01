@@ -495,6 +495,10 @@
             "idname": "bpareg.receipt.id"
         },
         {
+            "format": "BPAREN/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "bparen.receipt.id"
+        },
+        {
             "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "bpa.nc_app_fee.receipt.id"
         },
