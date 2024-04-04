@@ -13739,9 +13739,9 @@
       },
      {
       "id": 2448,
-      "name": "Stakeholder Registration Payment search",
+      "name": "Stakeholder Renewal Payment search",
       "url": "/collection-services/payments/BPAREN/_search",
-      "displayName": "Stakeholder Registration Payment search",
+      "displayName": "Stakeholder Renewal Payment search",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": false,
