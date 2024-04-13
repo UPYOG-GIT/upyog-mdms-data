@@ -25483,6 +25483,12 @@
       "actionid": 2448,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2449,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
