@@ -25495,6 +25495,12 @@
       "actionid": 2449,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2449,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
