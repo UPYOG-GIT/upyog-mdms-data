@@ -13755,8 +13755,8 @@
          "url": "/user/validity/_update",
          "displayName": "Update Validity Date",
          "orderNumber": 1,
-         "enabled": true,
-         "serviceCode": "",
+         "enabled": false,
+         "serviceCode": "ADMIN",
          "code": "null",
          "path": ""
       }	
