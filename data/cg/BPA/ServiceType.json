@@ -1,7 +1,7 @@
 {
     "tenantId": "cg",
     "moduleName": "BPA",
-    "ServiceType": [,
+    "ServiceType": [
        {
         "code": "NEW_CONSTRUCTION",
         "active": true,
