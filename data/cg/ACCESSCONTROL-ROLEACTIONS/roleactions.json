@@ -24219,6 +24219,18 @@
       "actioncode": "",
       "tenantId": "cg.birgaon"
     },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "cg.dhamtari"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "cg.bhilaicharoda"
+    },
      {
       "rolecode": "COMMON_EMPLOYEE",
       "actionid": 701,
