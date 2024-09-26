@@ -24207,6 +24207,12 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
      {
       "rolecode": "COMMON_EMPLOYEE",
       "actionid": 701,
