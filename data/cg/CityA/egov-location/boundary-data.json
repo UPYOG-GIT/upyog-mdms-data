@@ -1,0 +1,2226 @@
+{
+	"tenantId": "cg.citya",
+	"moduleName": "egov-location",
+	"TenantBoundary": [
+		{
+			"hierarchyType": {
+				"code": "REVENUE",
+				"name": "REVENUE"
+			},
+			"boundary": {
+				"id": 1,
+				"boundaryNum": 1,
+				"name": "CityA",
+				"localname": "CityA",
+				"longitude": 81.6097,
+				"latitude": 21.3104,
+				"label": "City",
+				"code": "cg.citya",
+				"children": [
+					{
+						"id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+						"boundaryNum": 1,
+						"name": "ZONE 1",
+						"localname": "ZONE 1",
+						"longitude": 81.6097,
+						"latitude": 21.3104,
+						"label": "Zone",
+						"code": "citya1",
+						"children": [
+							{
+								"id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+								"boundaryNum": 1,
+								"name": "GURU GHASIDAS WARD",
+								"localname": "WARD_1",
+								"longitude": 81.604679,
+								"latitude": 21.316004,
+								"label": "Block",
+								"code": "WARD1",
+								"children": [
+									{
+										"id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+										"boundaryNum": 1,
+										"name": "01 - Guru Ghasidas Ward",
+										"localname": "01 - Guru Ghasidas Ward",
+										"longitude": null,
+										"latitude": null,
+										"label": "Locality",
+										"code": "CITYA01",
+										"pincode": [
+											492003
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "8b6a74db-d5d0-40ec-a810-df4a319acfb9",
+								"boundaryNum": 1,
+								"name": "Dr. RAJENDRA PRASAD WARD",
+								"localname": "WARD_2",
+								"longitude": 81.606706,
+								"latitude": 21.314295,
+								"label": "Block",
+								"code": "WARD2",
+								"children": [
+									{
+										"id": "f3cabc5a-8596-4c4c-ad05-9863342fa176",
+										"boundaryNum": 1,
+										"name": "02 - Dr. Rajendra Prasad Ward",
+										"localname": "02 - Dr. Rajendra Prasad Ward",
+										"longitude": 81.606706,
+										"latitude": 21.314295,
+										"label": "Locality",
+										"code": "CITYA02",
+										"pincode": [
+											492003
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "eee94089-c88f-4d2e-a980-06b5372dd856",
+								"boundaryNum": 1,
+								"name": "VEER BHAMASHAH WARD",
+								"localname": "WARD_3",
+								"longitude": 81.604652,
+								"latitude": 21.313372,
+								"label": "Block",
+								"code": "WARD3",
+								"children": [
+									{
+										"id": "11448ad3-ff6a-4026-8d9a-d3d0cdb75680",
+										"boundaryNum": 1,
+										"name": "03 - Veer Bhamashah Ward",
+										"localname": "03 - Veer Bhamashah Ward",
+										"longitude": 81.604652,
+										"latitude": 21.313372,
+										"label": "Locality",
+										"code": "CITYA03",
+										"pincode": [
+											492003
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "4236b1c1-1f00-4b4f-a246-7c50af752d66",
+								"boundaryNum": 1,
+								"name": "SWAMI VIVEKANANDA WARD",
+								"localname": "WARD_4",
+								"longitude": 81.608161,
+								"latitude": 21.313442,
+								"label": "Block",
+								"code": "WARD4",
+								"children": [
+									{
+										"id": "7a9a4d9a-9b88-4e5e-a496-293e3d03475a",
+										"boundaryNum": 1,
+										"name": "04 - Swami Vivekanand Ward",
+										"localname": "04 - Swami Vivekanand Ward",
+										"longitude": 81.608161,
+										"latitude": 21.313442,
+										"label": "Locality",
+										"code": "CITYA04",
+										"pincode": [
+											492003
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "77ebd09e-7fa6-4d98-814e-1a8e1fe6c28b",
+								"boundaryNum": 1,
+								"name": "RAJIV GANDHI WARD",
+								"localname": "WARD_5",
+								"longitude": 81.604071,
+								"latitude": 21.311283,
+								"label": "Block",
+								"code": "WARD5",
+								"children": [
+									{
+										"id": "9fc4a924-7aed-4fd7-9bef-fa910776797f",
+										"boundaryNum": 1,
+										"name": "05 - Rajiv Gandhi Ward",
+										"localname": "05 - Rajiv Gandhi Ward",
+										"longitude": 81.604071,
+										"latitude": 21.311283,
+										"label": "Locality",
+										"code": "CITYA05",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "1fe5613e-69ae-4170-9573-297cec606d62",
+								"boundaryNum": 1,
+								"name": "SHAHID KAUSHAL YADAV WARD",
+								"localname": "WARD_6",
+								"longitude": 81.610992,
+								"latitude": 21.313094,
+								"label": "Block",
+								"code": "WARD6",
+								"children": [
+									{
+										"id": "a8645f32-204d-401e-aa7c-6993cfff9624",
+										"boundaryNum": 1,
+										"name": "06 - Shahid Kausal Yadav Ward",
+										"localname": "06 - Shahid Kausal Yadav Ward",
+										"longitude": 81.610992,
+										"latitude": 21.313094,
+										"label": "Locality",
+										"code": "CITYA06",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "94d79e3b-44d7-41b8-bcc9-338de470b016",
+								"boundaryNum": 1,
+								"name": "RANI LAXMI BAI WARD",
+								"localname": "WARD_7",
+								"longitude": 81.611325,
+								"latitude": 21.317877,
+								"label": "Block",
+								"code": "WARD7",
+								"children": [
+									{
+										"id": "652bf15d-633f-4d73-93b2-22aaa591e7be",
+										"boundaryNum": 1,
+										"name": "07 - Rani Laxmi Bai Ward",
+										"localname": "07 - Rani Laxmi Bai Ward",
+										"longitude": 81.611325,
+										"latitude": 21.317877,
+										"label": "Locality",
+										"code": "CITYA07",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "56cbb28e-c1fd-4375-8c27-bf10c666ffd0",
+								"boundaryNum": 1,
+								"name": "HARI THAKUR WARD",
+								"localname": "WARD_8",
+								"longitude": 81.610919,
+								"latitude": 21.314828,
+								"label": "Block",
+								"code": "WARD8",
+								"children": [
+									{
+										"id": "0b3b503d-1cf8-4f46-859c-f224616a57ee",
+										"boundaryNum": 1,
+										"name": "08 - Hari Thakur Ward",
+										"localname": "08 - Hari Thakur Ward",
+										"longitude": 81.610919,
+										"latitude": 21.314828,
+										"label": "Locality",
+										"code": "CITYA08",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "541edcf1-e40b-4c89-806e-0fb7c78db168",
+								"boundaryNum": 1,
+								"name": "METAL PARK WARD",
+								"localname": "WARD_9",
+								"longitude": 81.62386,
+								"latitude": 21.315557,
+								"label": "Block",
+								"code": "WARD9",
+								"children": [
+									{
+										"id": "acf47450-c3e0-4a6d-a78c-0678f0f74035",
+										"boundaryNum": 1,
+										"name": "09 - Metal Park Ward",
+										"localname": "09 - Metal Park Ward",
+										"longitude": 81.62386,
+										"latitude": 21.315557,
+										"label": "Locality",
+										"code": "CITYA09",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "64d2ca12-fc43-459b-aeb1-60d5955a8b1c",
+								"boundaryNum": 1,
+								"name": "BANJARI MATA WARD",
+								"localname": "WARD_10",
+								"longitude": 81.628664,
+								"latitude": 21.317108,
+								"label": "Block",
+								"code": "WARD10",
+								"children": [
+									{
+										"id": "b68957d3-63ba-4755-a640-88b58e9fe4f0",
+										"boundaryNum": 1,
+										"name": "10 - Maa Banjari Dham Ward",
+										"localname": "10 - Maa Banjari Dham Ward",
+										"longitude": 81.628664,
+										"latitude": 21.317108,
+										"label": "Locality",
+										"code": "CITYA10",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "9dfddd58-8405-4ac1-8bc2-7380197c116c",
+								"boundaryNum": 1,
+								"name": "THAKUR PYARE LAL WARD",
+								"localname": "WARD_11",
+								"longitude": 81.63331,
+								"latitude": 21.322014,
+								"label": "Block",
+								"code": "WARD11",
+								"children": [
+									{
+										"id": "4c51c978-709b-4658-b5c0-4538d8faf165",
+										"boundaryNum": 1,
+										"name": "11 - Thakur Pyare Lal Ward",
+										"localname": "11 - Thakur Pyare Lal Ward",
+										"longitude": 81.63331,
+										"latitude": 21.322014,
+										"label": "Locality",
+										"code": "CITYA11",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "8237ec14-77d7-47c8-ad9e-1ab24dc7bfd1",
+								"boundaryNum": 1,
+								"name": "LAL BAHADUR SHASTRI WARD",
+								"localname": "WARD_12",
+								"longitude": 81.6369,
+								"latitude": 21.326021,
+								"label": "Block",
+								"code": "WARD12",
+								"children": [
+									{
+										"id": "40e9b369-41b7-4112-9c05-defe46491b41",
+										"boundaryNum": 1,
+										"name": "12 - Lal Bahadur Shastri Ward",
+										"localname": "12 - Lal Bahadur Shastri Ward",
+										"longitude": 81.6369,
+										"latitude": 21.326021,
+										"label": "Locality",
+										"code": "CITYA12",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "504830d6-f9e3-4052-8538-673437fc0937",
+								"boundaryNum": 1,
+								"name": "PT. RAVISHANKAR SHUKLA WARD",
+								"localname": "WARD_13",
+								"longitude": 81.638426,
+								"latitude": 21.315708,
+								"label": "Block",
+								"code": "WARD13",
+								"children": [
+									{
+										"id": "3adb91b5-fdfd-4a1e-b69d-bfa8f4d84a2c",
+										"boundaryNum": 1,
+										"name": "13 - Pt. Ravishankar Shukla Ward",
+										"localname": "13 - Pt. Ravishankar Shukla Ward",
+										"longitude": 81.638426,
+										"latitude": 21.315708,
+										"label": "Locality",
+										"code": "CITYA13",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "a08750d0-b3fd-4ff5-ba24-d4729d1ef376",
+								"boundaryNum": 1,
+								"name": "GOVARDHAN WARD",
+								"localname": "WARD_14",
+								"longitude": 81.640325,
+								"latitude": 21.330998,
+								"label": "Block",
+								"code": "WARD14",
+								"children": [
+									{
+										"id": "cc4598f8-2d2e-4dc4-8807-eeab60bcc105",
+										"boundaryNum": 1,
+										"name": "14 - Govardhan Ward",
+										"localname": "14 - Govardhan Ward",
+										"longitude": 81.640325,
+										"latitude": 21.330998,
+										"label": "Locality",
+										"code": "CITYA14",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "2f52aaf8-5ce9-4966-9b2e-6217cbe19714",
+								"boundaryNum": 1,
+								"name": "CHHATRAPATI SHIVAJI MAHARAJ",
+								"localname": "WARD_15",
+								"longitude": 81.638469,
+								"latitude": 21.324011,
+								"label": "Block",
+								"code": "WARD15",
+								"children": [
+									{
+										"id": "f1629cc6-a575-4b33-826a-fe87cd02a016",
+										"boundaryNum": 1,
+										"name": "15 - Chhatrapati Shivaji Ward",
+										"localname": "15 - Chhatrapati Shivaji Ward",
+										"longitude": 81.638469,
+										"latitude": 21.324011,
+										"label": "Locality",
+										"code": "CITYA15",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "d5b787fc-f2ad-4994-ac76-652094057007",
+								"boundaryNum": 1,
+								"name": "MAA SHEETLA WARD",
+								"localname": "WARD_16",
+								"longitude": 81.651577,
+								"latitude": 21.307899,
+								"label": "Block",
+								"code": "WARD16",
+								"children": [
+									{
+										"id": "45bfa2b7-99b1-4d86-a6ba-f3a3dc09bfb5",
+										"boundaryNum": 1,
+										"name": "16 - Maa Shitla Mata Ward",
+										"localname": "16 - Maa Shitla Mata Ward",
+										"longitude": 81.651577,
+										"latitude": 21.307899,
+										"label": "Locality",
+										"code": "CITYA16",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "ce011818-c33f-464f-86f8-ddddf9f84632",
+								"boundaryNum": 1,
+								"name": "SANT KABIR WARD",
+								"localname": "WARD_17",
+								"longitude": 81.6543,
+								"latitude": 21.306245,
+								"label": "Block",
+								"code": "WARD17",
+								"children": [
+									{
+										"id": "0f04dae6-7d44-40d7-addf-3c6e79c46120",
+										"boundaryNum": 1,
+										"name": "17 - Sant Kabir Das Ward",
+										"localname": "17 - Sant Kabir Das Ward",
+										"longitude": 81.6543,
+										"latitude": 21.306245,
+										"label": "Locality",
+										"code": "CITYA17",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "7dc79bf2-5da9-421b-961a-caae97c3bd82",
+								"boundaryNum": 1,
+								"name": "THAKUR DEV WARD",
+								"localname": "WARD_18",
+								"longitude": 81.651686,
+								"latitude": 21.304367,
+								"label": "Block",
+								"code": "WARD18",
+								"children": [
+									{
+										"id": "3987e100-7729-41ac-892a-43728ec214e8",
+										"boundaryNum": 1,
+										"name": "18 - Thakurdev Ward",
+										"localname": "18 - Thakurdev Lal Ward",
+										"longitude": 81.651686,
+										"latitude": 21.304367,
+										"label": "Locality",
+										"code": "CITYA18",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "ecb3a6b1-0248-437e-aa2e-597339ee4d85",
+								"boundaryNum": 1,
+								"name": "MADHAV RAO SAPRE WARD",
+								"localname": "WARD_19",
+								"longitude": 81.637608,
+								"latitude": 21.308641,
+								"label": "Block",
+								"code": "WARD19",
+								"children": [
+									{
+										"id": "c4189fe2-4531-4e04-b3a0-e8228ec1a23d",
+										"boundaryNum": 1,
+										"name": "19 - Madhavrao Sapre Ward",
+										"localname": "19 - Madhavrao Sapre Ward",
+										"longitude": 81.637608,
+										"latitude": 21.308641,
+										"label": "Locality",
+										"code": "CITYA19",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "6a39ee47-629e-408f-ac5d-70b9278d1504",
+								"boundaryNum": 1,
+								"name": "PT. SUNDAR LAL SHARMA",
+								"localname": "WARD_20",
+								"longitude": 81.635741,
+								"latitude": 21.311668,
+								"label": "Block",
+								"code": "WARD20",
+								"children": [
+									{
+										"id": "fa2b351a-8318-41d4-aea1-1b3a061da1a2",
+										"boundaryNum": 1,
+										"name": "20 - Pt. Sundar Lal Sharma Ward",
+										"localname": "20 - Pt. Sundar Lal Sharma Ward",
+										"longitude": 81.635741,
+										"latitude": 21.311668,
+										"label": "Locality",
+										"code": "CITYA20",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "7b130a6c-5915-4cf3-a211-fe3d0ed073f3",
+								"boundaryNum": 1,
+								"name": "KAILASH NAGAR WARD",
+								"localname": "WARD_21",
+								"longitude": 81.629686,
+								"latitude": 21.311937,
+								"label": "Block",
+								"code": "WARD21",
+								"children": [
+									{
+										"id": "37f37419-7044-4b7e-b576-166bd482f48b",
+										"boundaryNum": 1,
+										"name": "21 - Kailash Nagar Ward",
+										"localname": "21 - Kailash Nagar Ward",
+										"longitude": 81.629686,
+										"latitude": 21.311937,
+										"label": "Locality",
+										"code": "CITYA21",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "4e53381b-7678-4a72-af5b-63060d95f588",
+								"boundaryNum": 1,
+								"name": "DR. RADHAKRISHNAN WARD",
+								"localname": "WARD_22",
+								"longitude": 81.626814,
+								"latitude": 21.309986,
+								"label": "Block",
+								"code": "WARD22",
+								"children": [
+									{
+										"id": "8d3f15bf-ffa8-4045-a7b2-a3cac0418d24",
+										"boundaryNum": 1,
+										"name": "22 - Dr. Radhakrishnan Ward",
+										"localname": "22 - Dr. Radhakrishnan Ward",
+										"longitude": 81.626814,
+										"latitude": 21.309986,
+										"label": "Locality",
+										"code": "CITYA22",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "83a3cb20-0cef-4d48-b3b0-8036c870826e",
+								"boundaryNum": 1,
+								"name": "SANT RAVIDAS WARD",
+								"localname": "WARD_23",
+								"longitude": 81.630742,
+								"latitude": 21.308062,
+								"label": "Block",
+								"code": "WARD23",
+								"children": [
+									{
+										"id": "a46ae6f0-433b-4c35-bef5-d857090e724f",
+										"boundaryNum": 1,
+										"name": "23 - Sant Ravidas Ward",
+										"localname": "23 - Sant Ravidas Ward",
+										"longitude": 81.630742,
+										"latitude": 21.308062,
+										"label": "Locality",
+										"code": "CITYA23",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "199f5a68-384d-49d4-9e07-504a174ead15",
+								"boundaryNum": 1,
+								"name": "SHAHID BHAGAT SINGH WARD",
+								"localname": "WARD_24",
+								"longitude": 81.625942,
+								"latitude": 21.307359,
+								"label": "Block",
+								"code": "WARD24",
+								"children": [
+									{
+										"id": "1951084c-7c09-49ca-9642-842ca2c274a3",
+										"boundaryNum": 1,
+										"name": "24 - Shahid Bhagat Singh Ward",
+										"localname": "24 - Shahid Bhagat Singh Ward",
+										"longitude": 81.625942,
+										"latitude": 21.307359,
+										"label": "Locality",
+										"code": "CITYA24",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "3b9c7586-5a33-481b-89e8-233cba433a5b",
+								"boundaryNum": 1,
+								"name": "MAA PARMESHWARI MATA WARD",
+								"localname": "WARD_25",
+								"longitude": 81.629042,
+								"latitude": 21.30686,
+								"label": "Block",
+								"code": "WARD25",
+								"children": [
+									{
+										"id": "30f474c9-ccaf-4216-9faa-5f77832abef2",
+										"boundaryNum": 1,
+										"name": "25 - Maa Parmeshwari Mata Ward",
+										"localname": "25 - Maa Parmeshwari Mata Ward",
+										"longitude": 81.629042,
+										"latitude": 21.30686,
+										"label": "Locality",
+										"code": "CITYA25",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b8961a48-d459-4e7c-b469-7873083198df",
+								"boundaryNum": 1,
+								"name": "SHAHID VEER NARAYAN SINGH WARD",
+								"localname": "WARD_26",
+								"longitude": 81.629417,
+								"latitude": 21.308908,
+								"label": "Block",
+								"code": "WARD26",
+								"children": [
+									{
+										"id": "2386ffc9-3a36-4d3b-b5e2-d3ee0d123308",
+										"boundaryNum": 1,
+										"name": "26 - Shahid Veer Narayan Singh Ward",
+										"localname": "26 - Shahid Veer Narayan Singh Ward",
+										"longitude": 81.629417,
+										"latitude": 21.308908,
+										"label": "Locality",
+										"code": "CITYA26",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "a6549188-aa75-4071-ac3c-9a78af61a6fc",
+								"boundaryNum": 1,
+								"name": "JAY BUDHADEV WARD",
+								"localname": "WARD_27",
+								"longitude": 81.635672,
+								"latitude": 21.308886,
+								"label": "Block",
+								"code": "WARD27",
+								"children": [
+									{
+										"id": "eb79267b-4c1c-404c-946c-95ae1885eefd",
+										"boundaryNum": 1,
+										"name": "27 - Jay Budhadev Ward",
+										"localname": "27 - Jay Budhadev Ward",
+										"longitude": 81.635672,
+										"latitude": 21.308886,
+										"label": "Locality",
+										"code": "CITYA27",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "d67fdcf3-023f-4c39-9ea2-ae63fb7b94de",
+								"boundaryNum": 1,
+								"name": "MD. ABDUL RAUF WARD",
+								"localname": "WARD_28",
+								"longitude": 81.63354,
+								"latitude": 21.304218,
+								"label": "Block",
+								"code": "WARD28",
+								"children": [
+									{
+										"id": "7163b298-0bc4-4d54-a4a3-8d0d8eb54cc7",
+										"boundaryNum": 1,
+										"name": "28 - Md. Abdul Rauf Ward",
+										"localname": "28 - Md. Abdul Rauf Ward",
+										"longitude": 81.63354,
+										"latitude": 21.304218,
+										"label": "Locality",
+										"code": "CITYA28",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b12c173e-67c1-41a1-b479-a693537ae921",
+								"boundaryNum": 1,
+								"name": "DR BHIMRAO RAMJI AMBEDKAR WARD",
+								"localname": "WARD_29",
+								"longitude": 81.631062,
+								"latitude": 21.305545,
+								"label": "Block",
+								"code": "WARD29",
+								"children": [
+									{
+										"id": "498a7812-7013-4040-82d9-7f5897563814",
+										"boundaryNum": 1,
+										"name": "29 - Dr. Bhimrao Ambedkar Ward",
+										"localname": "29 - Dr. Bhimrao Ambedkar Ward",
+										"longitude": 81.631062,
+										"latitude": 21.305545,
+										"label": "Locality",
+										"code": "CITYA29",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "75413d67-39d5-4728-8928-4c4c20e6b3dd",
+								"boundaryNum": 1,
+								"name": "BHARAT MATA WARD",
+								"localname": "WARD_30",
+								"longitude": 81.630229,
+								"latitude": 21.303241,
+								"label": "Block",
+								"code": "WARD30",
+								"children": [
+									{
+										"id": "4b2d76da-e277-40fb-9b1c-324a4c0503a8",
+										"boundaryNum": 1,
+										"name": "30 - Bharat Mata Ward",
+										"localname": "30 - Bharat Mata Ward",
+										"longitude": 81.630229,
+										"latitude": 21.303241,
+										"label": "Locality",
+										"code": "CITYA30",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "e0d5350b-defe-42af-8eed-65a91ff9bee1",
+								"boundaryNum": 1,
+								"name": "SHAHID CHANDRASHEKHAR AZAD WARD",
+								"localname": "WARD_31",
+								"longitude": 81.63043,
+								"latitude": 21.305494,
+								"label": "Block",
+								"code": "WARD31",
+								"children": [
+									{
+										"id": "12f34f54-597b-4a0d-8d53-c7770c0b6a3f",
+										"boundaryNum": 1,
+										"name": "31 - Shahid Chandrashekhar Azad Ward",
+										"localname": "31 - Shahid Chandrashekhar Azad Ward",
+										"longitude": 81.63043,
+										"latitude": 21.305494,
+										"label": "Locality",
+										"code": "CITYA31",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "82be3a3e-1f56-4fe4-9322-fab7b1877ad9",
+								"boundaryNum": 1,
+								"name": "MAHATAMA GANDHI WARD",
+								"localname": "WARD_32",
+								"longitude": 81.628517,
+								"latitude": 21.302123,
+								"label": "Block",
+								"code": "WARD32",
+								"children": [
+									{
+										"id": "8c89a784-cb4f-45f2-b276-35fd8b12495d",
+										"boundaryNum": 1,
+										"name": "32 - Mahatma Gandhi Ward",
+										"localname": "32 - Mahatma Gandhi Ward",
+										"longitude": 81.628517,
+										"latitude": 21.302123,
+										"label": "Locality",
+										"code": "CITYA32",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b37851a2-b302-4abb-8be4-b76394d85643",
+								"boundaryNum": 1,
+								"name": "DR. KHUBCHAND BAGHEL WARD",
+								"localname": "WARD_33",
+								"longitude": 81.626482,
+								"latitude": 21.306074,
+								"label": "Block",
+								"code": "WARD33",
+								"children": [
+									{
+										"id": "ace294a0-c75a-497d-be51-993acc5a254b",
+										"boundaryNum": 1,
+										"name": "33 - Khubhchand Baghel Ward",
+										"localname": "33 - Khubhchand Baghel Ward",
+										"longitude": 81.626482,
+										"latitude": 21.306074,
+										"label": "Locality",
+										"code": "CITYA33",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "aa4273f7-c13b-417c-b83c-cb8598adfa62",
+								"boundaryNum": 1,
+								"name": "INDIRA GANDHI WARD",
+								"localname": "WARD_34",
+								"longitude": 81.623894,
+								"latitude": 21.305959,
+								"label": "Block",
+								"code": "WARD34",
+								"children": [
+									{
+										"id": "2c5c8330-bde1-4f29-ab06-0e8ceffaff3f",
+										"boundaryNum": 1,
+										"name": "34 - Indira Gandhi Ward",
+										"localname": "34 - Indira Gandhi Ward",
+										"longitude": 81.623894,
+										"latitude": 21.305959,
+										"label": "Locality",
+										"code": "CITYA34",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "6ecea37c-8caa-4be1-bf63-a7751d513fe3",
+								"boundaryNum": 1,
+								"name": "SUBHASH CHANDRA BOSE WARD",
+								"localname": "WARD_35",
+								"longitude": 81.632317,
+								"latitude": 21.300114,
+								"label": "Block",
+								"code": "WARD35",
+								"children": [
+									{
+										"id": "1828fab3-3f2b-453a-bec2-a743ac553826",
+										"boundaryNum": 1,
+										"name": "35 - Subhash Chandra Bose Ward",
+										"localname": "35 - Subhash Chandra Bose Ward",
+										"longitude": 81.632317,
+										"latitude": 21.300114,
+										"label": "Locality",
+										"code": "CITYA35",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "dd221bd9-43f2-4a83-ba05-d30f8c363729",
+								"boundaryNum": 1,
+								"name": "PT. JAWAHAR LAL NEHRU WARD",
+								"localname": "WARD_36",
+								"longitude": 81.629208,
+								"latitude": 21.302085,
+								"label": "Block",
+								"code": "WARD36",
+								"children": [
+									{
+										"id": "8abe7bdd-48bb-4a56-ab61-7abc10aa7ef8",
+										"boundaryNum": 1,
+										"name": "36 - Pt. Jawahar Lal Nehru Ward",
+										"localname": "36 - Pt. Jawahar Lal Nehru Ward",
+										"longitude": 81.629208,
+										"latitude": 21.302085,
+										"label": "Locality",
+										"code": "CITYA36",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "c052195c-2342-4760-bd4d-f5d99d5bc1d3",
+								"boundaryNum": 1,
+								"name": "MINI MATA WARD",
+								"localname": "WARD_37",
+								"longitude": 81.615324,
+								"latitude": 21.287605,
+								"label": "Block",
+								"code": "WARD37",
+								"children": [
+									{
+										"id": "a3d3b866-f732-4f0b-98be-87832aeb87ca",
+										"boundaryNum": 1,
+										"name": "37 - Mini Mata Ward",
+										"localname": "37 - Mini Mata Ward",
+										"longitude": 81.615324,
+										"latitude": 21.287605,
+										"label": "Locality",
+										"code": "CITYA37",
+										"pincode": [
+											493221
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "bf6c4965-abda-41cf-a5bf-80820dd89f66",
+								"boundaryNum": 1,
+								"name": "MAA KARMA MATA WARD",
+								"localname": "WARD_38",
+								"longitude": 81.612076,
+								"latitude": 21.290094,
+								"label": "Block",
+								"code": "WARD38",
+								"children": [
+									{
+										"id": "38f52d5f-e3e7-4477-adbe-9800ce534889",
+										"boundaryNum": 1,
+										"name": "38 - Maa Karma Mata Ward",
+										"localname": "38 - Maa Karma Mata Ward",
+										"longitude": 81.612076,
+										"latitude": 21.290094,
+										"label": "Locality",
+										"code": "CITYA38",
+										"pincode": [
+											493221
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "0ad423f5-209d-445d-a728-7e61b1d45d67",
+								"boundaryNum": 1,
+								"name": "SARDAR VALLABH BHAI PATEL WARD",
+								"localname": "WARD_39",
+								"longitude": 81.609673,
+								"latitude": 21.287664,
+								"label": "Block",
+								"code": "WARD39",
+								"children": [
+									{
+										"id": "b9ab23e4-ce0b-452f-acd9-582047350b9a",
+										"boundaryNum": 1,
+										"name": "39 - Vallabh Bhai Patel Ward",
+										"localname": "39 - Vallabh Bhai Patel Ward",
+										"longitude": 81.609673,
+										"latitude": 21.287664,
+										"label": "Locality",
+										"code": "CITYA39",
+										"pincode": [
+											493221
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b00b56af-05b1-40cd-ada7-f5572bf7e107",
+								"boundaryNum": 1,
+								"name": "DR. RAVINDRA NATH TAGORE WARD",
+								"localname": "WARD_40",
+								"longitude": 81.604544,
+								"latitude": 21.283537,
+								"label": "Block",
+								"code": "WARD40",
+								"children": [
+									{
+										"id": "cf0c675e-d2f7-4c8b-b4f4-512f22a4be5d",
+										"boundaryNum": 1,
+										"name": "40 - Dr. Ravindranath Tagore Ward",
+										"localname": "40 - Dr. Ravindranath Tagore Ward",
+										"longitude": 81.604544,
+										"latitude": 21.283537,
+										"label": "Locality",
+										"code": "CITYA40",
+										"pincode": [
+											493221
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"hierarchyType": {
+				"code": "ADMIN",
+				"name": "ADMIN"
+			},
+			"boundary": {
+				"id": 1,
+				"boundaryNum": 1,
+				"name": "CityA",
+				"localname": "CityA",
+				"longitude": 81.6097,
+				"latitude": 21.3104,
+				"label": "City",
+				"code": "cg.citya",
+				"children": [
+					{
+						"id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+						"boundaryNum": 1,
+						"name": "ZONE 1",
+						"localname": "ZONE 1",
+						"longitude": 81.6097,
+						"latitude": 21.3104,
+						"label": "Zone",
+						"code": "citya1",
+						"children": [
+							{
+								"id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+								"boundaryNum": 1,
+								"name": "GURU GHASIDAS WARD",
+								"localname": "WARD_1",
+								"longitude": 81.604679,
+								"latitude": 21.316004,
+								"label": "Block",
+								"code": "WARD1",
+								"children": [
+									{
+										"id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+										"boundaryNum": 1,
+										"name": "01 - Guru Ghasidas Ward",
+										"localname": "01 - Guru Ghasidas Ward",
+										"longitude": null,
+										"latitude": null,
+										"label": "Locality",
+										"code": "CITYA01",
+										"pincode": [
+											492003
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "8b6a74db-d5d0-40ec-a810-df4a319acfb9",
+								"boundaryNum": 1,
+								"name": "Dr. RAJENDRA PRASAD WARD",
+								"localname": "WARD_2",
+								"longitude": 81.606706,
+								"latitude": 21.314295,
+								"label": "Block",
+								"code": "WARD2",
+								"children": [
+									{
+										"id": "f3cabc5a-8596-4c4c-ad05-9863342fa176",
+										"boundaryNum": 1,
+										"name": "Satnam Chowk Urla",
+										"localname": "Satnam Chowk Urla",
+										"longitude": 81.606706,
+										"latitude": 21.314295,
+										"label": "Locality",
+										"code": "CITYA02",
+										"pincode": [
+											492003
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "eee94089-c88f-4d2e-a980-06b5372dd856",
+								"boundaryNum": 1,
+								"name": "DANVIR BHAMASHAH WARD",
+								"localname": "WARD_3",
+								"longitude": 81.604652,
+								"latitude": 21.313372,
+								"label": "Block",
+								"code": "WARD3",
+								"children": [
+									{
+										"id": "11448ad3-ff6a-4026-8d9a-d3d0cdb75680",
+										"boundaryNum": 1,
+										"name": "Sheetla Mandir Urla",
+										"localname": "Sheetla Mandir Urla",
+										"longitude": 81.604652,
+										"latitude": 21.313372,
+										"label": "Locality",
+										"code": "CITYA03",
+										"pincode": [
+											492003
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "4236b1c1-1f00-4b4f-a246-7c50af752d66",
+								"boundaryNum": 1,
+								"name": "SWAMI VIVEKANANDA WARD",
+								"localname": "WARD_4",
+								"longitude": 81.608161,
+								"latitude": 21.313442,
+								"label": "Block",
+								"code": "WARD4",
+								"children": [
+									{
+										"id": "7a9a4d9a-9b88-4e5e-a496-293e3d03475a",
+										"boundaryNum": 1,
+										"name": "Pragya Vidhya Mandir Urla",
+										"localname": "Pragya Vidhya Mandir Urla",
+										"longitude": 81.608161,
+										"latitude": 21.313442,
+										"label": "Locality",
+										"code": "CITYA04",
+										"pincode": [
+											492003
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "77ebd09e-7fa6-4d98-814e-1a8e1fe6c28b",
+								"boundaryNum": 1,
+								"name": "RAJIV GANDHI WARD",
+								"localname": "WARD_5",
+								"longitude": 81.604071,
+								"latitude": 21.311283,
+								"label": "Block",
+								"code": "WARD5",
+								"children": [
+									{
+										"id": "9fc4a924-7aed-4fd7-9bef-fa910776797f",
+										"boundaryNum": 1,
+										"name": "Gyan Varsha Public School Urla",
+										"localname": "Gyan Varsha Public School Urla",
+										"longitude": 81.604071,
+										"latitude": 21.311283,
+										"label": "Locality",
+										"code": "CITYA05",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "1fe5613e-69ae-4170-9573-297cec606d62",
+								"boundaryNum": 1,
+								"name": "SHAHID KAUSHAL YADAV WARD",
+								"localname": "WARD_6",
+								"longitude": 81.610992,
+								"latitude": 21.313094,
+								"label": "Block",
+								"code": "WARD6",
+								"children": [
+									{
+										"id": "a8645f32-204d-401e-aa7c-6993cfff9624",
+										"boundaryNum": 1,
+										"name": "Ward Karyalya Bazar Chowk Acholi",
+										"localname": "Ward Karyalya Bazar Chowk Acholi",
+										"longitude": 81.610992,
+										"latitude": 21.313094,
+										"label": "Locality",
+										"code": "CITYA06",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "94d79e3b-44d7-41b8-bcc9-338de470b016",
+								"boundaryNum": 1,
+								"name": "RANI LAKSHMI BAI WARD",
+								"localname": "WARD_7",
+								"longitude": 81.611325,
+								"latitude": 21.317877,
+								"label": "Block",
+								"code": "WARD7",
+								"children": [
+									{
+										"id": "652bf15d-633f-4d73-93b2-22aaa591e7be",
+										"boundaryNum": 1,
+										"name": "Up Swasthay Kendra Acholi",
+										"localname": "Up Swasthay Kendra Acholi",
+										"longitude": 81.611325,
+										"latitude": 21.317877,
+										"label": "Locality",
+										"code": "CITYA07",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "56cbb28e-c1fd-4375-8c27-bf10c666ffd0",
+								"boundaryNum": 1,
+								"name": "HARI THAKUR WARD",
+								"localname": "WARD_8",
+								"longitude": 81.610919,
+								"latitude": 21.314828,
+								"label": "Block",
+								"code": "WARD8",
+								"children": [
+									{
+										"id": "0b3b503d-1cf8-4f46-859c-f224616a57ee",
+										"boundaryNum": 1,
+										"name": "Purv Mahapor (Ambika Yadu) Nivas Acholi",
+										"localname": "Purv Mahapor (Ambika Yadu) Nivas Acholi",
+										"longitude": 81.610919,
+										"latitude": 21.314828,
+										"label": "Locality",
+										"code": "CITYA08",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "541edcf1-e40b-4c89-806e-0fb7c78db168",
+								"boundaryNum": 1,
+								"name": "METAL PARK WARD",
+								"localname": "WARD_9",
+								"longitude": 81.62386,
+								"latitude": 21.315557,
+								"label": "Block",
+								"code": "WARD9",
+								"children": [
+									{
+										"id": "acf47450-c3e0-4a6d-a78c-0678f0f74035",
+										"boundaryNum": 1,
+										"name": "Raipur Public School Metal Park Rawabhata",
+										"localname": "Raipur Public School Metal Park Rawabhata",
+										"longitude": 81.62386,
+										"latitude": 21.315557,
+										"label": "Locality",
+										"code": "CITYA09",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "64d2ca12-fc43-459b-aeb1-60d5955a8b1c",
+								"boundaryNum": 1,
+								"name": "BANJARI MATA WARD",
+								"localname": "WARD_10",
+								"longitude": 81.628664,
+								"latitude": 21.317108,
+								"label": "Block",
+								"code": "WARD10",
+								"children": [
+									{
+										"id": "b68957d3-63ba-4755-a640-88b58e9fe4f0",
+										"boundaryNum": 1,
+										"name": "Govt. Naveen School Banjari Nagar Rawabhata",
+										"localname": "Govt. Naveen School Banjari Nagar Rawabhata",
+										"longitude": 81.628664,
+										"latitude": 21.317108,
+										"label": "Locality",
+										"code": "CITYA10",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "9dfddd58-8405-4ac1-8bc2-7380197c116c",
+								"boundaryNum": 1,
+								"name": "THAKUR PYARE LAL WARD",
+								"localname": "WARD_11",
+								"longitude": 81.63331,
+								"latitude": 21.322014,
+								"label": "Block",
+								"code": "WARD11",
+								"children": [
+									{
+										"id": "4c51c978-709b-4658-b5c0-4538d8faf165",
+										"boundaryNum": 1,
+										"name": "Bajrang Chowk near Hanuman Mandir Rawabhata",
+										"localname": "Bajrang Chowk near Hanuman Mandir Rawabhata",
+										"longitude": 81.63331,
+										"latitude": 21.322014,
+										"label": "Locality",
+										"code": "CITYA11",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "8237ec14-77d7-47c8-ad9e-1ab24dc7bfd1",
+								"boundaryNum": 1,
+								"name": "LAL BAHADUR SHASTRI WARD",
+								"localname": "WARD_12",
+								"longitude": 81.6369,
+								"latitude": 21.326021,
+								"label": "Block",
+								"code": "WARD12",
+								"children": [
+									{
+										"id": "40e9b369-41b7-4112-9c05-defe46491b41",
+										"boundaryNum": 1,
+										"name": "Om Bajar near Shulabh Rawabhata",
+										"localname": "Om Bajar near Shulabh Rawabhata",
+										"longitude": 81.6369,
+										"latitude": 21.326021,
+										"label": "Locality",
+										"code": "CITYA12",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "504830d6-f9e3-4052-8538-673437fc0937",
+								"boundaryNum": 1,
+								"name": "PT. RAVISHANKAR SHUKLA WARD",
+								"localname": "WARD_13",
+								"longitude": 81.638426,
+								"latitude": 21.315708,
+								"label": "Block",
+								"code": "WARD13",
+								"children": [
+									{
+										"id": "3adb91b5-fdfd-4a1e-b69d-bfa8f4d84a2c",
+										"boundaryNum": 1,
+										"name": "IDBI Bank (Parking no-1) Transport Nagar Rawabhata",
+										"localname": "IDBI Bank (Parking no-1) Transport Nagar Rawabhata",
+										"longitude": 81.638426,
+										"latitude": 21.315708,
+										"label": "Locality",
+										"code": "CITYA13",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "a08750d0-b3fd-4ff5-ba24-d4729d1ef376",
+								"boundaryNum": 1,
+								"name": "GOVARDHAN WARD",
+								"localname": "WARD_14",
+								"longitude": 81.640325,
+								"latitude": 21.330998,
+								"label": "Block",
+								"code": "WARD14",
+								"children": [
+									{
+										"id": "cc4598f8-2d2e-4dc4-8807-eeab60bcc105",
+										"boundaryNum": 1,
+										"name": "Dongia Talab Rawabhata",
+										"localname": "Dongia Talab Rawabhata",
+										"longitude": 81.640325,
+										"latitude": 21.330998,
+										"label": "Locality",
+										"code": "CITYA14",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "2f52aaf8-5ce9-4966-9b2e-6217cbe19714",
+								"boundaryNum": 1,
+								"name": "CHHATRAPATI SHIVAJI MAHARAJ",
+								"localname": "WARD_15",
+								"longitude": 81.638469,
+								"latitude": 21.324011,
+								"label": "Block",
+								"code": "WARD15",
+								"children": [
+									{
+										"id": "f1629cc6-a575-4b33-826a-fe87cd02a016",
+										"boundaryNum": 1,
+										"name": "Satnam Chowk near Shulabh Rawabhata",
+										"localname": "Satnam Chowk near Shulabh Rawabhata",
+										"longitude": 81.638469,
+										"latitude": 21.324011,
+										"label": "Locality",
+										"code": "CITYA15",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "d5b787fc-f2ad-4994-ac76-652094057007",
+								"boundaryNum": 1,
+								"name": "MAA SHEETLA WARD",
+								"localname": "WARD_16",
+								"longitude": 81.651577,
+								"latitude": 21.307899,
+								"label": "Block",
+								"code": "WARD16",
+								"children": [
+									{
+										"id": "45bfa2b7-99b1-4d86-a6ba-f3a3dc09bfb5",
+										"boundaryNum": 1,
+										"name": "Moti Sagar Talab Urkura",
+										"localname": "Moti Sagar Talab Urkura",
+										"longitude": 81.651577,
+										"latitude": 21.307899,
+										"label": "Locality",
+										"code": "CITYA16",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "ce011818-c33f-464f-86f8-ddddf9f84632",
+								"boundaryNum": 1,
+								"name": "SANT KABIR WARD",
+								"localname": "WARD_17",
+								"longitude": 81.6543,
+								"latitude": 21.306245,
+								"label": "Block",
+								"code": "WARD17",
+								"children": [
+									{
+										"id": "0f04dae6-7d44-40d7-addf-3c6e79c46120",
+										"boundaryNum": 1,
+										"name": "Ikra Public School Urkura",
+										"localname": "Ikra Public School Urkura",
+										"longitude": 81.6543,
+										"latitude": 21.306245,
+										"label": "Locality",
+										"code": "CITYA17",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "7dc79bf2-5da9-421b-961a-caae97c3bd82",
+								"boundaryNum": 1,
+								"name": "THAKUR DEV WARD",
+								"localname": "WARD_18",
+								"longitude": 81.651686,
+								"latitude": 21.304367,
+								"label": "Block",
+								"code": "WARD18",
+								"children": [
+									{
+										"id": "3987e100-7729-41ac-892a-43728ec214e8",
+										"boundaryNum": 1,
+										"name": "Chota Talab Urkura",
+										"localname": "Chota Talab Urkura",
+										"longitude": 81.651686,
+										"latitude": 21.304367,
+										"label": "Locality",
+										"code": "CITYA18",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "ecb3a6b1-0248-437e-aa2e-597339ee4d85",
+								"boundaryNum": 1,
+								"name": "MADHAV LAL SPRAY WARD",
+								"localname": "WARD_19",
+								"longitude": 81.637608,
+								"latitude": 21.308641,
+								"label": "Block",
+								"code": "WARD19",
+								"children": [
+									{
+										"id": "c4189fe2-4531-4e04-b3a0-e8228ec1a23d",
+										"boundaryNum": 1,
+										"name": "Spray Colony Garden Urkura",
+										"localname": "Spray Colony Garden Urkura",
+										"longitude": 81.637608,
+										"latitude": 21.308641,
+										"label": "Locality",
+										"code": "CITYA19",
+										"pincode": [
+											493221
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "6a39ee47-629e-408f-ac5d-70b9278d1504",
+								"boundaryNum": 1,
+								"name": "PT. SUNDAR LAL SHARMA",
+								"localname": "WARD_20",
+								"longitude": 81.635741,
+								"latitude": 21.311668,
+								"label": "Block",
+								"code": "WARD20",
+								"children": [
+									{
+										"id": "fa2b351a-8318-41d4-aea1-1b3a061da1a2",
+										"boundaryNum": 1,
+										"name": "D.M. Tower Birgaon",
+										"localname": "D.M. Tower Birgaon",
+										"longitude": 81.635741,
+										"latitude": 21.311668,
+										"label": "Locality",
+										"code": "CITYA20",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "7b130a6c-5915-4cf3-a211-fe3d0ed073f3",
+								"boundaryNum": 1,
+								"name": "KAILASH NAGAR WARD",
+								"localname": "WARD_21",
+								"longitude": 81.629686,
+								"latitude": 21.311937,
+								"label": "Block",
+								"code": "WARD21",
+								"children": [
+									{
+										"id": "37f37419-7044-4b7e-b576-166bd482f48b",
+										"boundaryNum": 1,
+										"name": "Yamini Fancy and General Store Kailash Nagar Birgaon",
+										"localname": "Yamini Fancy and General Store Kailash Nagar Birgaon",
+										"longitude": 81.629686,
+										"latitude": 21.311937,
+										"label": "Locality",
+										"code": "CITYA21",
+										"pincode": [
+											492003
+										],
+										"area": "Area2",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "4e53381b-7678-4a72-af5b-63060d95f588",
+								"boundaryNum": 1,
+								"name": "DR. RADHAKRISHNA WARD",
+								"localname": "WARD_22",
+								"longitude": 81.626814,
+								"latitude": 21.309986,
+								"label": "Block",
+								"code": "WARD22",
+								"children": [
+									{
+										"id": "8d3f15bf-ffa8-4045-a7b2-a3cac0418d24",
+										"boundaryNum": 1,
+										"name": "Sheetla Talab Birgaon",
+										"localname": "Sheetla Talab Birgaon",
+										"longitude": 81.626814,
+										"latitude": 21.309986,
+										"label": "Locality",
+										"code": "CITYA22",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "83a3cb20-0cef-4d48-b3b0-8036c870826e",
+								"boundaryNum": 1,
+								"name": "SANT RAVIDAS WARD",
+								"localname": "WARD_23",
+								"longitude": 81.630742,
+								"latitude": 21.308062,
+								"label": "Block",
+								"code": "WARD23",
+								"children": [
+									{
+										"id": "a46ae6f0-433b-4c35-bef5-d857090e724f",
+										"boundaryNum": 1,
+										"name": "Shukrawari Bajar Birgaon",
+										"localname": "Shukrawari Bajar Birgaon",
+										"longitude": 81.630742,
+										"latitude": 21.308062,
+										"label": "Locality",
+										"code": "CITYA23",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "199f5a68-384d-49d4-9e07-504a174ead15",
+								"boundaryNum": 1,
+								"name": "SHAHID BHAGAT SINGH WARD",
+								"localname": "WARD_24",
+								"longitude": 81.625942,
+								"latitude": 21.307359,
+								"label": "Block",
+								"code": "WARD24",
+								"children": [
+									{
+										"id": "1951084c-7c09-49ca-9642-842ca2c274a3",
+										"boundaryNum": 1,
+										"name": "Rav Dev Mandir Birgaon",
+										"localname": "Rav Dev Mandir Birgaon",
+										"longitude": 81.625942,
+										"latitude": 21.307359,
+										"label": "Locality",
+										"code": "CITYA24",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "3b9c7586-5a33-481b-89e8-233cba433a5b",
+								"boundaryNum": 1,
+								"name": "MAA PARMESHWARI WARD",
+								"localname": "WARD_25",
+								"longitude": 81.629042,
+								"latitude": 21.30686,
+								"label": "Block",
+								"code": "WARD25",
+								"children": [
+									{
+										"id": "30f474c9-ccaf-4216-9faa-5f77832abef2",
+										"boundaryNum": 1,
+										"name": "Shada Devta Birgaon",
+										"localname": "Shada Devta Birgaon",
+										"longitude": 81.629042,
+										"latitude": 21.30686,
+										"label": "Locality",
+										"code": "CITYA25",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b8961a48-d459-4e7c-b469-7873083198df",
+								"boundaryNum": 1,
+								"name": "SHAHID VEER NARAYAN SINGH WARD",
+								"localname": "WARD_26",
+								"longitude": 81.629417,
+								"latitude": 21.308908,
+								"label": "Block",
+								"code": "WARD26",
+								"children": [
+									{
+										"id": "2386ffc9-3a36-4d3b-b5e2-d3ee0d123308",
+										"boundaryNum": 1,
+										"name": "Rajshree Public School birgaon",
+										"localname": "Rajshree Public School birgaon",
+										"longitude": 81.629417,
+										"latitude": 21.308908,
+										"label": "Locality",
+										"code": "CITYA26",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "a6549188-aa75-4071-ac3c-9a78af61a6fc",
+								"boundaryNum": 1,
+								"name": "JAY BHUDADEV WARD",
+								"localname": "WARD_27",
+								"longitude": 81.635672,
+								"latitude": 21.308886,
+								"label": "Block",
+								"code": "WARD27",
+								"children": [
+									{
+										"id": "eb79267b-4c1c-404c-946c-95ae1885eefd",
+										"boundaryNum": 1,
+										"name": "Udyog Nagri School Birgaon",
+										"localname": "Udyog Nagri School Birgaon",
+										"longitude": 81.635672,
+										"latitude": 21.308886,
+										"label": "Locality",
+										"code": "CITYA27",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "d67fdcf3-023f-4c39-9ea2-ae63fb7b94de",
+								"boundaryNum": 1,
+								"name": "MD. ABDUL ROUF WARD",
+								"localname": "WARD_28",
+								"longitude": 81.63354,
+								"latitude": 21.304218,
+								"label": "Block",
+								"code": "WARD28",
+								"children": [
+									{
+										"id": "7163b298-0bc4-4d54-a4a3-8d0d8eb54cc7",
+										"boundaryNum": 1,
+										"name": "Vyas Talab Birgaon",
+										"localname": "Vyas Talab Birgaon",
+										"longitude": 81.63354,
+										"latitude": 21.304218,
+										"label": "Locality",
+										"code": "CITYA28",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b12c173e-67c1-41a1-b479-a693537ae921",
+								"boundaryNum": 1,
+								"name": "DR BHIMRAO RAMJI AMBEDKAR WARD",
+								"localname": "WARD_29",
+								"longitude": 81.631062,
+								"latitude": 21.305545,
+								"label": "Block",
+								"code": "WARD29",
+								"children": [
+									{
+										"id": "498a7812-7013-4040-82d9-7f5897563814",
+										"boundaryNum": 1,
+										"name": "Sarkari Kuwa Birgaon",
+										"localname": "Sarkari Kuwa Birgaon",
+										"longitude": 81.631062,
+										"latitude": 21.305545,
+										"label": "Locality",
+										"code": "CITYA29",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "75413d67-39d5-4728-8928-4c4c20e6b3dd",
+								"boundaryNum": 1,
+								"name": "BHARAT MATA WARD",
+								"localname": "WARD_30",
+								"longitude": 81.630229,
+								"latitude": 21.303241,
+								"label": "Block",
+								"code": "WARD30",
+								"children": [
+									{
+										"id": "4b2d76da-e277-40fb-9b1c-324a4c0503a8",
+										"boundaryNum": 1,
+										"name": "Azad Chowk birgaon",
+										"localname": "Azad Chowk birgaon",
+										"longitude": 81.630229,
+										"latitude": 21.303241,
+										"label": "Locality",
+										"code": "CITYA30",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "e0d5350b-defe-42af-8eed-65a91ff9bee1",
+								"boundaryNum": 1,
+								"name": "SHAHID CHANDRASHEKHAR AZAD WARD",
+								"localname": "WARD_31",
+								"longitude": 81.63043,
+								"latitude": 21.305494,
+								"label": "Block",
+								"code": "WARD31",
+								"children": [
+									{
+										"id": "12f34f54-597b-4a0d-8d53-c7770c0b6a3f",
+										"boundaryNum": 1,
+										"name": "Mahatma Gandhi School Shubhash Chowk Birgaon",
+										"localname": "Mahatma Gandhi School Shubhash Chowk Birgaon",
+										"longitude": 81.63043,
+										"latitude": 21.305494,
+										"label": "Locality",
+										"code": "CITYA31",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "82be3a3e-1f56-4fe4-9322-fab7b1877ad9",
+								"boundaryNum": 1,
+								"name": "MAHATAMA GANDHI WARD",
+								"localname": "WARD_32",
+								"longitude": 81.628517,
+								"latitude": 21.302123,
+								"label": "Block",
+								"code": "WARD32",
+								"children": [
+									{
+										"id": "8c89a784-cb4f-45f2-b276-35fd8b12495d",
+										"boundaryNum": 1,
+										"name": "Gandhi Udhyan Birgaon",
+										"localname": "Gandhi Udhyan Birgaon",
+										"longitude": 81.628517,
+										"latitude": 21.302123,
+										"label": "Locality",
+										"code": "CITYA32",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b37851a2-b302-4abb-8be4-b76394d85643",
+								"boundaryNum": 1,
+								"name": "DR. KHUBCHAND BAGHEL WARD",
+								"localname": "WARD_33",
+								"longitude": 81.626482,
+								"latitude": 21.306074,
+								"label": "Block",
+								"code": "WARD33",
+								"children": [
+									{
+										"id": "ace294a0-c75a-497d-be51-993acc5a254b",
+										"boundaryNum": 1,
+										"name": "Dewangan Marriage palace(Behind Lakshmi Medical) Birgaon",
+										"localname": "Dewangan Marriage palace(Behind Lakshmi Medical) Birgaon",
+										"longitude": 81.626482,
+										"latitude": 21.306074,
+										"label": "Locality",
+										"code": "CITYA33",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "aa4273f7-c13b-417c-b83c-cb8598adfa62",
+								"boundaryNum": 1,
+								"name": "INDIRA GANDHI WARD",
+								"localname": "WARD_34",
+								"longitude": 81.623894,
+								"latitude": 21.305959,
+								"label": "Block",
+								"code": "WARD34",
+								"children": [
+									{
+										"id": "2c5c8330-bde1-4f29-ab06-0e8ceffaff3f",
+										"boundaryNum": 1,
+										"name": "Ration Shop Shahid Nagar chowk Birgaon",
+										"localname": "Ration Shop Shahid Nagar chowk Birgaon",
+										"longitude": 81.623894,
+										"latitude": 21.305959,
+										"label": "Locality",
+										"code": "CITYA34",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "6ecea37c-8caa-4be1-bf63-a7751d513fe3",
+								"boundaryNum": 1,
+								"name": "SUBHASH CHANDRA BOSE WARD",
+								"localname": "WARD_35",
+								"longitude": 81.632317,
+								"latitude": 21.300114,
+								"label": "Block",
+								"code": "WARD35",
+								"children": [
+									{
+										"id": "1828fab3-3f2b-453a-bec2-a743ac553826",
+										"boundaryNum": 1,
+										"name": "In front of Nagar Nigam near Durga Nagar Birgaon",
+										"localname": "In front of Nagar Nigam near Durga Nagar Birgaon",
+										"longitude": 81.632317,
+										"latitude": 21.300114,
+										"label": "Locality",
+										"code": "CITYA35",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "dd221bd9-43f2-4a83-ba05-d30f8c363729",
+								"boundaryNum": 1,
+								"name": "PT. JAWAHAR LAL NEHRU WARD",
+								"localname": "WARD_36",
+								"longitude": 81.629208,
+								"latitude": 21.302085,
+								"label": "Block",
+								"code": "WARD36",
+								"children": [
+									{
+										"id": "8abe7bdd-48bb-4a56-ab61-7abc10aa7ef8",
+										"boundaryNum": 1,
+										"name": "In front of Sanskritik Bhavan near Nageshwar Nagar Birgaon",
+										"localname": "In front of Sanskritik Bhavan near Nageshwar Nagar Birgaon",
+										"longitude": 81.629208,
+										"latitude": 21.302085,
+										"label": "Locality",
+										"code": "CITYA36",
+										"pincode": [
+											492003
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "c052195c-2342-4760-bd4d-f5d99d5bc1d3",
+								"boundaryNum": 1,
+								"name": "MINI MATA WARD",
+								"localname": "WARD_37",
+								"longitude": 81.615324,
+								"latitude": 21.287605,
+								"label": "Block",
+								"code": "WARD37",
+								"children": [
+									{
+										"id": "a3d3b866-f732-4f0b-98be-87832aeb87ca",
+										"boundaryNum": 1,
+										"name": "Anganbadi Kendra N0.1,Mahamaya Para Sarora",
+										"localname": "Anganbadi Kendra N0.1,Mahamaya Para Sarora",
+										"longitude": 81.615324,
+										"latitude": 21.287605,
+										"label": "Locality",
+										"code": "CITYA37",
+										"pincode": [
+											493221
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "bf6c4965-abda-41cf-a5bf-80820dd89f66",
+								"boundaryNum": 1,
+								"name": "MAA KARMA MATA WARD",
+								"localname": "WARD_38",
+								"longitude": 81.612076,
+								"latitude": 21.290094,
+								"label": "Block",
+								"code": "WARD38",
+								"children": [
+									{
+										"id": "38f52d5f-e3e7-4477-adbe-9800ce534889",
+										"boundaryNum": 1,
+										"name": "Kabir Chaura Sarora",
+										"localname": "Kabir Chaura Sarora",
+										"longitude": 81.612076,
+										"latitude": 21.290094,
+										"label": "Locality",
+										"code": "CITYA38",
+										"pincode": [
+											493221
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "0ad423f5-209d-445d-a728-7e61b1d45d67",
+								"boundaryNum": 1,
+								"name": "SARDAR VALLABH BHAI PATEL WARD",
+								"localname": "WARD_39",
+								"longitude": 81.609673,
+								"latitude": 21.287664,
+								"label": "Block",
+								"code": "WARD39",
+								"children": [
+									{
+										"id": "b9ab23e4-ce0b-452f-acd9-582047350b9a",
+										"boundaryNum": 1,
+										"name": "Near Shublabh Satnami Mohalla Sarora",
+										"localname": "Near Shublabh Satnami Mohalla Sarora",
+										"longitude": 81.609673,
+										"latitude": 21.287664,
+										"label": "Locality",
+										"code": "CITYA39",
+										"pincode": [
+											493221
+										],
+										"area": "Area3",
+										"children": []
+									}
+								]
+							},
+							{
+								"id": "b00b56af-05b1-40cd-ada7-f5572bf7e107",
+								"boundaryNum": 1,
+								"name": "DR. RAVINDRA NATH TAGORE WARD",
+								"localname": "WARD_40",
+								"longitude": 81.604544,
+								"latitude": 21.283537,
+								"label": "Block",
+								"code": "WARD40",
+								"children": [
+									{
+										"id": "cf0c675e-d2f7-4c8b-b4f4-512f22a4be5d",
+										"boundaryNum": 1,
+										"name": "Govt. Primary School, Majdur Nagar Sarora",
+										"localname": "Govt. Primary School, Majdur Nagar Sarora",
+										"longitude": 81.604544,
+										"latitude": 21.283537,
+										"label": "Locality",
+										"code": "CITYA40",
+										"pincode": [
+											493221
+										],
+										"area": "Area1",
+										"children": []
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}
