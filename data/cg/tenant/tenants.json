@@ -112,6 +112,43 @@
       "address": "Dhamtari Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "cg.citya",
+      "name": "CityA",
+      "description": "citya",
+      "logoId":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HCM.png",
+	  "logoId1":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HUADM.png",
+	  "logoId2":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/bhilaicharoda_logo.png",
+	  "logoId3":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HCM_blank.png",
+      "imageId": null,
+      "domainUrl": "https://www.niwaspass.com",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "citye@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "CityA",
+        "localName": null,
+        "districtCode": "CityA",
+        "districtName": null,
+        "districtTenantCode": "cg.citya",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 76.8722642,
+        "latitude": 36.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "105",
+        "ddrName": "DDR E"
+      },
+      "address": "CityA Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
     }
    ]
 }
