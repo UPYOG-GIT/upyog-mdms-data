@@ -30,7 +30,7 @@
 							{
 								"id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
 								"boundaryNum": 1,
-								"name": "HATKESAR WARD",
+								"name": "HATKESHAR WARD",
 								"localname": "WARD_1",
 								"longitude": 81.53622,
 								"latitude": 20.72009,
@@ -40,8 +40,8 @@
 									{
 										"id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
 										"boundaryNum": 1,
-										"name": "Hatkesar ward",
-										"localname": "Hatkesar ward",
+										"name": "Hatkeshar ward",
+										"localname": "Hatkeshar ward",
 										"longitude": null,
 										"latitude": null,
 										"label": "Locality",
@@ -1062,7 +1062,7 @@
 							{
 								"id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
 								"boundaryNum": 1,
-								"name": "SHITLAPARA WARD",
+								"name": "HATKESHAR WARD",
 								"localname": "WARD_1",
 								"longitude": 81.53622,
 								"latitude": 20.72009,
@@ -1072,12 +1072,12 @@
 									{
 										"id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
 										"boundaryNum": 1,
-										"name": "shitlapara ward",
-										"localname": "shitlapara ward",
+										"name": "Hatkeshar ward",
+										"localname": "Hatkeshar ward",
 										"longitude": null,
 										"latitude": null,
 										"label": "Locality",
-										"code": "DC01",
+										"code": "DH01",
 										"pincode": [
 											492003
 										],
