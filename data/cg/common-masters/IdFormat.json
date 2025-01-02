@@ -695,6 +695,10 @@
             "idname": "bpa.aplnumber"
         },
         {
+            "format": "CG-OC-[cy:yyyy-MM-dd]-[SEQ_EG_OC_APN]",
+            "idname": "oc.aplnumber"
+        },
+        {
             "format": "CG-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
             "idname": "bpa.permitnumber"
         },
