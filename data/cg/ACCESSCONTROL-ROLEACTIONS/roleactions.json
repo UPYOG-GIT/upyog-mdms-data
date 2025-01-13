@@ -20722,6 +20722,18 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "DGRO",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "WS_CEMP",
       "actionid": 2189,
       "actioncode": "",
