@@ -13759,7 +13759,18 @@
          "serviceCode": "ADMIN",
          "code": "null",
          "path": ""
-      }	
+      },
+      {
+         "id": 2450,
+         "name": "BPA-Applyforservice",
+         "url": "/bpa-services/v1/bpa/_updatebillamount",
+         "displayName": "Apply",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "BPA",
+         "code": "null",
+         "path": ""
+      }
 	   
    ]
 }
