@@ -13774,7 +13774,7 @@
       {
          "id": 2451,
          "name": "BPA-Applyforservice",
-         "url": "bpa-services/v1/bpa/pushData",
+         "url": "/bpa-services/v1/bpa/pushData",
          "displayName": "Apply",
          "orderNumber": 0,
          "enabled": false,
