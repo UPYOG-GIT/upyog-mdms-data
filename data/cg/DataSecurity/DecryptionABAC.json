@@ -455,6 +455,28 @@
           }
         ]
       },
+     {
+        "key" : "MISPAYMENTDETAILSREPORT",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "HRMS_ADMIN",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : ""
+                },
+                "accessType" : "PLAIN"
+              },
+	      {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
 	    {
         "key" : "DirectBhavanAnugyaReport",
         "roleAttributeAccessList" : [
