@@ -456,7 +456,7 @@
         ]
       },
      {
-        "key" : "MISPAYMENTDETAILSREPORT",
+        "key" : "MisPaymentDetailsReport",
         "roleAttributeAccessList" : [
           {
             "roleCode" : "HRMS_ADMIN",
