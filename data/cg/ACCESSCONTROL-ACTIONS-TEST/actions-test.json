@@ -13803,6 +13803,43 @@
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2454,
+         "name": "MisPaymentDetailsReport",
+         "url": "url",
+         "displayName": "MisPaymentDetailsReport",
+         "orderNumber": 5,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "HRMS.Search Employee",
+         "navigationURL": "report/rainmaker-bpa/MisPaymentDetailsReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 2455,
+         "name": "MisPaymentDetailsReport",
+         "url": "/report/rainmaker-bpa/MisPaymentDetailsReport/metadata/_get",
+         "displayName": "MisPaymentDetailsReport",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "MisPaymentDetailsReport",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2456,
+         "name": "MisPaymentDetailsReport",
+         "url": "/report/rainmaker-bpa/MisPaymentDetailsReport/_get",
+         "displayName": "MisPaymentDetailsReport",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "MisPaymentDetailsReport",
+         "code": "null",
+         "path": ""
       }
 	   
    ]
