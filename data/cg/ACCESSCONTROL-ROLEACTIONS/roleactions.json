@@ -25557,6 +25557,42 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 2449,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 2449,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_BUILDER",
+      "actionid": 2449,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 2449,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 2449,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 2449,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2451,
       "actioncode": "",
