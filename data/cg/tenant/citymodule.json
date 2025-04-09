@@ -223,23 +223,11 @@
     {
       "module": "FSM",
       "code": "FSM",
-      "active": false,
+      "active": true,
       "order":2,
       "tenants": [
         {
           "code": "cg.citya"
-        },
-        {
-          "code": "cg.cityb"
-        },
-        {
-          "code": "cg.cityc"
-        },
-        {
-          "code": "cg.cityd"
-        },
-        {
-          "code": "cg.citye"
         }
       ]
     },
