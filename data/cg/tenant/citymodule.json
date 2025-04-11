@@ -300,20 +300,17 @@
       "active": true,
       "order":6,
       "tenants": [
+       {
+          "code": "cg.bhilaicharoda"
+        },
+        {
+          "code": "cg.birgaon"
+        },
+        {
+          "code": "cg.dhamtari"
+        },
         {
           "code": "cg.citya"
-        },
-        {
-          "code": "cg.cityb"
-        },
-        {
-          "code": "cg.cityc"
-        },
-        {
-          "code": "cg.cityd"
-        },
-        {
-          "code": "cg.citye"
         }
       ]
     },
