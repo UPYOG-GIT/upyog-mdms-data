@@ -25557,7 +25557,7 @@
       "tenantId": "cg"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "HRMS_ADMIN",
       "actionid": 2450,
       "actioncode": "",
       "tenantId": "cg.citya"
