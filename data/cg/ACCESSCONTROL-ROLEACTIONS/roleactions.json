@@ -25569,6 +25569,24 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2450,
+      "actioncode": "",
+      "tenantId": "cg.birgaon"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2450,
+      "actioncode": "",
+      "tenantId": "cg.dhamtari"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2450,
+      "actioncode": "",
+      "tenantId": "cg.bhilaicharoda"
+    },
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 2449,
       "actioncode": "",
