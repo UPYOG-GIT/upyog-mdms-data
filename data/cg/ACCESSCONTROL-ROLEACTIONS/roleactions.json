@@ -25663,6 +25663,12 @@
       "actionid": 2457,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2458,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
