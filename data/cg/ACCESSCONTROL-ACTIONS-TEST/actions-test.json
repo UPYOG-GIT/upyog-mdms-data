@@ -13840,6 +13840,17 @@
          "serviceCode": "MisPaymentDetailsReport",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2457,
+         "name": "BPA Plain Search API",
+         "url": "/bpa-services/v1/bpa/_plainsearch",
+         "displayName": "BPA Plain Search",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "BPA",
+         "code": "null",
+         "path": ""
       }
 	   
    ]
