@@ -13862,6 +13862,17 @@
          "serviceCode": "INDEXER",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2459,
+         "name": "Plain Search API",
+         "url": "/collection-services/payments/_plainsearch",
+         "displayName": "Plain Search",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "COLLECTION",
+         "code": "null",
+         "path": ""
       }
 	   
    ]
