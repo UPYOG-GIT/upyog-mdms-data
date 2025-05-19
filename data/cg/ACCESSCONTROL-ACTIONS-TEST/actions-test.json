@@ -13851,6 +13851,17 @@
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2458,
+         "name": "Legacy Index API",
+         "url": "/egov-indexer/index-operations/_legacyindex",
+         "displayName": "Ingest data in Legacy Index",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "INDEXER",
+         "code": "null",
+         "path": ""
       }
 	   
    ]
