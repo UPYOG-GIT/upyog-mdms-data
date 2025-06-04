@@ -133,6 +133,11 @@
         "description": "Commissioner"
       },
       {
+        "code": "BPA_COMMISSIONER",
+        "name": "BPA Commissioner",
+        "description": "BPA Commissioner"
+      },
+      {
         "code": "AE_CREATOR",
         "name": "Abstract Estimate Creator",
         "description": "Who has a access to create Abstract Estimate"
