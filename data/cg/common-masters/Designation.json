@@ -175,6 +175,12 @@
       "description": "Commissioner",
       "code": "COMM",
       "active": true
+    },
+    {
+      "name": "BPA Commissioner",
+      "description": "BPA Commissioner",
+      "code": "BPA_COMM",
+      "active": true
     }
   ]
 }
