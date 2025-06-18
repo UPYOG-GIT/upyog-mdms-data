@@ -181,6 +181,12 @@
       "description": "BPA Commissioner",
       "code": "BPA_COMM",
       "active": true
+    },
+    {
+      "code": "Sub Engineer",
+      "name": "Sub Engineer (B&R)",
+      "description": "Sub Engineer (B&R)",
+      "active": true
     }
   ]
 }
