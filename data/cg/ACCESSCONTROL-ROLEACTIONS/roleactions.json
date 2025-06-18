@@ -25831,6 +25831,156 @@
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "BPA_EMP_SUBENGINEER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
