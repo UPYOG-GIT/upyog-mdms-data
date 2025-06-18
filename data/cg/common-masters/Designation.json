@@ -183,9 +183,9 @@
       "active": true
     },
     {
-      "code": "Sub Engineer",
       "name": "Sub Engineer (B&R)",
       "description": "Sub Engineer (B&R)",
+      "code": "EMP_SUB_ENGINEER",
       "active": true
     }
   ]
