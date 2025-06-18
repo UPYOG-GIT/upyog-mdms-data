@@ -138,6 +138,11 @@
         "description": "BPA Commissioner"
       },
       {
+        "code": "BPA_EMP_SUBENGINEER",
+        "name": "BPA Sub Engineer Employee",
+        "description": "BPA Sub Engineer Employee"
+      },
+      {
         "code": "AE_CREATOR",
         "name": "Abstract Estimate Creator",
         "description": "Who has a access to create Abstract Estimate"
