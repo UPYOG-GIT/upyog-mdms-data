@@ -661,6 +661,11 @@
         "code": "NDA_SYSTEM",
         "name": "National Dashboard Systeme user",
         "description": "Push data through adopter for all states"
+      },
+      {
+        "code": "VENDOR",
+        "name": "VENDOR",
+        "description": "Vendor Employee"
       }
     ]
   }
