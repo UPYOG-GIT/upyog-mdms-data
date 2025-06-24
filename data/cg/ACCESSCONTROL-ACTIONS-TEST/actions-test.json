@@ -13895,6 +13895,17 @@
          "serviceCode": "vendor",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2462,
+         "name": "Vendor Update",
+         "url": "/vendor/v1/_update",
+         "displayName": "Vendor Update",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "vendor",
+         "code": "null",
+         "path": ""
       }
 	   
    ]
