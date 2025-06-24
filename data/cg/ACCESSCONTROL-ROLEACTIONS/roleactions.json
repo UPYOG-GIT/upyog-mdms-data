@@ -17789,6 +17789,12 @@
     },
     {
       "rolecode": "FSM_ADMIN",
+      "actionid": 2462,
+      "actioncode": "",
+      "tenantId": "cg.citya"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
       "actionid": 2066,
       "actioncode": "",
       "tenantId": "cg"
