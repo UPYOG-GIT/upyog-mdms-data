@@ -36,6 +36,31 @@
         "businessService": "FSM",
         "active": "true",
         "isStatelevel": "false"
+      },  
+      {
+        "businessService": "FSM_POST_PAY_SERVICE",
+        "active": "true",
+        "isStatelevel": "false"
+      },  
+      {
+        "businessService": "PAY_LATER_SERVICE",
+        "active": "true",
+        "isStatelevel": "false"
+      },  
+      {
+        "businessService": "FSM_ADVANCE_PAY_SERVICE",
+        "active": "true",
+        "isStatelevel": "false"
+      },  
+      {
+        "businessService": "FSM_ADVANCE_PAY_SERVICE_V1",
+        "active": "true",
+        "isStatelevel": "false"
+      },  
+      {
+        "businessService": "FSM_ZERO_PAY_SERVICE",
+        "active": "true",
+        "isStatelevel": "false"
       }
         
     ]
