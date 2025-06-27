@@ -26197,6 +26197,18 @@
       "actionid": 2475,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2476,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2477,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
