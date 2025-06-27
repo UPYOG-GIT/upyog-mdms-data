@@ -14078,6 +14078,42 @@
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2476,
+      "name": "PT_SEARCH_AND_PAY",
+      "url": "digit-ui-card",
+      "displayName": "Search and Pay",
+      "orderNumber": 1,
+      "parentModule": "CommonPT",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/commonpt/property/citizen-search",
+      "leftIcon": "CommonPTIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/commonpt-home"
+    },
+    {
+      "id": 2477,
+      "name": "PT_CREATE_PROPERTY",
+      "url": "digit-ui-card",
+      "displayName": "Create Property",
+      "orderNumber": 3,
+      "parentModule": "CommonPT",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/commonpt/property/new-application",
+      "leftIcon": "CommonPTIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/commonpt-home"
     }
 	   
    ]
