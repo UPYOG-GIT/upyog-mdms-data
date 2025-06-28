@@ -17968,6 +17968,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2070,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "FSM_EMP_FSTPO",
       "actionid": 2071,
       "actioncode": "",
