@@ -61,6 +61,11 @@
         "businessService": "FSM_ZERO_PAY_SERVICE",
         "active": "true",
         "isStatelevel": "false"
+      },  
+      {
+        "businessService": "FSM_VEHICLE_TRIP",
+        "active": "true",
+        "isStatelevel": "false"
       }
         
     ]
