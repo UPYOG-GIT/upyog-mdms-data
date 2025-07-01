@@ -18184,6 +18184,18 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2084,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2084,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "FSM_ADMIN",
       "actionid": 2085,
       "actioncode": "",
@@ -24331,13 +24343,13 @@
       "rolecode": "FSM_DSO",
       "actionid": 2071,
       "actioncode": "",
-      "tenantId": "pg"
+      "tenantId": "cg"
     },
     {
       "rolecode": "FSM_COLLECTOR",
       "actionid": 2071,
       "actioncode": "",
-      "tenantId": "pg"
+      "tenantId": "cg"
     },
      {
       "rolecode": "PGR_LME",
