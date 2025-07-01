@@ -24327,6 +24327,18 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 2071,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_COLLECTOR",
+      "actionid": 2071,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
      {
       "rolecode": "PGR_LME",
       "actionid": 1527,
