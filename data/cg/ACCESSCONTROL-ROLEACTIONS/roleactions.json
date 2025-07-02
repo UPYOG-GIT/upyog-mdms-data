@@ -17596,6 +17596,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2059,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 2060,
       "actioncode": "",
