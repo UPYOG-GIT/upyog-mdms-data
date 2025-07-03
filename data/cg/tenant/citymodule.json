@@ -211,6 +211,7 @@
     {
       "module": "FSM",
       "code": "FSM",
+      "bannerImage": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/fsm_banner.jpg",
       "active": true,
       "order":2,
       "tenants": [
