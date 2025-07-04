@@ -18664,6 +18664,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "FSM_DSO",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 2066,
       "actioncode": "",
