@@ -23,6 +23,9 @@
       "tenants": [
         {
           "code": "cg.citya"
+        },
+	{
+          "code": "cg.raipur"
         }
       ]
     },
@@ -217,6 +220,9 @@
       "tenants": [
         {
           "code": "cg.citya"
+        },
+	{
+          "code": "cg.raipur"
         }
       ]
     },
