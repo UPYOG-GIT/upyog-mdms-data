@@ -26257,6 +26257,12 @@
       "actionid": 2477,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "FSM_DRIVER",
+      "actionid": 2478,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
