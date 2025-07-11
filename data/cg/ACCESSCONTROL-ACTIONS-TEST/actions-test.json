@@ -14114,7 +14114,22 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/commonpt-home"
-    }
+    },
+      {
+         "id": 2478,
+         "displayName": "DriverDashboard",
+         "orderNumber": 0,
+         "leftIcon": "",
+         "url": "url",
+         "name": "FSM DRIVER DASHBOARD",
+         "enabled": true,
+         "navigationURL": "/digit-ui/citizen/driver-dashboard",
+         "parentModule": "",
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      }
+    
 	   
    ]
 }
