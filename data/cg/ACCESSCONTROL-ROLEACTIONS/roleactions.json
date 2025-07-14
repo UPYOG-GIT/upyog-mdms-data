@@ -18106,6 +18106,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "FSM_DRIVER",
+      "actionid": 2077,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "FSM_EDITOR_EMP",
       "actionid": 2077,
       "actioncode": "",
