@@ -17795,6 +17795,24 @@
     },
     {
       "rolecode": "FSM_ADMIN",
+      "actionid": 2461,
+      "actioncode": "",
+      "tenantId": "cg.raipur"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2461,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "FSM_DRIVER",
+      "actionid": 2461,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
       "actionid": 2462,
       "actioncode": "",
       "tenantId": "cg.citya"
