@@ -14128,6 +14128,20 @@
          "serviceCode": "",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2479,
+         "displayName": "CitizenInbox",
+         "orderNumber": 0,
+         "leftIcon": "",
+         "url": "url",
+         "name": "FSM Citizen INBOX",
+         "enabled": true,
+         "navigationURL": "digit-ui/citizen/fsm/Inbox",
+         "parentModule": "",
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
       }
     
 	   
