@@ -13631,7 +13631,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCWD29LC7",
+                    "code": "RMCWD29LC8",
                     "area": "Area1",
                     "children": []
                   }
@@ -14718,18 +14718,6 @@
                   {
                     "id": "f3cabc5a-8596-4c4c-ad05-9863342fa176",
                     "boundaryNum": 1,
-                    "name": "Panshari Mohalla Soni Para",
-                    "localname": "Panshari Mohalla Soni Para",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "RMCWD43LC23",
-                    "area": "Area1",
-                    "children": []
-                  },
-                  {
-                    "id": "f3cabc5a-8596-4c4c-ad05-9863342fa176",
-                    "boundaryNum": 1,
                     "name": "Soni Para",
                     "localname": "Soni Para",
                     "longitude": null,
@@ -14798,6 +14786,18 @@
                     "code": "RMCWD43LC29",
                     "area": "Area1",
                     "children": []
+                  },
+                  {
+                    "id": "f3cabc5a-8596-4c4c-ad05-9863342fa176",
+                    "boundaryNum": 1,
+                    "name": "Panshari Mohalla Soni Para",
+                    "localname": "Panshari Mohalla Soni Para",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RMCWD43LC30",
+                    "area": "Area1",
+                    "children": []
                   }
                 ]
               },
@@ -14844,18 +14844,6 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "RMCWD44LC3",
-                    "area": "Area1",
-                    "children": []
-                  },
-                  {
-                    "id": "11448ad3-ff6a-4026-8d9a-d3d0cdb75680",
-                    "boundaryNum": 1,
-                    "name": "Nayapara",
-                    "localname": "Nayapara",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "RMCWD44LC1",
                     "area": "Area1",
                     "children": []
                   },
@@ -15086,6 +15074,18 @@
                     "code": "RMCWD44LC22",
                     "area": "Area1",
                     "children": []
+                  },
+                  {
+                    "id": "11448ad3-ff6a-4026-8d9a-d3d0cdb75680",
+                    "boundaryNum": 1,
+                    "name": "Nayapara",
+                    "localname": "Nayapara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RMCWD44LC23",
+                    "area": "Area1",
+                    "children": []
                   }
                 ]
               },
@@ -15107,7 +15107,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC1",
                     "area": "Area1",
                     "children": []
                   },
@@ -15119,7 +15119,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC2",
                     "area": "Area1",
                     "children": []
                   },
@@ -15131,7 +15131,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC3",
                     "area": "Area1",
                     "children": []
                   },
@@ -15143,7 +15143,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC4",
                     "area": "Area1",
                     "children": []
                   },
@@ -15155,7 +15155,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC5",
                     "area": "Area1",
                     "children": []
                   },
@@ -15167,7 +15167,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC6",
                     "area": "Area1",
                     "children": []
                   },
@@ -15179,7 +15179,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC7",
                     "area": "Area1",
                     "children": []
                   },
@@ -15191,7 +15191,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC8",
                     "area": "Area1",
                     "children": []
                   },
@@ -15203,7 +15203,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC9",
                     "area": "Area1",
                     "children": []
                   },
@@ -15215,7 +15215,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC10",
                     "area": "Area1",
                     "children": []
                   },
@@ -15227,7 +15227,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC11",
                     "area": "Area1",
                     "children": []
                   },
@@ -15239,7 +15239,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC12",
                     "area": "Area1",
                     "children": []
                   },
@@ -15251,7 +15251,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC13",
                     "area": "Area1",
                     "children": []
                   },
@@ -15263,7 +15263,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC14",
                     "area": "Area1",
                     "children": []
                   },
@@ -15275,7 +15275,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC15",
                     "area": "Area1",
                     "children": []
                   },
@@ -15287,7 +15287,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC16",
                     "area": "Area1",
                     "children": []
                   },
@@ -15299,7 +15299,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC17",
                     "area": "Area1",
                     "children": []
                   },
@@ -15311,7 +15311,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC18",
                     "area": "Area1",
                     "children": []
                   },
@@ -15323,7 +15323,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMCLWD45C1",
+                    "code": "RMCWD45LC19",
                     "area": "Area1",
                     "children": []
                   }
@@ -15606,18 +15606,6 @@
                   {
                     "id": "a8645f32-204d-401e-aa7c-6993cfff9624",
                     "boundaryNum": 1,
-                    "name": "Shelendra Nagar",
-                    "localname": "Shelendra Nagar",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "RMCWD57LC7",
-                    "area": "Area2",
-                    "children": []
-                  },
-                  {
-                    "id": "a8645f32-204d-401e-aa7c-6993cfff9624",
-                    "boundaryNum": 1,
                     "name": "Neta Ji Chauk",
                     "localname": "Neta Ji Chauk",
                     "longitude": null,
@@ -15756,6 +15744,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "RMCWD57LC19",
+                    "area": "Area2",
+                    "children": []
+                  },
+                  {
+                    "id": "a8645f32-204d-401e-aa7c-6993cfff9624",
+                    "boundaryNum": 1,
+                    "name": "Shelendra Nagar",
+                    "localname": "Shelendra Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RMCWD57LC20",
                     "area": "Area2",
                     "children": []
                   }
