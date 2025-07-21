@@ -14137,7 +14137,7 @@
          "url": "url",
          "name": "FSM Citizen INBOX",
          "enabled": true,
-         "navigationURL": "digit-ui/citizen/fsm/Inbox",
+         "navigationURL": "/digit-ui/citizen/fsm/Inbox",
          "parentModule": "",
          "serviceCode": "",
          "code": "null",
