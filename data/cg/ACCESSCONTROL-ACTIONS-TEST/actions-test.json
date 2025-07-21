@@ -14142,7 +14142,19 @@
          "serviceCode": "",
          "code": "null",
          "path": ""
-      }
+      },
+    {
+      "id": 2480,
+      "name": "FSM Property Search",
+      "url": "/fsm/rmcproperty/_rmcpropertybyid",
+      "displayName": "FSM Property Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "fsm",
+      "code": "null",
+      "path": ""
+    }
     
 	   
    ]
