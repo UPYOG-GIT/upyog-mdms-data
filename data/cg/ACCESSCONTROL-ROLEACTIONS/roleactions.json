@@ -26319,12 +26319,6 @@
       "tenantId": "cg"
     },
     {
-      "rolecode": "FSM_DRIVER",
-      "actionid": 2479,
-      "actioncode": "",
-      "tenantId": "cg"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 2480,
       "actioncode": "",
