@@ -14123,7 +14123,7 @@
          "url": "url",
          "name": "FSM DRIVER DASHBOARD",
          "enabled": true,
-         "navigationURL": "/digit-ui/citizen/driver-dashboard",
+         "navigationURL": "/digit-ui/citizen/fsm/driver-dashboard",
          "parentModule": "",
          "serviceCode": "",
          "code": "null",
