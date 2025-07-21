@@ -26317,6 +26317,24 @@
       "actionid": 2479,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2480,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2480,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2480,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
