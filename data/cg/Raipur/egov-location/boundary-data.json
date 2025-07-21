@@ -2324,7 +2324,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMWD30CLC1",
+                    "code": "RMWD30LC1",
                     "area": "Area1",
                     "children": []
                   },
@@ -2336,7 +2336,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMWD30CLC2",
+                    "code": "RMWD30LC2",
                     "area": "Area1",
                     "children": []
                   },
@@ -2348,7 +2348,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMWD30CLC3",
+                    "code": "RMWD30LC3",
                     "area": "Area1",
                     "children": []
                   },
@@ -2360,7 +2360,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMWD30CLC4",
+                    "code": "RMWD30LC4",
                     "area": "Area1",
                     "children": []
                   },
@@ -2372,7 +2372,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMWD30CLC5",
+                    "code": "RMWD30LC5",
                     "area": "Area1",
                     "children": []
                   },
@@ -2384,7 +2384,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMWD30CLC6",
+                    "code": "RMWD30LC6",
                     "area": "Area1",
                     "children": []
                   },
@@ -2396,7 +2396,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "RMWD30CLC7",
+                    "code": "RMWD30LC7",
                     "area": "Area1",
                     "children": []
                   }
