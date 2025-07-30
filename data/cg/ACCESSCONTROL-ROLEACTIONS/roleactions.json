@@ -12472,6 +12472,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "FSM_DRIVER",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1832,
       "actioncode": "",
