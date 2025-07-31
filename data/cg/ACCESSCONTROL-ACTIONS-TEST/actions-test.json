@@ -14154,6 +14154,17 @@
       "serviceCode": "fsm",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2481,
+      "name": "FSM-DailyDesludingReport-Metadata",
+      "url": "/report/fsm/FSMDailyDesludingReport/metadata/_get",
+      "displayName": "FSM Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "DAILYDESLUDINGREPORT",
+      "code": "null",
+      "path": "FSM Report"
     }
     
 	   
