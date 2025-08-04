@@ -24429,6 +24429,12 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+    {
+      "rolecode": "FSM_DRIVER",
+      "actionid": 2071,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
      {
       "rolecode": "PGR_LME",
       "actionid": 1527,
