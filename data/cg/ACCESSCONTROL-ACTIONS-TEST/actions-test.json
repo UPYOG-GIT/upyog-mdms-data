@@ -14165,7 +14165,21 @@
       "serviceCode": "DAILYDESLUDINGREPORT",
       "code": "null",
       "path": "FSM Report"
-    }
+    },
+      {
+         "id": 2482,
+         "displayName": "FSMRegistry",
+         "orderNumber": 0,
+         "leftIcon": "",
+         "url": "url",
+         "name": "FSM Registry",
+         "enabled": true,
+         "navigationURL": "/fsm-ui/employee/fsm/registry",
+         "parentModule": "",
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      }
     
 	   
    ]
