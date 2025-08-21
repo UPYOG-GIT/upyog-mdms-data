@@ -26353,6 +26353,12 @@
       "actionid": 2481,
       "actioncode": "",
       "tenantId": "cg"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2482,
+      "actioncode": "",
+      "tenantId": "cg"
     }
 	  
   ]
