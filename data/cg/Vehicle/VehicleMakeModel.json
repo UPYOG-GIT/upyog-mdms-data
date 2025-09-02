@@ -5,12 +5,12 @@
         {
             "code": "MAHINDRA",
             "name": "Mahindra",
-            "active": true
+            "active": false
         },
         {
             "code": "MAHINDRA.BOLERO_PICKUP",
             "name": "Bolero Pickup",
-            "active": true,
+            "active": false,
             "make": "MAHINDRA",
             "capacity": "1000",
             "amount": "750"
@@ -20,10 +20,26 @@
             "name": "TATA",
             "active": true
         },
+		{
+            "code": "TATA.JETING_MC",
+            "name": "Suction Cum Jeting MC",
+            "active": true,
+            "make": "TATA",
+            "capacity": "10000 Ltrs",
+            "amount": "500"
+        },
+        {
+            "code": "TATA.MC",
+            "name": "Suction MC",
+            "active": true,
+            "make": "TATA",
+            "capacity": "9000 Ltrs",
+            "amount": "200"
+        },
         {
             "code": "TATA.LPT709/34",
             "name": "TATA LPT709/34",
-            "active": true,
+            "active": false,
             "make": "TATA",
             "capacity": "3000",
             "amount": "1000"
@@ -31,7 +47,7 @@
         {
             "code": "TATA.407",
             "name": "TATA 407",
-            "active": true,
+            "active": false,
             "make": "TATA",
             "capacity": "3000",
             "amount": "1000"
@@ -42,9 +58,17 @@
             "active": true
         },
         {
+            "code": "TRACTOR.TRACTOR_TOE",
+            "name": "Tractor Toe Suction MC",
+            "active": true,
+            "make": "TRACTOR",
+            "capacity": "3000 Ltrs",
+            "amount": "100"
+        },
+        {
             "code": "TRACTOR.SWARAJ_735",
             "name": "Tracktor Swaraj 735",
-            "active": true,
+            "active": false,
             "make": "SONALIKA",
             "capacity": "3000",
             "amount": "1000"
@@ -52,12 +76,12 @@
 		{
             "code": "TAFE",
             "name": "TAFE",
-            "active": true
+            "active": false
         },
         {
             "code": "TAFE.TRACTOR_45DI",
             "name": "TAFE Tractor 45DI",
-            "active": true,
+            "active": false,
             "make": "TAFE",
             "capacity": "10000",
             "amount": "1000"
@@ -65,12 +89,12 @@
         {
             "code": "SONALIKA",
             "name": "Sonalika",
-            "active": true
+            "active": false
         },
         {
             "code": "SONALIKA.TRACTOR_35DI",
             "name": "Sonalika Tractor 35DI",
-            "active": true,
+            "active": false,
             "make": "SONALIKA",
             "capacity": "8000",
             "amount": "1000"
