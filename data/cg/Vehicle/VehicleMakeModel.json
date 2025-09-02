@@ -3,19 +3,6 @@
     "moduleName": "Vehicle",
     "VehicleMakeModel": [
         {
-            "code": "MAHINDRA",
-            "name": "Mahindra",
-            "active": false
-        },
-        {
-            "code": "MAHINDRA.BOLERO_PICKUP",
-            "name": "Bolero Pickup",
-            "active": false,
-            "make": "MAHINDRA",
-            "capacity": "1000",
-            "amount": "750"
-        },
-        {
             "code": "TATA",
             "name": "TATA",
             "active": true
@@ -37,22 +24,6 @@
             "amount": "200"
         },
         {
-            "code": "TATA.LPT709/34",
-            "name": "TATA LPT709/34",
-            "active": false,
-            "make": "TATA",
-            "capacity": "3000",
-            "amount": "1000"
-        },
-        {
-            "code": "TATA.407",
-            "name": "TATA 407",
-            "active": false,
-            "make": "TATA",
-            "capacity": "3000",
-            "amount": "1000"
-        },
-        {
             "code": "TRACTOR",
             "name": "Tractor",
             "active": true
@@ -64,40 +35,6 @@
             "make": "TRACTOR",
             "capacity": "3000 Ltrs",
             "amount": "100"
-        },
-        {
-            "code": "TRACTOR.SWARAJ_735",
-            "name": "Tracktor Swaraj 735",
-            "active": false,
-            "make": "SONALIKA",
-            "capacity": "3000",
-            "amount": "1000"
-        },
-		{
-            "code": "TAFE",
-            "name": "TAFE",
-            "active": false
-        },
-        {
-            "code": "TAFE.TRACTOR_45DI",
-            "name": "TAFE Tractor 45DI",
-            "active": false,
-            "make": "TAFE",
-            "capacity": "10000",
-            "amount": "1000"
-        },
-        {
-            "code": "SONALIKA",
-            "name": "Sonalika",
-            "active": false
-        },
-        {
-            "code": "SONALIKA.TRACTOR_35DI",
-            "name": "Sonalika Tractor 35DI",
-            "active": false,
-            "make": "SONALIKA",
-            "capacity": "8000",
-            "amount": "1000"
         }
     ]
 }
