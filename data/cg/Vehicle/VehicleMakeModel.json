@@ -13,7 +13,8 @@
             "active": true,
             "make": "TATA",
             "capacity": "10000 Ltrs",
-            "amount": "500"
+            "amount": "500",
+			"imgUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/image/upload/vehicle_4500.jpeg"
         },
         {
             "code": "TATA.MC",
@@ -21,7 +22,8 @@
             "active": true,
             "make": "TATA",
             "capacity": "9000 Ltrs",
-            "amount": "200"
+            "amount": "200",
+			"imgUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/image/upload/vehicle_4500.jpeg"
         },
         {
             "code": "TRACTOR",
@@ -34,7 +36,8 @@
             "active": true,
             "make": "TRACTOR",
             "capacity": "3000 Ltrs",
-            "amount": "100"
+            "amount": "100",
+			"imgUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/image/upload/vehicle_3000.jpeg"
         }
     ]
 }
