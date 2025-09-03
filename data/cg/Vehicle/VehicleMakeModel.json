@@ -12,7 +12,7 @@
             "name": "Suction Cum Jeting MC",
             "active": true,
             "make": "TATA",
-            "capacity": "10000 Ltrs",
+            "capacity": "10000",
             "amount": "500",
 			"imgUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/image/upload/vehicle_4500.jpeg"
         },
@@ -21,7 +21,7 @@
             "name": "Suction MC",
             "active": true,
             "make": "TATA",
-            "capacity": "9000 Ltrs",
+            "capacity": "9000",
             "amount": "200",
 			"imgUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/image/upload/vehicle_4500.jpeg"
         },
@@ -35,7 +35,7 @@
             "name": "Tractor Toe Suction MC",
             "active": true,
             "make": "TRACTOR",
-            "capacity": "3000 Ltrs",
+            "capacity": "3000",
             "amount": "100",
 			"imgUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/image/upload/vehicle_3000.jpeg"
         }
