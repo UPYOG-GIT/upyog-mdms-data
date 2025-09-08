@@ -14174,7 +14174,7 @@
          "url": "url",
          "name": "FSM Registry",
          "enabled": true,
-         "navigationURL": "/fsm-ui/employee/fsm/registry",
+         "navigationURL": "/digit-ui/employee/fsm/registry",
          "parentModule": "",
          "serviceCode": "",
          "code": "null",
