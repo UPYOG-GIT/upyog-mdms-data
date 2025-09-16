@@ -41,6 +41,12 @@
                 "type": "textarea",
                 "validation": {},
                 "name": "registrationDetails"
+              },
+              {
+                "label": "BPA_PROPERTY_TAX_ID_LABEL",
+                "type": "text",
+                "validation": {},
+                "name": "propertyId"
               }
             ]
           },
