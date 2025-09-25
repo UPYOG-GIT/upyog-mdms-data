@@ -49,23 +49,11 @@
    {
       "module": "Finance",
       "code": "Finance",
-      "active": false,
+      "active": true,
       "order":4,
       "tenants": [
         {
           "code": "cg.citya"
-        },
-        {
-          "code": "cg.cityb"
-        },
-        {
-          "code": "cg.cityc"
-        },
-        {
-          "code": "cg.cityd"
-        },
-        {
-          "code": "cg.citye"
         }
       ]
     },
