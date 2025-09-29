@@ -14179,6 +14179,17 @@
          "serviceCode": "",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2483,
+         "name": "BPA-Property Id update",
+         "url": "/bpa-services/v1/bpa/_updatepropertyid",
+         "displayName": "Update",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "BPA",
+         "code": "null",
+         "path": ""
       }
     
 	   
