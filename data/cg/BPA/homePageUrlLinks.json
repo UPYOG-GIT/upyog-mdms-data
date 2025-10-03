@@ -16,6 +16,9 @@
         "WFState": "INITIATED",
         "flow": "OCBPA",
         "active":true
+      },{
+        "link": "/bpa/pt_update",
+        "active":true
       }
     ]
   }
