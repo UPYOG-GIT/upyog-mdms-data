@@ -4,23 +4,28 @@
     "PaymentGateway": [
         {
             "gateway": "AXIS",
-            "active": false
+            "active": false,
+            "module": ""
         },
         {
             "gateway": "PAYGOV",
-            "active": false
+            "active": false,
+            "module": ""
         },
         {
             "gateway": "PAYU",
-            "active": false
+            "active": false,
+            "module": ""
         },
         {
             "gateway": "CCAVENUE",
-            "active": true
+            "active": true,
+            "module": "BPA"
         },
         {
             "gateway": "RAZORPAY",
-            "active": false
+            "active": false,
+            "module": "FSm"
         }
     ]
 }
