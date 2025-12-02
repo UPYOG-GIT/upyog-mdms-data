@@ -17,6 +17,10 @@
         {
             "gateway": "CCAVENUE",
             "active": true
+        },
+        {
+            "gateway": "RAZORPAY",
+            "active": true
         }
     ]
 }
