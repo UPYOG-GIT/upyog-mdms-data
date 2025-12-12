@@ -10971,6 +10971,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+    {
       "rolecode": "BPAREG_APPROVER",
       "actionid": 1730,
       "actioncode": "",
