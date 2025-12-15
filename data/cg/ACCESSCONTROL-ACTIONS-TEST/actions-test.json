@@ -14190,6 +14190,18 @@
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2484,
+         "name": "PGService Transaction Delete",
+         "url": "/pg-service/transaction/v1/_deleteTransaction",
+         "displayName": "Transaction Delete",
+         "orderNumber": 0,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "pg-service",
+         "code": "null",
+         "path": ""
       }
     
 	   
