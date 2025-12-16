@@ -24,7 +24,7 @@
         },
         {
             "gateway": "RAZORPAY",
-            "active": false,
+            "active": true,
             "module": "FSM"
         }
     ]
