@@ -115,8 +115,8 @@
     },
     {
       "code": "cg.citya",
-      "name": "Guwahati",
-      "description": "Guwahati",
+      "name": "Citya",
+      "description": "Citya",
       "logoId":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HCM.png",
 	  "logoId1":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/HUADM.png",
 	  "logoId2":"https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/bhilaicharoda_logo.png",
@@ -132,9 +132,9 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Guwahati",
+        "name": "Citya",
         "localName": null,
-        "districtCode": "Guwahati",
+        "districtCode": "Citya",
         "districtName": null,
         "districtTenantCode": "cg.citya",
         "regionName": null,
@@ -146,7 +146,7 @@
         "code": "105",
         "ddrName": "CITYA TEST"
       },
-      "address": "Guwahati Municipal Corporation Address",
+      "address": "Citya Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
