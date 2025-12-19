@@ -15597,6 +15597,12 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+	{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2002,
