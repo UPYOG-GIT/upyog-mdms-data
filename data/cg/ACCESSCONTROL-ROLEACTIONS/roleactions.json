@@ -16599,6 +16599,12 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+	{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 2041,
@@ -16671,6 +16677,12 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+	{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 2042,
@@ -16737,6 +16749,12 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+	{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 2043,
@@ -16800,6 +16818,12 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+	{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2044,
       "actioncode": "",
       "tenantId": "cg"
     },
