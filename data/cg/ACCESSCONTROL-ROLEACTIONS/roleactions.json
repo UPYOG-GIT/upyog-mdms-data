@@ -25857,6 +25857,12 @@
       "tenantId": "cg"
     },
     {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+	  {
       "rolecode": "BPA_COMMISSIONER",
       "actionid": 1930,
       "actioncode": "",
