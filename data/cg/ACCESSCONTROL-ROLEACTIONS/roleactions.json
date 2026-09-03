@@ -25484,6 +25484,24 @@
       "actioncode": "",
       "tenantId": "cg"
     },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2485,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+	{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2486,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
+	{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2487,
+      "actioncode": "",
+      "tenantId": "cg"
+    },
 	  {
       "rolecode": "CITIZEN",
       "actionid": 2427,
