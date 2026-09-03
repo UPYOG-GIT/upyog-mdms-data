@@ -13491,6 +13491,32 @@
       {
          "id": 2485,
          "name": "MisLabourDepartmentPaymentReport",
+         "url": "url",
+         "displayName": "MisLabourDepartmentPaymentReport",
+         "orderNumber": 5,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "HRMS.Search Employee",
+         "navigationURL": "report/rainmaker-bpa/MisLabourDepartmentPaymentReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 2486,
+         "name": "MisLabourDepartmentPaymentReport",
+         "url": "/report/rainmaker-bpa/MisLabourDepartmentPaymentReport/metadata/_get",
+         "displayName": "MisLabourDepartmentPaymentReport",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "MisLabourDepartmentPaymentReport",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2487,
+         "name": "MisLabourDepartmentPaymentReport",
          "url": "/report/rainmaker-bpa/MisLabourDepartmentPaymentReport/_get",
          "displayName": "MisLabourDepartmentPaymentReport",
          "orderNumber": 0,
