@@ -14,8 +14,8 @@
         },
         {
             "gateway": "PAYU",
-            "active": true,
-            "module": "BPA"
+            "active": false,
+            "module": ""
         },
         {
             "gateway": "CCAVENUE",
